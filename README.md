@@ -1,4 +1,5 @@
-# Digital Humanities 150 : UX project 
+# Fitness for All: Making Fitness Fun and Accessible at All Ages and at All Times 
+## *Alix Le Boterff, Digital Humanities 150: UX/UI Design, Fall 2020 *
 
 ![people running a marathon](./running.jpg)
 *credit: RUN 4 FFWPU on Pexels*
