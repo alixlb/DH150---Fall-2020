@@ -10,4 +10,4 @@ While my project is not set in stone the fitness topic is as I believe that bein
 
 ## Competitive Analysis & Heuristic Evaluation
 
-The first step of the project was to look at websites focused on the same subject as I am doing - fitness and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, YMCA 360, that sources videos from their gyms across the country and tries to meet the needs of all age groups. 
+The first step of the project was to look at websites focused on the same subject as I am doing - fitness and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. 
