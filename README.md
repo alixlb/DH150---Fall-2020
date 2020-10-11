@@ -9,6 +9,10 @@ This quarter's goal is to create a UX product that promotes well-being for middl
 
 While my project is not set in stone the fitness topic is as I believe that being active is an essential part to well-being. It can often times be a pleasureful experience that helps feel happier overall and more concentrated and energetic. 
 
+## Community Contribution through this UX design
+
+Through my UX design project, I hope to impact the lives of mid-age women (and potentially others) by offering an easy and seamless experience for people to find fitness programs/classes/exercises that fit into their schedule and help them stay in good health both physically and mentally. I also hope to incorporate a social aspect to this app to create a community around the topic of fitness habits. 
+
 ## Competitive Analysis & Heuristic Evaluation
 
 The first step of the project was to look at websites focused on the same subject as I am doing - fitness and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. 
