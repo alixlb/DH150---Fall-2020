@@ -14,8 +14,8 @@
 ## Recap of Severity Ratings of Both Apps:
 
 #### App 1
-|1. Visibility of system status|2. Match between system and real world|
-|------------------------------|--------------------------------------|
-|numbers                       |   numbers                            |
+|1. Visibility |2. Match  |3. User Control|4.Consistency|
+|--------------|----------|---------------|-------------|
+|number        |number    |number         |number       |
 
 ## Overall Evaluation and Comments:
