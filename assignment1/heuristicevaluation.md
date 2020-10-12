@@ -17,9 +17,11 @@ The YMCA 360 is an app that was put in place during COVID-19 by the YMCA gyms ar
 |![YMCA 360 - Core Conditionning Page](./360core.png)|**YMCA 360 - Page for Core Conditionning Exercises only**|
 |![YMCA 360 - Video](./360video.png)|**YMCA 360 - Workout Video** |
 
-|YMCA 360 - Home Page|YMCA 360 - Category Page|YMCA 360 - Page for Core Conditionning Exercises only|YMCA 360 - Workout Video|
-|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|![YMCA 360 - Home Page](./360home.png)|![YMCA 360 - Category Page](./360category.png)|![YMCA 360 - Core Conditionning Page](./360core.png)|![YMCA 360 - Video](./360video.png)|
+|YMCA 360 - Home Page                                          |YMCA 360 - Category Page                                      |
+|--------------------------------------------------------------|--------------------------------------------------------------|
+|![YMCA 360 - Home Page](./360home.png)                        |![YMCA 360 - Category Page](./360category.png)                |
+|**YMCA 360 - Page for Core Conditionning Exercises only**     |**YMCA 360 - Workout Video**                                  |
+|![YMCA 360 - Core Conditionning Page](./360core.png)          |![YMCA 360 - Video](./360video.png)                           |
 
 ### Yoga for Beginners
 
