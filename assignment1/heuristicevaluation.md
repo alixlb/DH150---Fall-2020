@@ -31,8 +31,10 @@ My overall first impression was that it was a clean interface but lacked easy wa
 ## Heuristic Evaluation:
 
 ### 1. Visibility of system status
-#### YMCA 360
-> sghfjdg
+#### YMCA 360 (2) 
+> The YMCA 360 had not an optimal visibility of system status. While it responded correctly and almost instantaneously to every command performed, it did not update the users on what is going on. A perfect example is that the biggest button on the home page is ***new releases*** which gives a feedback to the user to go check out new videos that have just came out. However, once you click it, you finally get an update from YMCA saying that, *There are no videos left in this category!*. However, it is too late of a feedback as the user has already had to click on the first button to get to their page. 
+The YMCA 360 does however, when lagging on some feedback when it is loading a page as it has a round icon spinning to show it is processing the request. While the overall the visibility of system status. of the site is correct, it could be more performant and transparent to the users about current updates in content. 
+
 #### Yoga For Beginners
 > sghfjdg
 
