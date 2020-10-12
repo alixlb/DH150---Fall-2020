@@ -11,30 +11,17 @@ I choose these two as one is a website and one is an app so I can compare the di
 ### YMCA 360
 The YMCA 360 is an app that was put in place during COVID-19 by the YMCA gyms around the U.S. to allow users of their gyms to still get the workout classes at all times at home. On top of the online free pre-recorded classes which I focus my evaluation on, you could also get live small group and one on one coaching all virtual as well. 
 
-|![YMCA 360 - Home Page](./360home.png)                           |**YMCA 360 - Home Page**|
-|-----------------------------------------------------------------|------------------------|
-|![YMCA 360 - Category Page](./360category.png)                   |**YMCA 360 - Category Page** |
-
-
-
-
-![YMCA 360 - Core Conditionning Page](./360core.png)
-###### YMCA 360 - Page for Core Conditionning Exercises only
-
-![YMCA 360 - Video](./360video.png)
-###### YMCA 360 - Workout Video
+|![YMCA 360 - Home Page](./360home.png)             |**YMCA 360 - Home Page**     |
+|---------------------------------------------------|-----------------------------|
+|![YMCA 360 - Category Page](./360category.png)     |**YMCA 360 - Category Page** |
+|![YMCA 360 - Core Conditionning Page](./360core.png)|**YMCA 360 - Page for Core Conditionning Exercises only**|
+|![YMCA 360 - Video](./360video.png)                |**YMCA 360 - Workout Video** |
 
 ### Yoga for Beginners
 
-|Yoga for Beginners- Home Page|Yoga for Beginners - Page that recaps all the poses that the users will do during that session|
-|----------------------------------------------|---------------------------------------------------|
-|![Yoga for Beginners - Home Page](./yhome.PNG)|![Yoga for Beginners - Category Page](./yposes.PNG)|
-
-![Yoga for Beginners - Core Conditionning Page](./yvideo.PNG)
-###### Yoga for Beginners - Workout Video
-
-![Yoga for Beginners - Video](./ycalendar.PNG)
-###### Yoga for Beginners - Calendar to keep track of the sessions users do
+|Yoga for Beginners- Home Page|Yoga for Beginners - Page that recaps all the poses that the users will do during that session|Yoga for Beginners - Workout Video|Yoga for Beginners - Calendar to keep track of the sessions users do|
+|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|![Yoga for Beginners - Home Page](./yhome.PNG)|![Yoga for Beginners - Category Page](./yposes.PNG)|![Yoga for Beginners - Core Conditionning Page](./yvideo.PNG)|![Yoga for Beginners - Video](./ycalendar.PNG)|
 
 
 ## Heuristic Evaluation:
