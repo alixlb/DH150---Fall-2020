@@ -81,26 +81,31 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### YMCA 360 (1) 
 > The YMCA 360 site in itself has very little flexibily nd efficiency of use as it does not allow for shortcuts on the first page to for instance get to the videos for pilates. Everytime you want a workout video you need to follow the same long journey *home --> category ---> page for that type of exercise --> video page*. It has also no search bar for people to save time and type the exact video they want. 
 
-The only place the site has some flexibility and efficiency of use is on the videos themselves. Users can play and stop the video by clicking the the button with the play symbol in the bottom left corner or just by clicking their space bar. They can also go back and forth on the videos with the arrow on the keyboard but this is an inflexible shortcut as people on tablets and smartphones cannot use that command. 
+> The only place the site has some flexibility and efficiency of use is on the videos themselves. Users can play and stop the video by clicking the the button with the play symbol in the bottom left corner or just by clicking their space bar. They can also go back and forth on the videos with the arrow on the keyboard but this is an inflexible shortcut as people on tablets and smartphones cannot use that command. 
 
 #### Yoga For Beginners
 > sghfjdg
 
 ### 8. Aesthetic and minimalist design
-#### YMCA 360
-> sghfjdg (bolded even when small) 
+#### YMCA 360 (3)
+> The overall aesthetic of the website is perfect as it does not over power the usability aspect of it and makes you want to click. The color and font scheme work well together and the images are in high definition. The only problem is the fact that the descriptions for the videos about the instructor, level of intensity etc. are in small font but are bolded which makes it hard sometimes for reader to read it, especially older users. 
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 9. Help users recognize, diagnose, and recover from errors
-#### YMCA 360
-> sghfjdg
+#### YMCA 360 (2) 
+> Most of the YCMA 360 site leaves little space for errors in the first place however in the places with possible errors it does give instructions on where the error is. For instance in log in area, when you input the information wrong it sends a red message with instructions on how to fix it and in the new releases page with no videos it has a sign with an explamation point to highlight there is no videos and is the only page that has the ability on the page to go back to see the categories.
+
+> While it is good at recognizing and diagonsing the errors and infroming users on how to correct them, it does not actually allow them sometimes to go back and fix these errors without having to click on the arrows offered by your web browser. 
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 10. Help and documentation
-#### YMCA 360
-> sghfjdg
+#### YMCA 360 (2)
+> The YMCA 360 site has a FAQ page which is extensive and very useful however, it can be hard to users to find. You see it appear on the home page and in small font on the contact page nut when on other pages, the only way to access it is to scroll all the way to the bottom and see it hidden in small in between a lot of link to pages you would never use. Hence it is not something logic to find for the user and inefficent. I recommend making it more easy to find at all times. 
+
 #### Yoga For Beginners
 > sghfjdg
 
@@ -109,11 +114,11 @@ The only place the site has some flexibility and efficiency of use is on the vid
 #### YMCA 360
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
 |--------------|----------|---------------|--------------|-------------------|
-|number        |number    |number         |number        |number             |
+|2             |2         |1              |3             |3                  |
 
 |6. Recognition |7. Flexibility|8. Aesthetic |9. Recover errors|10. Documentation|
 |---------------|--------------|-------------|-----------------|-----------------|
-|number         |number        |number       |number           |number           |
+|1              |1             |3            |2                |2                |
 
 #### Yoga For Beginners
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
