@@ -36,7 +36,7 @@ My overall first impression was that it was a clean interface but lacked easy wa
 The YMCA 360 does however, when lagging on some feedback when it is loading a page as it has a round icon spinning to show it is processing the request. While the overall the visibility of system status. of the site is correct, it could be more performant and transparent to the users about current updates in content. 
 
 ![YMCA 360 - new releases page](./360newreleases.png)
-####### This image highlights the complex jargon used by the website
+###### This image shows how when you click on new releases on the front page it leads you to an empty page
 
 #### Yoga For Beginners
 > sghfjdg
@@ -47,12 +47,17 @@ The YMCA 360 does however, when lagging on some feedback when it is loading a pa
 The only downside is they use a lot of complex fitness jargon such as *bootcamp, core conditioning, Y box* which your average user might not know what to expect from. They should avoid using those words ad possibly also allow filters to have more options such as *ab workout, leg exercises* that are easier words the user might want to use to explain their needs and find the workout they had in mind. 
 
 ![YMCA 360 - complex fitness jargon](./3602.png)
+###### This image highlights the complex jargon used by the website
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 3. User control and freedom 
 #### YMCA 360 (3) 
-> The YMCA 360 site needs to work a lot more on user control and freedom as you cannot simply exii pages and videos from their site. The only way is through go back a page arrows on your web browser. Additionally, on the videos themselves, you cannot fast foward or go back a couple steps easily. While on a computer it might be easier because you can click on the timeline and drag the cursor back, on the tablet or smartphone with fingers, the website is not as receptive. Hence the user freedom feels very limited and the site is not thought out for it. 
+> The YMCA 360 site needs to work a lot more on user control and freedom as you cannot simply exit pages and videos from their site. The only way is through go back a page arrows on your web browser. Additionally, on the videos themselves, you cannot fast foward or go back a couple steps easily. While on a computer it might be easier because you can click on the timeline and drag the cursor back, on the tablet or smartphone with fingers, the website is not as receptive. Hence the user freedom feels very limited and the site is not thought out for it. 
+
+![YMCA 360 - lack of user control](./3603.png)
+###### This image shows how on the video pages there is no way to go back
 
 #### Yoga For Beginners
 > sghfjdg
@@ -60,6 +65,9 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ### 4. Consistency and standards
 #### YMCA 360 (1) 
 > The YMCA 360 website is constistent within itself and with the standards for these types of website. The only small difference they have is how they right the time on each video. On most platforms, they will simply put how many minutes or hour. In this case, each video has the same template which is *h:mm:ss*, which is very strange and feels unnatural compared to regular website as a 2 minute video is writen out with a lot of zero such as *0:02:03*. 
+
+![YMCA 360 - timing on video looking unusal](./3604.png)
+###### This image highlights how the way time is presented is unusual for a fitness website
 
 #### Yoga For Beginners
 > sghfjdg
@@ -69,12 +77,19 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 > The YMCA 360 site leave little room for error in contrast to other sites as has no search bar (so you can't mess up typing) and most are clickable links that have always the right video behind them. The only except is the current *new release* page that has no video on it and the site gives you no warning about that. 
 It does also prevent you from making mistakes when signing in as it lets you know if you got the password wrong for example. 
 
+|![YMCA 360 - Error Prevention](./3605.png)|![YMCA 360 - new releases page](./360newreleases.png)|
+|------------------------------------------|------------------------------------------|
+|*These images highlightshow how you can click on the new release button on the home page and then land of an page with no content*|
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 6. Recognition rather than recall
 #### YMCA 360 (3) 
 > The YMCA site fails to offer recognition opportunities to its users. For example, even when logged into an account, the YMCA does not let you see your search history on the website (for instance the last 3 videos workouts you did). While it does offer favorites when logged in, it doesnt have a button on the top bar to access them easily and remind you that you have favored some videos. Hence your favorites are very hard to access as they are not also for example in a *favorite category* on the *category page*. 
+
+![YMCA 360 - no favorite or search bar](./3606.png)
+###### This image highlights that there is no favorite tab on the navigation bar or opportunity to search a video easily
 
 #### Yoga For Beginners
 > sghfjdg
@@ -85,12 +100,19 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 
 > The only place the site has some flexibility and efficiency of use is on the videos themselves. Users can play and stop the video by clicking the the button with the play symbol in the bottom left corner or just by clicking their space bar. They can also go back and forth on the videos with the arrow on the keyboard but this is an inflexible shortcut as people on tablets and smartphones cannot use that command. 
 
+![YMCA 360 - no shortcut so speed up or slow down the video](./3607.png)
+###### This image highlights the lack of a shortcut to speed of the video or to rewind a couple of secounds
+
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 8. Aesthetic and minimalist design
 #### YMCA 360 (1)
 > The overall aesthetic of the website is perfect as it does not over power the usability aspect of it and makes you want to click. The color and font scheme work well together and the images are in high definition. The only problem is the fact that the descriptions for the videos about the instructor, level of intensity etc. are in small font but are bolded which makes it hard sometimes for reader to read it, especially older users. 
+
+![YMCA 360 - no shortcut so speed up or slow down the video](./3608.png)
+###### This image shows how hard it can be to read the description due to the bolded text
 
 #### Yoga For Beginners
 > sghfjdg
@@ -99,7 +121,12 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### YMCA 360 (2) 
 > Most of the YCMA 360 site leaves little space for errors in the first place however in the places with possible errors it does give instructions on where the error is. For instance in log in area, when you input the information wrong it sends a red message with instructions on how to fix it and in the new releases page with no videos it has a sign with an explamation point to highlight there is no videos and is the only page that has the ability on the page to go back to see the categories.
 
-> While it is good at recognizing and diagonsing the errors and infroming users on how to correct them, it does not actually allow them sometimes to go back and fix these errors without having to click on the arrows offered by your web browser. 
+> While it is good at recognizing and diagonsing the errors and infroming users on how to correct them, it does not actually allow them sometimes to go back and fix these errors without having to click on the arrows offered by your web browser.
+
+>However, the site does have a great and easy to use contact form which you can use even if you dont have an account. 
+
+![YMCA 360 - contact form](./3609.png)
+###### This image shows the contact form page
 
 #### Yoga For Beginners
 > sghfjdg
@@ -107,6 +134,9 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ### 10. Help and documentation
 #### YMCA 360 (2)
 > The YMCA 360 site has a FAQ page which is extensive and very useful however, it can be hard to users to find. You see it appear on the home page and in small font on the contact page nut when on other pages, the only way to access it is to scroll all the way to the bottom and see it hidden in small in between a lot of link to pages you would never use. Hence it is not something logic to find for the user and inefficent. I recommend making it more easy to find at all times. 
+
+![YMCA 360 - contact form](./36010.png)
+###### This image highlights the fact that on a video page you cannot see the FAQ button at any point
 
 #### Yoga For Beginners
 > sghfjdg
