@@ -36,6 +36,7 @@ My overall first impression was that it was a clean interface but lacked easy wa
 The YMCA 360 does however, when lagging on some feedback when it is loading a page as it has a round icon spinning to show it is processing the request. While the overall the visibility of system status. of the site is correct, it could be more performant and transparent to the users about current updates in content. 
 
 ![YMCA 360 - new releases page](./360newreleases.png)
+####### This image highlights the complex jargon used by the website
 
 #### Yoga For Beginners
 > sghfjdg
@@ -45,6 +46,7 @@ The YMCA 360 does however, when lagging on some feedback when it is loading a pa
 > For the most part, the YMCA 360 site does a good job at matching the system with the real world. It uses icons like the play button, heart button, social media icons, that are knows by most. It also uses a simple scroll and click interface making using it effortless. 
 The only downside is they use a lot of complex fitness jargon such as *bootcamp, core conditioning, Y box* which your average user might not know what to expect from. They should avoid using those words ad possibly also allow filters to have more options such as *ab workout, leg exercises* that are easier words the user might want to use to explain their needs and find the workout they had in mind. 
 
+![YMCA 360 - complex fitness jargon](./3602.png)
 #### Yoga For Beginners
 > sghfjdg
 
