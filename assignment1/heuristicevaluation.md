@@ -6,16 +6,20 @@
 
 The first step of the project was to look at websites focused on the same subject as this project,fitness, and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. I also choose the app, [Yoga For Beginners](https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
 
-I choose these two as one is a website and one is an app so I can compare the differences in how each work and the pros and cons. As well, both are targeted for all age groups with levels of intensity that differ, which would allow middle-age women to find a choose a course that fit their needs. 
+I choose these two as one is a website and one is an app so I can compare the differences in how each work and the pros and cons. As well, both are targeted for all age groups with levels of intensity that differ, which would allow middle-age women to find and choose a course that fit their needs. 
 
 ### YMCA 360
 The YMCA 360 is an app that was put in place during COVID-19 by the YMCA gyms around the U.S. to allow users of their gyms to still get the workout classes at all times at home. On top of the online free pre-recorded classes which I focus my evaluation on, you could also get live small group and one on one coaching all virtual as well. 
+
+I started my overall evaluation by going through the easiest task of all and the one most of their users must do : find a workout video and play it. I first started on the ***home page***. This page was easy to navigate and overall minimalistics with high quality images. I quickly found the button to click on to see their videos and landed on the ***category page***. I then clicked on one of the boxes that was clearly labeled and landed on a ***product page*** with all the videos for core conditioning which was the type of workout I was looking for. I was then able to pick knowing the length of the workout video, the intensity and the instructor. I then clicked on the one I wanted and finally landed on the ***work-out video***. I then got to play it and put it full screen to follow along the workout. 
 
 |YMCA 360 - Home Page                                          |YMCA 360 - Category Page                                      |
 |--------------------------------------------------------------|--------------------------------------------------------------|
 |![YMCA 360 - Home Page](./360home.png)                        |![YMCA 360 - Category Page](./360category.png)                |
 |**YMCA 360 - Page for Core Conditionning Exercises only**     |**YMCA 360 - Workout Video**                                  |
 |![YMCA 360 - Core Conditionning Page](./360core.png)          |![YMCA 360 - Video](./360video.png)                           |
+
+My overall first impression was that it was a clean interface but lacked easy ways to access videos I wanted right away. I had to go through 3 other pages before getting to this video and could not put it for example in my favorites for next time. I also felt that while it was very simple to navigate through it was hard to find some options (e.g. to get a page with all the videos and filter them you had to click on *home--->categories* and then scrool down and click *all videos* to end up on that page. While at first, I thought the website looked amazingly done, I realize that the behind the well thoughtout aesthetic there was some flaws with the ease of use and of finding what is needed quickly. 
 
 ### Yoga for Beginners
 
