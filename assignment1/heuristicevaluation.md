@@ -49,21 +49,21 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 > sghfjdg
 
 ### 3. User control and freedom 
-#### YMCA 360 (1) 
+#### YMCA 360 (3) 
 > The YMCA 360 site needs to work a lot more on user control and freedom as you cannot simply exii pages and videos from their site. The only way is through go back a page arrows on your web browser. Additionally, on the videos themselves, you cannot fast foward or go back a couple steps easily. While on a computer it might be easier because you can click on the timeline and drag the cursor back, on the tablet or smartphone with fingers, the website is not as receptive. Hence the user freedom feels very limited and the site is not thought out for it. 
 
 #### Yoga For Beginners
 > sghfjdg
 
 ### 4. Consistency and standards
-#### YMCA 360 (3) 
+#### YMCA 360 (1) 
 > The YMCA 360 website is constistent within itself and with the standards for these types of website. The only small difference they have is how they right the time on each video. On most platforms, they will simply put how many minutes or hour. In this case, each video has the same template which is *h:mm:ss*, which is very strange and feels unnatural compared to regular website as a 2 minute video is writen out with a lot of zero such as *0:02:03*. 
 
 #### Yoga For Beginners
 > sghfjdg
 
 ### 5. Error prevention
-#### YMCA 360 (3) 
+#### YMCA 360 (1) 
 > The YMCA 360 site leave little room for error in contrast to other sites as has no search bar (so you can't mess up typing) and most are clickable links that have always the right video behind them. The only except is the current *new release* page that has no video on it and the site gives you no warning about that. 
 It does also prevent you from making mistakes when signing in as it lets you know if you got the password wrong for example. 
 
@@ -71,14 +71,14 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 > sghfjdg
 
 ### 6. Recognition rather than recall
-#### YMCA 360 (1) 
+#### YMCA 360 (3) 
 > The YMCA site fails to offer recognition opportunities to its users. For example, even when logged into an account, the YMCA does not let you see your search history on the website (for instance the last 3 videos workouts you did). While it does offer favorites when logged in, it doesnt have a button on the top bar to access them easily and remind you that you have favored some videos. Hence your favorites are very hard to access as they are not also for example in a *favorite category* on the *category page*. 
 
 #### Yoga For Beginners
 > sghfjdg
 
 ### 7. Flexibility and efficiency of use
-#### YMCA 360 (1) 
+#### YMCA 360 (3) 
 > The YMCA 360 site in itself has very little flexibily nd efficiency of use as it does not allow for shortcuts on the first page to for instance get to the videos for pilates. Everytime you want a workout video you need to follow the same long journey *home --> category ---> page for that type of exercise --> video page*. It has also no search bar for people to save time and type the exact video they want. 
 
 > The only place the site has some flexibility and efficiency of use is on the videos themselves. Users can play and stop the video by clicking the the button with the play symbol in the bottom left corner or just by clicking their space bar. They can also go back and forth on the videos with the arrow on the keyboard but this is an inflexible shortcut as people on tablets and smartphones cannot use that command. 
@@ -87,7 +87,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 > sghfjdg
 
 ### 8. Aesthetic and minimalist design
-#### YMCA 360 (3)
+#### YMCA 360 (1)
 > The overall aesthetic of the website is perfect as it does not over power the usability aspect of it and makes you want to click. The color and font scheme work well together and the images are in high definition. The only problem is the fact that the descriptions for the videos about the instructor, level of intensity etc. are in small font but are bolded which makes it hard sometimes for reader to read it, especially older users. 
 
 #### Yoga For Beginners
@@ -111,16 +111,27 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 
 ## Recap of Severity Ratings of Both Apps:
 
-#### YMCA 360
+### YMCA 360
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
 |--------------|----------|---------------|--------------|-------------------|
-|2             |2         |1              |3             |3                  |
+|2             |2         |3              |1             |1                  |
 
 |6. Recognition |7. Flexibility|8. Aesthetic |9. Recover errors|10. Documentation|
 |---------------|--------------|-------------|-----------------|-----------------|
-|1              |1             |3            |2                |2                |
+|3              |3             |1            |2                |2                |
 
-#### Yoga For Beginners
+#### Recommended Changes Based on Priority
+##### Top Priority:
+* **User Control:** 
+* **Recognition:** 
+* **Flexibility:** 
+##### Important to fix: 
+* *Visibility:* In some case, the website fails to be transparent with the users about its ability to be receptive to their commands especially when it comes to pages that are then blank. I recommend they update their website to only show for instance the new releases tab when they actually have new videos. 
+* *Match:* In the matching the system with reality heuristic, the website fails to use easy and everyday words and instead uses more techincal phrases such as conditioning and and bootcamp. They can change this by using more descriptions such as if they want to keep the category as bootcamp say **bootcamp (abs, legs, butts, full-body etc.)*** so typical users also recognise their needs in a way they can understand it. 
+* *Recover errors:* While there is clear signs to recognize and diagnose the errors, the website often times does not allow undoing the mistake, for example, clicking on the wrong video. I would recommend they put more reverse buttons on the website and allow users to exit video pages more easily. 
+* *Documentation:* The biggest problem with the documentation is not the inexistance of one but more the difficulty to finding it. I would recommend that their add it to the navigation bar to make it easy to reach at all time. 
+
+### Yoga For Beginners
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
 |--------------|----------|---------------|--------------|-------------------|
 |number        |number    |number         |number        |number             |
@@ -128,6 +139,18 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 |6. Recognition |7. Flexibility|8. Aesthetic |9. Recover errors|10. Documentation|
 |---------------|--------------|-------------|-----------------|-----------------|
 |number         |number        |number       |number           |number           |
+
+
+#### Recommended Changes Based on Priority
+##### Top Priority:
+* **User Control:** 
+* **User Control:** 
+* **User Control:** 
+##### Important to fix: 
+* *User Control:*
+* *User Control:* 
+* *User Control:* 
+* *User Control:* 
 
 ## Overall Evaluation and Comments:
 
