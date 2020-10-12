@@ -41,14 +41,17 @@ The YMCA 360 does however, when lagging on some feedback when it is loading a pa
 > sghfjdg
 
 ### 2. Match between system and real world
-#### YMCA 360
-> sghfjdg
+#### YMCA 360 (2) 
+> For the most part, the YMCA 360 site does a good job at matching the system with the real world. It uses icons like the play button, heart button, social media icons, that are knows by most. It also uses a simple scroll and click interface making using it effortless. 
+The only downside is they use a lot of complex fitness jargon such as *bootcamp, core conditioning, Y box* which your average user might not know what to expect from. They should avoid using those words ad possibly also allow filters to have more options such as *ab workout, leg exercises* that are easier words the user might want to use to explain their needs and find the workout they had in mind. 
+
 #### Yoga For Beginners
 > sghfjdg
 
-### 3. User control and freedom
-#### YMCA 360
-> sghfjdg
+### 3. User control and freedom 
+#### YMCA 360 (1) 
+> The YMCA 360 site needs to work a lot more on user control and freedom as you cannot simply exii pages and videos from their site. The only way is through go back a page arrows on your web browser. Additionally, on the videos themselves, you cannot fast foward or go back a couple steps easily. While on a computer it might be easier because you can click on the timeline and drag the cursor back, on the tablet or smartphone with fingers, the website is not as receptive. Hence the user freedom feels very limited and the site is not thought out for it. 
+
 #### Yoga For Beginners
 > sghfjdg
 
