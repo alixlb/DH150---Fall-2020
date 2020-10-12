@@ -79,7 +79,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 
 |![YMCA 360 - Error Prevention](./3605.png)|![YMCA 360 - new releases page](./360newreleases.png)|
 |------------------------------------------|------------------------------------------|
-|*These images highlightshow how you can click on the new release button on the home page and then land of an page with no content*|
+###### These images highlightshow how you can click on the new release button on the home page and then land of an page with no content
 
 #### Yoga For Beginners
 > sghfjdg
