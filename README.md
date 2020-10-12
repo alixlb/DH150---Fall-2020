@@ -15,7 +15,10 @@ Through my UX design project, I hope to impact the lives of mid-age women (and p
 
 ## Competitive Analysis & Heuristic Evaluation
 
-The first step of the project was to look at websites focused on the same subject as I am doing - fitness and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. 
+The first step of the project was to look at websites focused on the same subject as this project,fitness, and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. I also choose the app, [Yoga For Beginners] (https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
 
 ![competitors used for heuristic evaluation](./competitors.png)
 Find the full evaluation [here](./heuristicevaluation.md)
+
+### Overall Findings
+
