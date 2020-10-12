@@ -56,32 +56,39 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 > sghfjdg
 
 ### 4. Consistency and standards
-#### YMCA 360
-> sghfjdg
+#### YMCA 360 (3) 
+> The YMCA 360 website is constistent within itself and with the standards for these types of website. The only small difference they have is how they right the time on each video. On most platforms, they will simply put how many minutes or hour. In this case, each video has the same template which is *h:mm:ss*, which is very strange and feels unnatural compared to regular website as a 2 minute video is writen out with a lot of zero such as *0:02:03*. 
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 5. Error prevention
-#### YMCA 360
-> sghfjdg
-#### App 2
+#### YMCA 360 (3) 
+> The YMCA 360 site leave little room for error in contrast to other sites as has no search bar (so you can't mess up typing) and most are clickable links that have always the right video behind them. The only except is the current *new release* page that has no video on it and the site gives you no warning about that. 
+It does also prevent you from making mistakes when signing in as it lets you know if you got the password wrong for example. 
+
+#### Yoga For Beginners
 > sghfjdg
 
 ### 6. Recognition rather than recall
-#### YMCA 360
-> sghfjdg
+#### YMCA 360 (1) 
+> The YMCA site fails to offer recognition opportunities to its users. For example, even when logged into an account, the YMCA does not let you see your search history on the website (for instance the last 3 videos workouts you did). While it does offer favorites when logged in, it doesnt have a button on the top bar to access them easily and remind you that you have favored some videos. Hence your favorites are very hard to access as they are not also for example in a *favorite category* on the *category page*. 
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 7. Flexibility and efficiency of use
-#### YMCA 360
-> sghfjdg
+#### YMCA 360 (1) 
+> The YMCA 360 site in itself has very little flexibily nd efficiency of use as it does not allow for shortcuts on the first page to for instance get to the videos for pilates. Everytime you want a workout video you need to follow the same long journey *home --> category ---> page for that type of exercise --> video page*. It has also no search bar for people to save time and type the exact video they want. 
+
+The only place the site has some flexibility and efficiency of use is on the videos themselves. Users can play and stop the video by clicking the the button with the play symbol in the bottom left corner or just by clicking their space bar. They can also go back and forth on the videos with the arrow on the keyboard but this is an inflexible shortcut as people on tablets and smartphones cannot use that command. 
+
 #### Yoga For Beginners
 > sghfjdg
 
 ### 8. Aesthetic and minimalist design
 #### YMCA 360
-> sghfjdg
+> sghfjdg (bolded even when small) 
 #### Yoga For Beginners
 > sghfjdg
 
