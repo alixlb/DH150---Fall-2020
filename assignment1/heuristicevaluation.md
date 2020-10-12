@@ -25,16 +25,16 @@ The YMCA 360 is an app that was put in place during COVID-19 by the YMCA gyms ar
 
 ### Yoga for Beginners
 
-![Yoga for Beginners - Home Page](./yhome.png)
+![Yoga for Beginners - Home Page](./yhome.PNG)
 ###### Yoga for Beginners- Home Page 
 
-![Yoga for Beginners - Category Page](./yposes.png)
+![Yoga for Beginners - Category Page](./yposes.PNG)
 ###### Yoga for Beginners - Page that recaps all the poses that the users will do during that session
 
-![Yoga for Beginners - Core Conditionning Page](./yvideo.png)
+![Yoga for Beginners - Core Conditionning Page](./yvideo.PNG)
 ###### Yoga for Beginners - Workout Video
 
-![Yoga for Beginners - Video](./ycalendar.png)
+![Yoga for Beginners - Video](./ycalendar.PNG)
 ###### Yoga for Beginners - Calendar to keep track of the sessions users do
 
 
