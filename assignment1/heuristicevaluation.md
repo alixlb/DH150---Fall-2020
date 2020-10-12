@@ -152,16 +152,20 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 |---------------|--------------|-------------|-----------------|-----------------|
 |3              |3             |1            |2                |2                |
 
-#### Recommended Changes Based on Priority
-##### Top Priority:
-* **User Control:** 
-* **Recognition:** 
-* **Flexibility:** 
-##### Important to fix: 
+### Recommended Changes for YMCA 360 Based on Priority
+#### Top Priority:
+* **User Control:** The biggest issue with user control is the lack of possibilies to go back pages within the website. I recommend they add more buttons to easily exist for instance workout video pages. These are crucial to making the experience seamless
+* **Recognition:** The website has no shortcuts and no ability to efficently recognize to videos you previously used to workout or your favorite. I would recommend adding a search bar on the home screen for those who know what video they want to see as well as in the navigation bar for those logged in a Favorites tab to go directly to the videos they link. 
+* **Flexibility:** Especially on the videos there is little possibilies to rewind or move foward easily especially on tablet. I recommend they modify this to allow their users to move at their own pace and see the instructor do the move again if need be. Also to ameliorate flexibility on the website the recommendation for recognition is also good.  
+#### Important to fix: 
 * *Visibility:* In some case, the website fails to be transparent with the users about its ability to be receptive to their commands especially when it comes to pages that are then blank. I recommend they update their website to only show for instance the new releases tab when they actually have new videos. 
 * *Match:* In the matching the system with reality heuristic, the website fails to use easy and everyday words and instead uses more techincal phrases such as conditioning and and bootcamp. They can change this by using more descriptions such as if they want to keep the category as bootcamp say **bootcamp (abs, legs, butts, full-body etc.)*** so typical users also recognise their needs in a way they can understand it. 
 * *Recover errors:* While there is clear signs to recognize and diagnose the errors, the website often times does not allow undoing the mistake, for example, clicking on the wrong video. I would recommend they put more reverse buttons on the website and allow users to exit video pages more easily. 
 * *Documentation:* The biggest problem with the documentation is not the inexistance of one but more the difficulty to finding it. I would recommend that their add it to the navigation bar to make it easy to reach at all time. 
+#### Cosmetic Changes/Low Priority:
+* *Consistency:* The only part that stands out is the weird way they formated the time per video. I would recommend simplying it by taking out the seconds or just having hours included when it is over an hour long. 
+* *Error Prevention:* The small issue with this one is the new release button front and center on the home page that leads to no new video. I would simply remove it and just have a button to all videos when there is no new one. 
+* *Aesthetic:* The small issue is the video descriptions are in a font that when bold and small size is hard to read. I would either increase font size or unbold it. 
 
 ### Yoga For Beginners
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
