@@ -17,4 +17,5 @@ Through my UX design project, I hope to impact the lives of mid-age women (and p
 
 The first step of the project was to look at websites focused on the same subject as I am doing - fitness and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. 
 
+![competitors used for heuristic evaluation](./competitors.png)
 Find the full evaluation [here](./heuristicevaluation.md)
