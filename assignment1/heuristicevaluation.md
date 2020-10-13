@@ -123,7 +123,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners
 > has to stop video and turn on another one to understand how to do a pose
 
-|![Yoga For Beginners - Workout Video Start Error Prevention](./y7a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y7b.png)|
+|![Yoga For Beginners - Workout Video Start Error Prevention](./y7a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y7bx.png)|
 |------------------------------------------|------------------------------------------|
 ###### These images show how when you are on the exercise it forces you to exit the video to see how to do the pose well
 
@@ -167,7 +167,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners
 > no FAQ 
 
-![Yoga For Beginners - contact info but no FAQ](./y10.png)
+![Yoga For Beginners - contact info but no FAQ](./y10x.png)
 ###### This image shows that there is no FAQ but there is a contact form if need be
 
 ## Recap of Severity Ratings of Both Apps:
