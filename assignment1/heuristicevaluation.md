@@ -65,8 +65,8 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ![YMCA 360 - lack of user control](./3603.png)
 ###### This image shows how on the video pages there is no way to go back
 
-#### Yoga For Beginners (1) 
-> ability to exit and enter whenever does not stop immediately when you are off the app
+#### Yoga For Beginners (2) 
+> On the Yoga app, the user has a lot of freedom and control over his or her actions. For instance, you can stop a video at anytime and there are undo button at every part of the process. The only place that lacks control is when the user create a customize workout as when they  add  a pose to the workout, they cannot take it out till way later steps. Also when you are on the workout page and you exit to take a call for instance, the app keeps playing the video in addition to the sound. I think both of these could be solved in order to create more freedom and control for the user. 
 
 ![Yoga For Beginners - Workout Video](./y19.png)
 ###### This image shows the workout video set up. When you exit the app while being on this page the exercises continue running
@@ -91,7 +91,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### These images highlightshow how you can click on the new release button on the home page and then land of an page with no content
 
 #### Yoga For Beginners (1)
-> make sure you meant to start or stop workout
+> The Yoga app does quite a good job are preventing errors. For instance before starting a video they make sure you meant to start that workout by having a notification making assert that you want to start that particular workout. Additionally there is an exit button on the workout video and if the user presses it, the app asks again if they are sure they want to leave before its done, in case they pressed it by accident. The minor problem is in the customize workout page, when you click on a position to add to the workout you can then not take it out till way later steps in the process and it does not prevent you by clicking by accident on a pose you did not want to add. 
 
 |![Yoga For Beginners - Workout Video Start Error Prevention](./y5a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y5b.png)|
 |------------------------------------------|------------------------------------------|
@@ -105,7 +105,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This image highlights that there is no favorite tab on the navigation bar or opportunity to search a video easily
 
 #### Yoga For Beginners (3)
-> no ability to choose targeted posed for needs and when custom doesnt tell you what it helps with
+> There is very little recognition as most of the videos have not names that are links to the needs that they fulfill and does not help with recognition. Additionally, in the create your own workout there is no recognition processes that makes a user sure of what the pose does and how it can help. The only positive recognition principle it utilizes is having a recent tab and a favorite tab on the home page. 
 
 ![Yoga For Beginners - Custom Workout](./y68.png)
 ###### This image shows that there is no recognition in the needs of the user on the option to customize a workout 
@@ -119,8 +119,10 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - no shortcut so speed up or slow down the video](./3607.png)
 ###### This image highlights the lack of a shortcut to speed of the video or to rewind a couple of secounds
 
-#### Yoga For Beginners (1) 
-> has to stop video and turn on another one to understand how to do a pose
+#### Yoga For Beginners (3) 
+> The app in contrast to the YMCA 360 website has some short cuts as it has a tab for both workouts user have favored and recent ones they have done. Also it has some filters of intensity but I think it could go further by offering filter based on needs for the activity (muscle pain, target area, relaxation, energy boosting etc). 
+
+> The most critical part of its inflexibility however is the fact that when you are on a workout video you do not get a detailed explanation of how to do well the pose. To get said information you need to click on the information button clearly marked which stops the video and brings you to another page where you have to start a new video to explain how to do the pose. This inefficiency in how you can see the pose is an issue as it forces ppl to stop exercising and maybe give up on the rest of the workout. Also it leaves room for the other video which is on YouTube to have to take time to load making it an uncomfortable experience for the user.
 
 |![Yoga For Beginners - Workout Video Start Error Prevention](./y7a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y7bx.png)|
 |------------------------------------------|------------------------------------------|
@@ -133,7 +135,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - no shortcut so speed up or slow down the video](./3608.png)
 ###### This image shows how hard it can be to read the description due to the bolded text
 
-#### Yoga For Beginners (3) 
+#### Yoga For Beginners (2) 
 > Similar to the YMCA 360 website, the overall aesthetics of the app is very easy to comprehend and minimalistic while still looking pleasing to the eye with a consistant color and font scheme as well as high resolution images. However, it did have some clutter making it non minimalistic and hard to navigate on the *create your workout* page. I would recommend they clear it up by ordering all the poses in to possible subsections you could open and close and that would show what poses help meet the needs the user may have (back, neck, etc.). 
 
 ![Yoga For Beginners - Custom Workout](./y68.png)
@@ -198,11 +200,11 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ### Yoga For Beginners
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
 |--------------|----------|---------------|--------------|-------------------|
-|1             |2         |1              |1             |1                  |
+|1             |2         |2              |1             |1                  |
 
 |6. Recognition |7. Flexibility|8. Aesthetic |9. Recover errors|10. Documentation|
 |---------------|--------------|-------------|-----------------|-----------------|
-|3              |1             |3            |3                |3                |
+|3              |3             |2            |3                |3                |
 
 
 #### Recommended Changes Based on Priority
