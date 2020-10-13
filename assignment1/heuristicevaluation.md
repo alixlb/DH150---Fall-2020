@@ -195,6 +195,7 @@ Allowing the user when confused or lost to easily find answers to their question
 ###### This image shows that there is no FAQ but there is a contact form if need be
 
 ## Recap of Severity Ratings of Both Apps:
+Severity Ratings is a way for UX designers to assess the severity of heuristic violation and then prioritize which ones to spend the most ressources on to solve as they are the most blocking to a seamless user experience. In this case I ranked them from a scale of 1 to 3 with 1 being only cosmetic issues or low priority violations, 2 being important violations, 3 being the most urging to solve violations (top priority). 
 
 ### YMCA 360
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
