@@ -209,18 +209,18 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 
 #### Recommended Changes Based on Priority
 ##### Top Priority:
-* **Recognition:** 
-* **Flexibility:** 
-* **Recover Errors:** 
-* **Documentation:** 
+* **Recognition:**  The problem here is that most of the videos do not  have names that are links to the needs that they fulfill and does not help with recognition. Additionally, in the create your own workout, there is no recognition process that makes a user sure of what the pose does and how it can help them during the workout. I recommend creating titles that lead to more recognition though processes as well as compiling poses based on their benefits to the user and not their names to create recognition. 
+* **Flexibility:** The biggest problem with the inflexibility of this app is that when on a workout video, users do not get a detailed explanation of how to do well the pose. To get said information  the user must click on the information button which stops the video and brings them to another page where they can start a new video to explain how to do the pose. This inefficiency leads to an uncomfortable experience for the user. I recommend at least having an explanation option in text/ voice over of the pose on the workout video so that user does not have to stop the video to figure out how to do the pose correctly.  
+* **Recover Errors:** One of the biggest issue with the website is the lack of ability to help users in times of struggle. It at no point helps you recognize when there is an error or diagnose one for you and hence cannot recover from it. This needs to be fix so the app can be made aware of errors and also overall the app needs to be more conscious of recognizing and diagnosing errors. 
+* **Documentation:** The biggest issue with this site is the lack of help when trying to solve a problem as seen with the heuristic above. Help and documentation is no different as the site has currently no FAQs to help them with any questions  they may have. It does however has a contact form that is a simple button that leads to an email address. I would recommend they add an FAQ. 
 ##### Important to fix: 
-* *Match:* 
-* *User Control:* 
-* *Aesthetic:* 
+* *Match:* The problem with this app is the use of a lot of jargon in its workout titles making it impossible for users to know if that is the workout that will fit their needs. I would recommend they make more descriptive titles focus on the needs it helps the user solve rather than yoga jargon. 
+* *User Control:* The only place that lacks control is when the user create a customize workout as when they  add  a pose to the workout, they cannot take it out till way later steps. I think this can be resolved by creating delete buttons also on that page creating more freedom and control for the user. 
+* *Aesthetic:* The problem with this app’s aesthetic is  that it has some clutter on the create your workout page. I would recommend they clear it up by ordering all the poses in to possible subsections you could open and close and that would show what poses help meet the needs the user may have (back, neck, etc.). 
 #### Cosmetic Changes/Low Priority:
-* *Visibility:* 
+* *Visibility:* The only downside is that it does not offer the opportunity to see the most recently created workouts like the YMCA and this would make the users aware that the system is constantly being updated and taken care of. I would recommend just having a recently added video section to show that their is continuous update on the platform. 
 * *Consistency:* 
-* *Error prevention:* 
+* *Error prevention:* The Yoga app does quite a good job are preventing errors. The minor problem is in the customize workout page, when you click on a position to add to the workout you can then not take it out at that stage and it does not prevent you by clicking by accident on a pose you did not want to add. I would recommend they simple allow users to remove also workouts at that stage or double check each time the user is not making an error by adding it to the workout list. 
 
 
 ## Overall Evaluation and Comments:
