@@ -38,9 +38,8 @@ The YMCA 360 does however, when lagging on some feedback when it is loading a pa
 ![YMCA 360 - new releases page](./360newreleases.png)
 ###### This image shows how when you click on new releases on the front page it leads you to an empty page
 
-#### Yoga For Beginners
-> loads let you know it works
-
+#### Yoga For Beginners (1) 
+> The Yoga app has a lot more transparency on the system status. It shows when things are loading and almost instantaneously responds to every command. The only downside is that it does not offer the opportunity to see the most recently created workouts like the YMCA and this would make the users aware that the system is constantly being updated and taken care of. 
 
 ![Yoga For Beginners - Loading Symbol](./y19.png)
 ###### This image shows that the app send a status update to the user. In this case, that it is processing their request
@@ -53,8 +52,8 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ![YMCA 360 - complex fitness jargon](./3602.png)
 ###### This image highlights the complex jargon used by the website
 
-#### Yoga For Beginners
->  a lot of industry jargon 
+#### Yoga For Beginners (2) 
+>  Similarly to the YMCA 360 site, the Yoga App does a good job matching the system with the real world. It used symboles like play, heart and arrows to signal users what to do. It also follows the standards for apps of the scrool and bottom bar with options to change from a page to another and a settings icon on the top right corner. However, similar to the YMCA 360, it uses a lot of jargon in its workout titles making it impossible for users to know if that is the workout that will fit their needs. 
 
 ![Yoga For Beginners - complex fitness jargon](./y2.png)
 ###### This image highlights the complex jargon used by the app
@@ -66,7 +65,7 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ![YMCA 360 - lack of user control](./3603.png)
 ###### This image shows how on the video pages there is no way to go back
 
-#### Yoga For Beginners
+#### Yoga For Beginners (1) 
 > ability to exit and enter whenever does not stop immediately when you are off the app
 
 ![Yoga For Beginners - Workout Video](./y19.png)
@@ -91,7 +90,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 |------------------------------------------|------------------------------------------|
 ###### These images highlightshow how you can click on the new release button on the home page and then land of an page with no content
 
-#### Yoga For Beginners
+#### Yoga For Beginners (1)
 > make sure you meant to start or stop workout
 
 |![Yoga For Beginners - Workout Video Start Error Prevention](./y5a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y5b.png)|
@@ -105,7 +104,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - no favorite or search bar](./3606.png)
 ###### This image highlights that there is no favorite tab on the navigation bar or opportunity to search a video easily
 
-#### Yoga For Beginners
+#### Yoga For Beginners (3)
 > no ability to choose targeted posed for needs and when custom doesnt tell you what it helps with
 
 ![Yoga For Beginners - Custom Workout](./y68.png)
@@ -120,7 +119,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - no shortcut so speed up or slow down the video](./3607.png)
 ###### This image highlights the lack of a shortcut to speed of the video or to rewind a couple of secounds
 
-#### Yoga For Beginners
+#### Yoga For Beginners (1) 
 > has to stop video and turn on another one to understand how to do a pose
 
 |![Yoga For Beginners - Workout Video Start Error Prevention](./y7a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y7bx.png)|
@@ -134,8 +133,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - no shortcut so speed up or slow down the video](./3608.png)
 ###### This image shows how hard it can be to read the description due to the bolded text
 
-#### Yoga For Beginners
-> good design but maybe over crowded in the customizable one (maybe subsections)
+#### Yoga For Beginners (3) 
+> Similar to the YMCA 360 website, the overall aesthetics of the app is very easy to comprehend and minimalistic while still looking pleasing to the eye with a consistant color and font scheme as well as high resolution images. However, it did have some clutter making it non minimalistic and hard to navigate on the *create your workout* page. I would recommend they clear it up by ordering all the poses in to possible subsections you could open and close and that would show what poses help meet the needs the user may have (back, neck, etc.). 
 
 ![Yoga For Beginners - Custom Workout](./y68.png)
 ###### This image shows how little clearity there is in the option to customize a workout
@@ -151,8 +150,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - contact form](./3609.png)
 ###### This image shows the contact form page
 
-#### Yoga For Beginners 
-> actually error and no warning or place to say why it doesnt work (video after i click for info)
+#### Yoga For Beginners (3)
+> One of the biggest issue with the website is the lack of ability to help users in times of struggle. It at no point helps you recognize when there is an error or diagnose one for you and hence cannot recover from it. The best example is that after completing the task of viewing how to do a pose (heuristic 7), I went back on the workout vid and the positions in the workout video weren’t there even if the workout was playing. When that happen there was no sign there was an error and no area on that page to signal the error. This needs to be fix so the app can be made aware of errors and also overall the app needs to be more conscious of recognizing and diagnosing errors. 
 
 ![Yoga For Beginners - Error in Workout Video](./y19.png)
 ###### This images highlights a glitch in the system with not diagnosis or way to recover explained to the user
@@ -164,8 +163,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - contact form](./36010.png)
 ###### This image highlights the fact that on a video page you cannot see the FAQ button at any point
 
-#### Yoga For Beginners
-> no FAQ 
+#### Yoga For Beginners (3) 
+> The biggest issue with this site is the lack of help when trying to solve a problem as seen with the heuristic above. Help and documentation is no different as the site has currently no FAQs to help them with any questions  they may have. It does however has a contact form that is a simple button that leads to an email address. I would recommend they add an FAQ. 
 
 ![Yoga For Beginners - contact info but no FAQ](./y10x.png)
 ###### This image shows that there is no FAQ but there is a contact form if need be
@@ -199,11 +198,11 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ### Yoga For Beginners
 |1. Visibility |2. Match  |3. User Control|4. Consistency|5. Error prevention|
 |--------------|----------|---------------|--------------|-------------------|
-|number        |number    |number         |number        |number             |
+|1             |2         |1              |1             |1                  |
 
 |6. Recognition |7. Flexibility|8. Aesthetic |9. Recover errors|10. Documentation|
 |---------------|--------------|-------------|-----------------|-----------------|
-|number         |number        |number       |number           |number           |
+|3              |1             |3            |3                |3                |
 
 
 #### Recommended Changes Based on Priority
