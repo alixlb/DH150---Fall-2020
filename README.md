@@ -28,6 +28,8 @@ Overall, both the YMCA 360 and Yoga for Beginners are well design with a minimal
 * Secondly the user needs to be in control, heuristic principle 3, ***User Control and freedom***. Especially during the workout, the user must be able to pause, play, rewind, slow down the video all while being able to leave easily. This will allow the user to not feel pressure to get the movement right on the spot or to not take any breaks. It is important that everyone be able to go at their own rhythm so they can have fun.
 * Finally, it is crucial to have proper documentation and , heuristic principle 10 - ***Help and documentation***, contact forms to get feedback. Especially with first time or less tech-savvy users, it is crucial to have a clear help guide accessible from all pages to help them truly understand how the platform works and how to achieve their goals. 
 
+## Usability Testing
 
+### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
 
