@@ -39,7 +39,7 @@ The YMCA 360 does however, when lagging on some feedback when it is loading a pa
 ###### This image shows how when you click on new releases on the front page it leads you to an empty page
 
 #### Yoga For Beginners
-> sghfjdg
+> loads let you know it works
 
 ### 2. Match between system and real world
 #### YMCA 360 (2) 
@@ -50,7 +50,7 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ###### This image highlights the complex jargon used by the website
 
 #### Yoga For Beginners
-> sghfjdg
+>  a lot of industry jargon 
 
 ### 3. User control and freedom 
 #### YMCA 360 (3) 
@@ -60,7 +60,7 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ###### This image shows how on the video pages there is no way to go back
 
 #### Yoga For Beginners
-> sghfjdg
+> ability to exit and enter whenever does not stop immediately when you are off the app
 
 ### 4. Consistency and standards
 #### YMCA 360 (1) 
@@ -70,7 +70,7 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ###### This image highlights how the way time is presented is unusual for a fitness website
 
 #### Yoga For Beginners
-> sghfjdg
+> consistent with standard (music 
 
 ### 5. Error prevention
 #### YMCA 360 (1) 
@@ -82,7 +82,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### These images highlightshow how you can click on the new release button on the home page and then land of an page with no content
 
 #### Yoga For Beginners
-> sghfjdg
+> make sure you meant to start or stop workout
 
 ### 6. Recognition rather than recall
 #### YMCA 360 (3) 
@@ -92,7 +92,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This image highlights that there is no favorite tab on the navigation bar or opportunity to search a video easily
 
 #### Yoga For Beginners
-> sghfjdg
+> no ability to choose targeted posed for needs and when custom doesnt tell you what it helps with
 
 ### 7. Flexibility and efficiency of use
 #### YMCA 360 (3) 
@@ -103,9 +103,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ![YMCA 360 - no shortcut so speed up or slow down the video](./3607.png)
 ###### This image highlights the lack of a shortcut to speed of the video or to rewind a couple of secounds
 
-
 #### Yoga For Beginners
-> sghfjdg
+> has to stop video and turn on another one to understand how to do a pose
 
 ### 8. Aesthetic and minimalist design
 #### YMCA 360 (1)
@@ -115,7 +114,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This image shows how hard it can be to read the description due to the bolded text
 
 #### Yoga For Beginners
-> sghfjdg
+> good design but maybe over crowded in the customizable one (maybe subsections)
 
 ### 9. Help users recognize, diagnose, and recover from errors
 #### YMCA 360 (2) 
@@ -129,7 +128,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This image shows the contact form page
 
 #### Yoga For Beginners
-> sghfjdg
+> actually error and no warning or place to say why it doesnt work (video after i click for info)
 
 ### 10. Help and documentation
 #### YMCA 360 (2)
@@ -139,7 +138,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This image highlights the fact that on a video page you cannot see the FAQ button at any point
 
 #### Yoga For Beginners
-> sghfjdg
+> no FAQ 
 
 ## Recap of Severity Ratings of Both Apps:
 
