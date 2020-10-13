@@ -1,4 +1,4 @@
-# Fitness for All: Making Fitness Fun and Accessible at All Ages and at All Times 
+# Fitness for All: Making Fitness Fun and Accessible at All Times 
 ### *Alix Le Boterff, Digital Humanities 150: UX/UI Design, Fall 2020*
 
 ![people running a marathon](./running.jpg)
