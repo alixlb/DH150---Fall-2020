@@ -209,14 +209,19 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 
 #### Recommended Changes Based on Priority
 ##### Top Priority:
-* **User Control:** 
-* **User Control:** 
-* **User Control:** 
+* **Recognition:** 
+* **Flexibility:** 
+* **Recover Errors:** 
+* **Documentation:** 
 ##### Important to fix: 
-* *User Control:*
+* *Match:* 
 * *User Control:* 
-* *User Control:* 
-* *User Control:* 
+* *Aesthetic:* 
+#### Cosmetic Changes/Low Priority:
+* *Visibility:* 
+* *Consistency:* 
+* *Error prevention:* 
+
 
 ## Overall Evaluation and Comments:
 
