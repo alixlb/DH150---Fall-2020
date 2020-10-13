@@ -31,6 +31,8 @@ My overall first impression was that it was a clean interface but lacked easy wa
 ## Heuristic Evaluation:
 
 ### 1. Visibility of system status
+The ability of a system to be transparent about its status to users by giving them feedback as quickly as possible.
+
 #### YMCA 360 (2) 
 > The YMCA 360 had not an optimal visibility of system status. While it responded correctly and almost instantaneously to every command performed, it did not update the users on what is going on. A perfect example is that the biggest button on the home page is ***new releases*** which gives a feedback to the user to go check out new videos that have just came out. However, once you click it, you finally get an update from YMCA saying that, *There are no videos left in this category!*. However, it is too late of a feedback as the user has already had to click on the first button to get to their page. 
 The YMCA 360 does however, when lagging on some feedback when it is loading a page as it has a round icon spinning to show it is processing the request. While the overall the visibility of system status. of the site is correct, it could be more performant and transparent to the users about current updates in content. 
@@ -45,6 +47,8 @@ The YMCA 360 does however, when lagging on some feedback when it is loading a pa
 ###### This image shows that the app send a status update to the user. In this case, that it is processing their request
 
 ### 2. Match between system and real world
+The system is able to present the content in a way that matches how users would perceive the information in their everyday life rather than how the system perceives the same content. 
+
 #### YMCA 360 (2) 
 > For the most part, the YMCA 360 site does a good job at matching the system with the real world. It uses icons like the play button, heart button, social media icons, that are knows by most. It also uses a simple scroll and click interface making using it effortless. 
 The only downside is they use a lot of complex fitness jargon such as *bootcamp, core conditioning, Y box* which your average user might not know what to expect from. They should avoid using those words ad possibly also allow filters to have more options such as *ab workout, leg exercises* that are easier words the user might want to use to explain their needs and find the workout they had in mind. 
@@ -59,6 +63,8 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ###### This image highlights the complex jargon used by the app
 
 ### 3. User control and freedom 
+Users have the ability to make a mistake and fix it as well as have the freedom to  leave immediately the current page or content at any point. 
+
 #### YMCA 360 (3) 
 > The YMCA 360 site needs to work a lot more on user control and freedom as you cannot simply exit pages and videos from their site. The only way is through go back a page arrows on your web browser. Additionally, on the videos themselves, you cannot fast foward or go back a couple steps easily. While on a computer it might be easier because you can click on the timeline and drag the cursor back, on the tablet or smartphone with fingers, the website is not as receptive. Hence the user freedom feels very limited and the site is not thought out for it. 
 
@@ -72,6 +78,8 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ###### This image shows the workout video set up. When you exit the app while being on this page the exercises continue running
 
 ### 4. Consistency and standards
+The use of icons, words and actions that are consistant within the website and with the standards of most online sites to not confuse the user or make them feel as if it is ambiguous. 
+
 #### YMCA 360 (1) 
 > The YMCA 360 website is constistent within itself and with the standards for these types of website. The only small difference they have is how they right the time on each video. On most platforms, they will simply put how many minutes or hour. In this case, each video has the same template which is *h:mm:ss*, which is very strange and feels unnatural compared to regular website as a 2 minute video is writen out with a lot of zero such as *0:02:03*. 
 
@@ -79,9 +87,14 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 ###### This image highlights how the way time is presented is unusual for a fitness website
 
 #### Yoga For Beginners
-> consistent with standard (music 
+> The overall application has consistancy within itself and with standards from apps similar to this one. Hence,the user does not get confused with any part of the platform. The only confusing part is that to decide how many circuts of one workout you will do, you have to change it in settings and go change it back everytime you want to do different amounts of circus across all workouts. This might be unusual to the users that might get confused about how to add circuits only for one workout on one specific day. I'd recommend asking users before every workout the amount of circuits they want to do. 
+
+![Yoga For Beginners - circuit in settings](./y10x.png)
+###### This image shows that to choose the amount of circuits you need to change it for all workouts at once in your setting. 
 
 ### 5. Error prevention
+The ability to predict potential user errors and warn them against it before they even commit the error. 
+
 #### YMCA 360 (1) 
 > The YMCA 360 site leave little room for error in contrast to other sites as has no search bar (so you can't mess up typing) and most are clickable links that have always the right video behind them. The only except is the current *new release* page that has no video on it and the site gives you no warning about that. 
 It does also prevent you from making mistakes when signing in as it lets you know if you got the password wrong for example. 
@@ -98,6 +111,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### These images highlightshow the app sends you a notification to make sure you are or are not willing to start or stop the video
 
 ### 6. Recognition rather than recall
+Allowing users to not have to memorize actions or information by making all the possibilities clear and visible to them at all time to allow users to reach their goals easily. 
+
 #### YMCA 360 (3) 
 > The YMCA site fails to offer recognition opportunities to its users. For example, even when logged into an account, the YMCA does not let you see your search history on the website (for instance the last 3 videos workouts you did). While it does offer favorites when logged in, it doesnt have a button on the top bar to access them easily and remind you that you have favored some videos. Hence your favorites are very hard to access as they are not also for example in a *favorite category* on the *category page*. 
 
@@ -111,6 +126,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This image shows that there is no recognition in the needs of the user on the option to customize a workout 
 
 ### 7. Flexibility and efficiency of use
+Allowing users the choose of how to perform their actions through different routes depending on their level of expertise using said site and allowing users more familar with it to use shortcut to perform actions more efficently. 
+
 #### YMCA 360 (3) 
 > The YMCA 360 site in itself has very little flexibily nd efficiency of use as it does not allow for shortcuts on the first page to for instance get to the videos for pilates. Everytime you want a workout video you need to follow the same long journey *home --> category ---> page for that type of exercise --> video page*. It has also no search bar for people to save time and type the exact video they want. 
 
@@ -129,6 +146,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### These images show how when you are on the exercise it forces you to exit the video to see how to do the pose well
 
 ### 8. Aesthetic and minimalist design
+This heuristic focuses on the design aspect of the site and if it allows the user to navigate easily through the content without clutter or irrelevant information.
+
 #### YMCA 360 (1)
 > The overall aesthetic of the website is perfect as it does not over power the usability aspect of it and makes you want to click. The color and font scheme work well together and the images are in high definition. The only problem is the fact that the descriptions for the videos about the instructor, level of intensity etc. are in small font but are bolded which makes it hard sometimes for reader to read it, especially older users. 
 
@@ -142,6 +161,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This image shows how little clearity there is in the option to customize a workout
 
 ### 9. Help users recognize, diagnose, and recover from errors
+The ability to help users understand the problem and why they cannot complete their goals in simple form and then offer them a solution to solving it. 
+
 #### YMCA 360 (2) 
 > Most of the YCMA 360 site leaves little space for errors in the first place however in the places with possible errors it does give instructions on where the error is. For instance in log in area, when you input the information wrong it sends a red message with instructions on how to fix it and in the new releases page with no videos it has a sign with an explamation point to highlight there is no videos and is the only page that has the ability on the page to go back to see the categories.
 
@@ -159,6 +180,8 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 ###### This images highlights a glitch in the system with not diagnosis or way to recover explained to the user
 
 ### 10. Help and documentation
+Allowing the user when confused or lost to easily find answers to their question with clear documentation. 
+
 #### YMCA 360 (2)
 > The YMCA 360 site has a FAQ page which is extensive and very useful however, it can be hard to users to find. You see it appear on the home page and in small font on the contact page nut when on other pages, the only way to access it is to scroll all the way to the bottom and see it hidden in small in between a lot of link to pages you would never use. Hence it is not something logic to find for the user and inefficent. I recommend making it more easy to find at all times. 
 
@@ -219,7 +242,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 * *Aesthetic:* The problem with this app’s aesthetic is  that it has some clutter on the create your workout page. I would recommend they clear it up by ordering all the poses in to possible subsections you could open and close and that would show what poses help meet the needs the user may have (back, neck, etc.). 
 #### Cosmetic Changes/Low Priority:
 * *Visibility:* The only downside is that it does not offer the opportunity to see the most recently created workouts like the YMCA and this would make the users aware that the system is constantly being updated and taken care of. I would recommend just having a recently added video section to show that their is continuous update on the platform. 
-* *Consistency:* 
+* *Consistency:* . The confusing part is that to decide how many circuts of one workout you will do, you have to change it in settings and go change it back everytime you want to do different amounts of circus across all workouts. I'd recommend asking users before every workout the amount of circuits they want to do. 
 * *Error prevention:* The Yoga app does quite a good job are preventing errors. The minor problem is in the customize workout page, when you click on a position to add to the workout you can then not take it out at that stage and it does not prevent you by clicking by accident on a pose you did not want to add. I would recommend they simple allow users to remove also workouts at that stage or double check each time the user is not making an error by adding it to the workout list. 
 
 
