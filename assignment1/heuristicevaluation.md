@@ -252,5 +252,12 @@ Severity Ratings is a way for UX designers to assess the severity of heuristic v
 * *Error prevention:* The Yoga app does quite a good job are preventing errors. The minor problem is in the customize workout page, when you click on a position to add to the workout you can then not take it out at that stage and it does not prevent you by clicking by accident on a pose you did not want to add. I would recommend they simple allow users to remove also workouts at that stage or double check each time the user is not making an error by adding it to the workout list. 
 
 
-## Overall Evaluation and Comments:
+## Conclusion:
+
+Overall both the YMCA 360 and Yoga for Beginners are well design with a minimalistic theme and very enticing high resolution photos. Both are easy and intuitive to navigate through, making users instantly feel in control. However, both still have some serious heuristic violations that make part of the user experience confusing and uncomfortable which could potentially discourage them from reusing the site on a daily basis or even giving them an easy way out of working out. As the goal of my project is to promote healthy fitness habits from middle-age women by making it easy and enticing to them, I have marked a couple point that truly stood out during this evaluation:
+* It is important not to use fitness jargon. Instead, to meet the criteria of heuristic principle 2, ***Match between system and real world***, titles and descriptions of workouts should focus more on the benefits they bring and how they may fulfill the needs the user may feel they have when it comes to working out (legs strengthen, destress, cardio, arm workout etc)
+* Secondly the user needs to be in control, heuristic principle 3, ***User Control and freedom***. Especially during the workout, the user must be able to pause, play, rewind, slow down the video all while being able to leave easily. This will allow the user to not feel pressure to get the movement right on the spot or to not take any breaks. It is important that everyone be able to go at their own rhythm so they can have fun.
+* Finally, it is crucial to have proper documentation and , heuristic principle 10 - ***Help and documentation***, contact forms to get feedback. Especially with first time or less tech-savvy users, it is crucial to have a clear help guide accessible from all pages to help them truly understand how the platform works and how to achieve their goals. 
+
+
 
