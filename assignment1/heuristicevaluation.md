@@ -52,6 +52,8 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 #### Yoga For Beginners
 >  a lot of industry jargon 
 
+![Yoga For Beginners - complex fitness jargon](./y2.png)
+
 ### 3. User control and freedom 
 #### YMCA 360 (3) 
 > The YMCA 360 site needs to work a lot more on user control and freedom as you cannot simply exit pages and videos from their site. The only way is through go back a page arrows on your web browser. Additionally, on the videos themselves, you cannot fast foward or go back a couple steps easily. While on a computer it might be easier because you can click on the timeline and drag the cursor back, on the tablet or smartphone with fingers, the website is not as receptive. Hence the user freedom feels very limited and the site is not thought out for it. 
