@@ -42,7 +42,7 @@ The YMCA 360 does however, when lagging on some feedback when it is loading a pa
 > loads let you know it works
 
 
-![Yoga For Beginners - Loading Symbol](./y19.PNG)
+![Yoga For Beginners - Loading Symbol](./y19.png)
 ###### This image shows that the app send a status update to the user. In this case, that it is processing their request
 
 ### 2. Match between system and real world
@@ -69,7 +69,7 @@ The only downside is they use a lot of complex fitness jargon such as *bootcamp,
 #### Yoga For Beginners
 > ability to exit and enter whenever does not stop immediately when you are off the app
 
-![Yoga For Beginners - Workout Video](./y19.PNG)
+![Yoga For Beginners - Workout Video](./y19.png)
 ###### This image shows the workout video set up. When you exit the app while being on this page the exercises continue running
 
 ### 4. Consistency and standards
@@ -94,7 +94,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners
 > make sure you meant to start or stop workout
 
-|![Yoga For Beginners - Workout Video Start Error Prevention](./y5a.PNG)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y5b.PNG)|
+|![Yoga For Beginners - Workout Video Start Error Prevention](./y5a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y5b.png)|
 |------------------------------------------|------------------------------------------|
 ###### These images highlightshow the app sends you a notification to make sure you are or are not willing to start or stop the video
 
@@ -108,7 +108,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners
 > no ability to choose targeted posed for needs and when custom doesnt tell you what it helps with
 
-![Yoga For Beginners - Custom Workout](./y68.PNG)
+![Yoga For Beginners - Custom Workout](./y68.png)
 ###### This image shows that there is no recognition in the needs of the user on the option to customize a workout 
 
 ### 7. Flexibility and efficiency of use
@@ -123,7 +123,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners
 > has to stop video and turn on another one to understand how to do a pose
 
-|![Yoga For Beginners - Workout Video Start Error Prevention](./y7a.PNG)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y7b.PNG)|
+|![Yoga For Beginners - Workout Video Start Error Prevention](./y7a.png)|![Yoga For Beginners - Workout Video Stop Error Prevention](./y7b.png)|
 |------------------------------------------|------------------------------------------|
 ###### These images show how when you are on the exercise it forces you to exit the video to see how to do the pose well
 
@@ -137,7 +137,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners
 > good design but maybe over crowded in the customizable one (maybe subsections)
 
-![Yoga For Beginners - Custom Workout](./y68.PNG)
+![Yoga For Beginners - Custom Workout](./y68.png)
 ###### This image shows how little clearity there is in the option to customize a workout
 
 ### 9. Help users recognize, diagnose, and recover from errors
@@ -154,7 +154,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners 
 > actually error and no warning or place to say why it doesnt work (video after i click for info)
 
-![Yoga For Beginners - Error in Workout Video](./y19.PNG)
+![Yoga For Beginners - Error in Workout Video](./y19.png)
 ###### This images highlights a glitch in the system with not diagnosis or way to recover explained to the user
 
 ### 10. Help and documentation
@@ -167,7 +167,7 @@ It does also prevent you from making mistakes when signing in as it lets you kno
 #### Yoga For Beginners
 > no FAQ 
 
-![Yoga For Beginners - contact info but no FAQ](./y10.PNG)
+![Yoga For Beginners - contact info but no FAQ](./y10.png)
 ###### This image shows that there is no FAQ but there is a contact form if need be
 
 ## Recap of Severity Ratings of Both Apps:
