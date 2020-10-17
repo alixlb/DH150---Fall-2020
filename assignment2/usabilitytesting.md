@@ -23,8 +23,8 @@ At the beginning of the test, I will explain the measures and rules of the usabi
 * ***Task 2*** involves going to the FAQ page and finding the answer to a question.
 * ***Task 3*** involves logging in and then choosing to favor a video and then play it. 
 * ***Post-test questions*** help get feedback about how the user perceive those tasks to be based on difficulty, relevancy and time spent.
-* *** System Usability Scale*** judges how much the participant felt using the website based on a scale of strongly disagree to strongly agree about the ease of use, efficiency etc. of the website. 
-* *** Product satisfaction cards** help both understand how the user perceives the website based on 5 adjectives to describe it.
+* ***System Usability Scale*** judges how much the participant felt using the website based on a scale of strongly disagree to strongly agree about the ease of use, efficiency etc. of the website. 
+* ***Product satisfaction cards*** help both understand how the user perceives the website based on 5 adjectives to describe it.
 * ***Demographic questions***: Questions about age, gender, ethnicity, primary language and how often they exercise.
 
  Overall, the goal of this test is to get a holistic view of how the user feels using the website and get a better understanding about how the target demographic uses sites for fitness in general. 
