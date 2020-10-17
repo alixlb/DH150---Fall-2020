@@ -2,6 +2,8 @@
 
 ## Introduction 
 
+![YMCA 360 - Ad](./y360logo.jpg)
+
 My goal with this UX projects is to create a website that is enticing and easy to us and encourages everyone but especially middle-age women to find the right exercise classes for their needs depending on multiple variables such as intensity, location, duration etc. Because of the age demographic, I found that the YMCA was my closest competitor as it focuses more on exercises for all ages than other gyms that focus more on young people craving high-intensity workouts. It launched a website, [YMCA 360](https://ymca360.org/), that offers free recording of classes for free to all online. 
 
 After conducting a [heuristic evaluation](https://github.com/alixlb/DH150---Fall-2020/blob/main/assignment1/heuristicevaluation.md) on it, I realized multiple principles where being violated especially the help and documentation, user control and  freedom, and flexibility and efficiency of use. It was also hard sometimes to navigate through especially when trying to go back or find the favorite folder which is essential to the principle of recognition rather than recall. Hence I decided to look further into this website and see how my target audience reacts when testing the website. 
