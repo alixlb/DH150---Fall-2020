@@ -12,7 +12,7 @@ I started by a pilot Usability Test and focused on 3 main tasks: playing a worko
 
 ## Methodology 
 
-I will perform this pilot usability test in my quiet living room at home. I will use XYZ to record the participant screen and XYZ to record their expressions. My material is a MacBook Air. The pilot test is in order to test the setting and the UT materials. It should take  about XYZ minutes to do.  
+I will perform this pilot usability test in my quiet living room at home. I will use Zoom on a MacBook Air to record the participant screen , their facial expressions, and audio. My material is a MacBook Air. The pilot test is in order to test the setting and the UT materials. It should take  about XYZ minutes to do.  
 
 I will be as well sitting next to them and taking notes as they go while being as unbiased of a moderator as can be. However, as my participant’s first language is not English, I may have at times have to intervene and translate the question to her from French. 
 
@@ -32,8 +32,7 @@ At the beginning of the test, I will explain the measures and rules of the usabi
 ## User Testing Material
 To do the Usability Testing, I used:
 * Macbook Air
-* (software for screen)
-* (software for recording)
+* Zoom to record screen, audio and facial expressions. 
 * [Google Form](https://forms.gle/uxLMg5HAhpXMSHAq8)
 
 ## Pilot Usability Testing
