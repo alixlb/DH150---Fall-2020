@@ -30,6 +30,8 @@ Overall, both the YMCA 360 and Yoga for Beginners are well design with a minimal
 
 ## Usability Testing
 
+
+![competitor used for pilot usability testing](./y360logo.jpg)
 ### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
 ### Overall Findings
