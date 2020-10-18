@@ -35,7 +35,7 @@ At the beginning of the test, I will explain the measures and rules of the usabi
 To do the Usability Testing, I used:
 * Macbook Air
 * Zoom to record screen, audio and facial expressions. 
-* Google Form to gather all the participants responses (view form [here](https://forms.gle/uxLMg5HAhpXMSHAq8))
+* Google Form to gather all the participants responses (view form [here](https://docs.google.com/forms/d/e/1FAIpQLSfgpNIvgbRd7erTKB8y0Zn91xZjZ9isq_9JreRkIQkT8-IXCw/viewform))
 
 ## Pilot Usability Testing
 
