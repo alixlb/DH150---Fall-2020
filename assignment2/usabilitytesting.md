@@ -41,6 +41,8 @@ To do the Usability Testing, I used:
 
 View the YMCA usability test pilot video [![here](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)
 
+<iframe src="https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/preview" width="640" height="480"></iframe>
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
 
 ## Reflection 
