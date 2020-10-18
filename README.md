@@ -30,6 +30,13 @@ Overall, both the YMCA 360 and Yoga for Beginners are well design with a minimal
 
 ## Usability Testing
 
+After conducting a heuristic evaluation on it, I realized multiple principles were being violated especially: help and documentation, user control and freedom, and flexibility and efficiency of use. It was also hard sometimes to navigate through especially when trying to go back or find the favorite folder which is essential to the principle of recognition rather than recall. Hence I decided to look further into this website and see how my target audience reacts when using it to perform simple tasks.
+
+I started by a pilot Usability Test and focused on 3 main tasks:
+* playing a workout video
+* finding the FAQ (frequently asked questions)
+* using the favoring video function I thought the most important part of this test was using a middle-age woman as my subject to see how she would react to the site.
+My goal with this experiment was to see if my Usability Test material was effective and in term better understand the usability experience of target users to then utilise those finding on my website.
 
 ![competitor used for pilot usability testing](./y360logo.jpg)
 ### Find the full usability testing [here](assignment2/usabilitytesting.md)
