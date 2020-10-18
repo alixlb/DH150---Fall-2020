@@ -35,7 +35,7 @@ At the beginning of the test, I will explain the measures and rules of the usabi
 To do the Usability Testing, I used:
 * Macbook Air
 * Zoom to record screen, audio and facial expressions. 
-* [Google Form](https://forms.gle/uxLMg5HAhpXMSHAq8) to gather all the participants responses
+* Google Form to gather all the participants responses (view form [here](https://forms.gle/uxLMg5HAhpXMSHAq8))
 
 ## Pilot Usability Testing
 
@@ -43,18 +43,18 @@ View the YMCA usability test pilot video [here](https://drive.google.com/file/d/
 
 ## Reflection 
 
-### What I learn from it 
+### What I Learn from the UT
 This pilot usability testing aided me to fully understand the point of view of my target audience as well as validate some of my previous assumptions I made after the heuristic evaluation. I saw that the participant had no issues with finding a workout video and playing it but she did struggle with finding the FAQ and the favorite video folder. Thru this interview, I realized how much the website had been optimized for simple task of playing working out videos for free at all times and did it perfectly but then lacked the ability to help people perform the other tasks surrounding it. 
 
 It was also very interesting to be a moderator for the first time as I realised how important it was not to say too much to the participant to influence their perspective. Even how I formulated questions had an impact on how they would respond to a certain question. Taking all of that into consideration, I tried to be a more silent moderator. I would simply guide the participant throught the pages but would not say much more. 
 
 I think that overall the pilot test went well and will be able to be counted in my data later on. From it, I realized ho much when creating a website for fitness and not only needed to focus on creating an efficent user experience to access the workout videos but also a great experience for other other on it such as finding the FAQ, login in, favoring a video etc. 
 
-### What went well and what didnt
+### What Went Well and What Didn't
 
 Overall the test went according to plan. The setting worked perfectly with no distractions and the Zoom setting up was easy for the participant to use and simple to then download. All the tasks were simple enough that the participant understood them and felt they were relevant to her when using a website like this but yet highlighted some flaws in the website when she struggled to do them.  
 
 What didn't work was some simple spelling errors on the google form. I also had one question where by accident I had left an *option 10* which confused the participant about what it meant and forced me as a moderator to intervene and say it was an error. Additionally, on the pre-survey questions, I made the answers confusing as the first scale *very easy* was on the left while *very difficult* was on the right but for the 3 following ones *completely* was on the right and *not at all on the left*. ALs in my first task, I ask the participant to play the video. The participant did but then assumed she had to watch the whole video. I should have said watch the video for 15 seconds for instance. Overall all of these small errors did not cause her any major problems and create bias in the test but changing them for next time will be important. 
 
-### How to improve my Usability Testing in the Future
-After the test, I already improved it by tweaking the couple of spelling errors and other wording that confused the participant. However, I also plan to be even less involved as a moderator and guide less the process in order to see even more their train of thoughts while they are perfroming the survey. All of these changes will allow the test to seem more professional and also natural to them as they wont feel as if I am guiding their moves and might feel more free and at home performing the tasks. 
+### How to Improve my Usability Testing in the Future
+After the test, I already improved it by tweaking the couple of spelling errors and other wording that confused the participant. This will allow the UT next time to run more smoothly and avoid leading to potential confusing or bias questions. I also plan to be even less involved as a moderator and guide less the process in order to see even more their train of thoughts while they are perfroming the survey. All of these changes will allow the test to seem more professional and also natural to them as they wont feel as if I am guiding their moves and might feel more free and at home performing the tasks. 
