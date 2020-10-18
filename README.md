@@ -32,4 +32,12 @@ Overall, both the YMCA 360 and Yoga for Beginners are well design with a minimal
 
 ### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
+### Overall Findings
+
+This pilot usability testing aided me to fully understand the point of view of my target audience as well as validate some of my previous assumptions I made after the heuristic evaluation.
+*  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
+* The participant did find the website overall ***easy to use and doesn’t require technical support*** to make it work but ***can be better integrated.***
+I think that overall the pilot test went well and will be able to be counted in my data later on. From it, I realized how much when creating a website for fitness, I need to not only needed to focus on creating an efficient user experience to access the workout videos but also a great experience for other other on it such as finding the FAQ, login in, favoring a video etc.
+
+
 
