@@ -17,13 +17,13 @@
 ### Step 2 - Target users 
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
-> My users can be anyone though I created this website with the idea of helping middle-age women find online classes. These women tend to be less use to finding workouts online as they did not grow up with the internet. Before Covid, they were most likely exercising at their local gym. They can have any level of expertise in fitness though I target more novice ones as they might be the most lost in what is a great exercise routine for themselves compared to more experienced. 
+> My users can be anyone though I created this website with the idea of helping middle-age women find online classes. These women tend to be less use to finding workouts online as they did not grow up with the internet. Before Covid, they were most likely exercising at their local gym. They can have any level of expertise in fitness though I target more novice ones as they might be the most lost in what is a great exercise routine for themselves compared to more experienced. They will have different types of preferences (yoga/core/running,with equipement/without equipement, etc). 
 
 #### Where would the users do that activity? (i.e., context of use)
-> XYZ
+> These users will mostly be doing these activites at home due to covid, through some could be exercises to do with equipement at the gym and then for places where group classes have opened up, it will also showcase all the classes available in the area. So they will use this project to choose what kind of workout to do and even create a weekly schedule for themselves. 
 
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
-> XYZ
+> They would likely want to find a workout class that fit their needs. To do so, they would go online and search for what they want. If need be, they might also have to pay to access those classes or register in advance to be part of a class. 
 
 ### Step 3 - Pick observation method(s)
 dshjrsfhdjf
