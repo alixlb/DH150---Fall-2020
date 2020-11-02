@@ -34,7 +34,7 @@ dshjrsfhdjf
 > where to visit, what activities to observe/ what to ask to do, interact with the users ,  how to collect user data
 
 #### Contextual Interview Material
-*Because the intervie did not feel comfortable being filmed while working out, I will only post the audio of the workout and the transcript.*
+*Because the interviewee did not feel comfortable being filmed while working out, I will only post the audio of the workout and the transcript.*
 
 * Please find my contextual inquiry guide script [here](xyz.com)
 * Please find the audio of the interview [here](xyz.com)
