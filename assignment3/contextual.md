@@ -3,21 +3,21 @@
 ### Step 1 - Specify the main design challenge 
 
 #### What is the main activity your project would support the users’ needs?
-> XYZ 
+> The main activity my project supports is the ability for users to find videos across the internet that meet their fitness needs based on various criterias. Hence the platform would help users look for workout video, courses and challenges that could work into their daily routine easily and make them excited to workout. While my platform helps with fitness overall the main part of the working out activity it does is to help the users find such exercise. 
 
 #### What is the basic need involved for that activity?
-> XYZ 
+> This activity requires currently a computer/tablet/mobile. While in non-Covid times, users could also walk around the neighboorhood and inquire about local workout classes with covid most gyms are close and often registration for outdoors social-distanced classes are done online, hence users will always need some electronic device to find these classes and that is where my project come in to play. As for sport equipement, it depends. My project allow users to filter by equipement they have or not so a part from a electronic device with a search browser and some sport clothes the user needs nothing else. 
 
-#### What is the basic need involved for that activity?
-> XYZ 
+#### What is(are) the traditional/current solution(s) to satisfy the needs?
+> Pre-COVID, users could either look up online or check out local gyms and other fitness center in-person and inquire about their equipement and potential classes. Now with COVID, most gyms are closed or require online reservations to come in, hence, most of the solutions are online.  
 
 #### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
-> XYZ 
+> Through the internet, they need to search through thousands of websites/blogs/youtube videos etc. to find something that they are looking for and the web browsers are not created to allow for easy filtering of all those sites. That is where my projects comes into play. It facilitates finding classes and simplifies current solutions.
 
 ### Step 2 - Target users 
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
-> XYZ
+> My users can be anyone though I created this website with the idea of helping middle-age women find online classes. These women tend to be less use to finding workouts online as they did not grow up with the internet. Before Covid, they were most likely exercising at their local gym. They can have any level of expertise in fitness though I target more novice ones as they might be the most lost in what is a great exercise routine for themselves compared to more experienced. 
 
 #### Where would the users do that activity? (i.e., context of use)
 > XYZ
