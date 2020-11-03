@@ -31,7 +31,7 @@ dshjrsfhdjf
 ### Step 4 & 5 - Setting-up + Interview
 
 #### Planning 
-> where to visit, what activities to observe/ what to ask to do, interact with the users ,  how to collect user data
+> I plan to do the interview at my hose when the user is planning on working out. I will observe them choosing a workout online and ask them about their choise and then observe how they interact with the workout while doing it. I plan to collect the data from it with a video & audio interview (excluding the working out part) as well as written notes I will take (including when they are working out). 
 
 #### Contextual Interview Material
 *Because the interviewee did not feel comfortable being filmed while working out, I will only post the audio of the workout and the transcript.*
