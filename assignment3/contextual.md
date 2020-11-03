@@ -37,9 +37,9 @@ dshjrsfhdjf
 *Because the interviewee did not feel comfortable being filmed while working out, I will only post the audio of the workout and the transcript.*
 
 * Please find my contextual inquiry guide script [here](https://docs.google.com/document/d/1k-YUpLMlWf4HpT_52NV4pB9DiD5obErS7qDabP8DCug/edit?usp=sharing)
-* Please find the audio of the interview [here](xyz.com)
-* Please find the transcript of the interview [here](xyz.com)
-* Please find interview notes here[here](xyz.com)
+* Please find the audio of the interview [here](https://drive.google.com/file/d/1kgUQlv33uadG6k9_0LzbzBOTQQ4cVwif/view?usp=sharing)
+* Please find the transcript of the interview [here](audio_contextual_otter.ai.txt)
+* Please find interview notes here[here](notes_from_contextual.pdf)
 
 ### Step 6 - Relection
 
