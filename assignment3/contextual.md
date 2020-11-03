@@ -26,12 +26,14 @@
 > They would likely want to find a workout class that fit their needs. To do so, they would go online and search for what they want. If need be, they might also have to pay to access those classes or register in advance to be part of a class. 
 
 ### Step 3 - Pick observation method(s)
-dshjrsfhdjf
+I decided to pick **participatory observation** as a mean of observation methode as I thought it would be the most useful for me and the safest. I decide to take person that fit my demographic criterias (my mother) and my living room as a space as she usually works out there and by living together, I was avoiding taking risk of seeing other people during these times. I was interested in seeing how my user performs these actions in depth, in the comfort of their own home. This recreated the context they would usually perform these tasks.
+I thought it made sense to pick such methods as currently most people are not able to exercise at the gym or in groups so the only way is often by doing cardio such as running or by watching online videos. 
+I will however force my user to not just stick to their typical workout but actually find a new one as I want to understand the process of finding a workout that fits their needs rather than just how they go back to the ones they already like. 
 
 ### Step 4 & 5 - Setting-up + Interview
 
 #### Planning 
-> I plan to do the interview at my hose when the user is planning on working out. I will observe them choosing a workout online and ask them about their choise and then observe how they interact with the workout while doing it. I plan to collect the data from it with a video & audio interview (excluding the working out part) as well as written notes I will take (including when they are working out). 
+> I plan to do the interview at my hose when the user is planning on working out. I will observe them choosing a workout online and ask them about their choise and then observe how they interact with the workout while doing it. I plan to collect the data from it with an audio interview as well as written notes I will take (including when they are working out). I did not post a video interview as the the interviewee did not feel comfortable being filmed while working out. 
 
 #### Contextual Interview Material
 *Because the interviewee did not feel comfortable being filmed while working out, I will only post the audio of the workout and the transcript.*
@@ -43,6 +45,15 @@ dshjrsfhdjf
 
 ### Step 6 - Relection
 
+Overall the interview went well. The user did feel very frustrated when doing the tasks and left dissatified. In a way that proves the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for the use.
+Because of the nature of our conversation, some of the questions felt redudant to ask almost. I would say that next time, I would  need to be a bit more prepared as a moderator to adapt and not just stick to the script to avoid redudancies and create a sort of dialogue with the participant. 
+
 #### Important things to note
+I learn a lot of valuable information through this contextual inquiry. Here are some of the major insights gathered from the data:
+* **Friends opinion matter:**
+* **Too much information online/lack of filters:**
+* **Price matters:**
+* **Pictures are important:**
+* **Experience is overwhelming and takes too long:**
 
 #### Overall Reflection
