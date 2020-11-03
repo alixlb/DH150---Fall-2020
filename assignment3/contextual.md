@@ -45,8 +45,9 @@ I will however force my user to not just stick to their typical workout but actu
 
 ### Step 6 - Relection
 
-Overall the interview went well. The user did feel very frustrated when doing the tasks and left dissatified. In a way that proves the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for the use.
-Because of the nature of our conversation, some of the questions felt redudant to ask almost. I would say that next time, I would  need to be a bit more prepared as a moderator to adapt and not just stick to the script to avoid redudancies and create a sort of dialogue with the participant. 
+Overall the interview went well in terms of how it was conducted. The participant was able to do all the tasks and the questions were clear. However, due to the nature of our conversation, some of the questions felt redudant to ask almost. In the future, I hope to be a bit more prepared as moderator to adapt and not just stick to the script to avoid redudancies and create a sort of dialogue with the participant. I will also want to see if anyone in my target demographic used internet in the past (pre-covid) to find workout classes in general and if so why?
+
+However, the task in itself was not enjoyable for the user. The user did feel very frustrated when doing the tasks and left dissatified. In a way that proves the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for the use. In the future, I will not be changing the task as it is integral to my process even if it is tedious for the user as it shows me what parts of the process make the user frustrated and potentially discourage which I can then help solve. So while some may see that as a bad point of my interview, I see it as a great asset and will not change it. 
 
 #### Important things to note
 I learn a lot of valuable information through this contextual inquiry. Here are some of the major insights gathered from the data:
