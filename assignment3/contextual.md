@@ -33,15 +33,15 @@ I will however force my user to not just stick to their typical workout but actu
 ### Step 4 & 5 - Setting-up + Interview
 
 #### Planning 
-> I plan to do the interview at my hose when the user is planning on working out. I will observe them choosing a workout online and ask them about their choise and then observe how they interact with the workout while doing it. I plan to collect the data from it with an audio interview as well as written notes I will take (including when they are working out). I did not post a video interview as the the interviewee did not feel comfortable being filmed while working out. 
+> I plan to do the interview at my hose when the user is planning on working out. I will observe them choosing a workout online and ask them about their choise and then observe how they interact with the workout while doing it. I plan to collect the data from it with an audio interview as well as written notes I will take (including when they are working out). I did not post a video interview as the the interviewe did not feel comfortable being filmed while working out. 
 
 #### Contextual Interview Material
-*Because the interviewee did not feel comfortable being filmed while working out, I will only post the audio of the workout and the transcript.*
+*Because the interviewe did not feel comfortable being filmed while working out, I will only post the audio of the workout and the transcript.*
 
 * Please find my contextual inquiry guide script [here](https://docs.google.com/document/d/1k-YUpLMlWf4HpT_52NV4pB9DiD5obErS7qDabP8DCug/edit?usp=sharing)
 * Please find the audio of the interview [here](https://drive.google.com/file/d/1kgUQlv33uadG6k9_0LzbzBOTQQ4cVwif/view?usp=sharing)
 * Please find the transcript of the interview [here](audio_contextual_otter.ai.txt)
-* Please find interview notes here[here](notes_from_contextual.pdf)
+* Please find interview notes [here](notes_from_contextual.pdf)
 
 ### Step 6 - Relection
 
@@ -50,10 +50,10 @@ Because of the nature of our conversation, some of the questions felt redudant t
 
 #### Important things to note
 I learn a lot of valuable information through this contextual inquiry. Here are some of the major insights gathered from the data:
-* **Friends opinion matter:**
-* **Too much information online/lack of filters:**
-* **Price matters:**
-* **Pictures are important:**
-* **Experience is overwhelming and takes too long:**
+* **Experience is overwhelming and takes too long:** The overarching theme of this research is that the current opions in place to find fitness classes through the internet is long and overwhelling. There are too many choices and you need to put in the right strings of words to get anywhere close to what you want (i.e the participant types "arms classes" and landed on a gun website). Additionally, even if you find the right words to type-in you then have so many choices and you need to go through several sites before finding one that works for you based on the length of the video, who is the target audience, the price etc. Hence, this interview really showed the importance of my project.
+* **Friends opinion matter:** A great way to streamline the process is to ask friends their recommendations and start from there. While the participant did not use social media to find workout classes, the social aspect of working out was extremely important to her. She valued her friends opinions about workout and felt more happy doing workout with her friends. This insight helped me realize the importance of including a social aspect to my project to help people find workout more easily and possibly also entice them to workout more. 
+* **Too much information online/lack of filters:** One of the biggest problems with search process was the amount of choice and ability to filter through them. Hence, filtering based on target demographic, price, equipement, lenght, type of exerices, etc. will be extremely important. Maybe I will have to do an card sorting exerices to help me understand how to present features on the website. 
+* **Price matters:** Knowing if something was free or not was crutial for the participant especially if the class was online and she did it alone at home. However, she did pay for a YMCA membership before the pandemic. Hence, it is important to present the price for each workout and also what type it is. 
+* **Pictures are important:** The most interesting piece of data was how much the participant looked at the picture before each video she choose. For her, that picture and the lenght was all the information she needed about the workout before playing it. In the picture she looked at what age, what gender, and what type of equipement the instructor was using. It was incredibly important to her that the instructor had the same age and gender as her as it meant it was made for people like her. Having high quality images that show what the workout will be like will therefore be essential for my project. 
 
 #### Overall Reflection
