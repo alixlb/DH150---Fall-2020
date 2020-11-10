@@ -27,3 +27,6 @@ Based on my previous research, I plan to implement 3 design features that I beli
 ![Evalyn's persona profile](./evalyn_p.png)
 
 ![Evalyn's empathy map](./evalyn_em.png)
+
+### Scenarios & Journey Map
+
