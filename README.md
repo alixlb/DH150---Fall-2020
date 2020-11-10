@@ -80,3 +80,9 @@ I identified their needs, challenges and goals as well as created an empathy map
 I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
 
 ### Find the full personas and scenarios [here](assignment5/personas.md)
+
+### Relection
+
+### Reflection
+
+* I truly enjoyed creating personas, especially the empathy maps as it helped me better understand why the users would use the features I am planning to create and the positive impact it will have on their fitness journey. From this research, I was able to understand how my project should focus on **resolving any frustration in the fitness process my user had (user-centric approach).** Additionally, it reaffirms the validity of the needs for more **filters, a quiz and a social component in fitness apps which is the key features of my project.**
