@@ -48,10 +48,14 @@ This was a blessing as June had no idea that pilates was what she liked the most
 
 #### 2. Mary's Scenario - the social aspect
 
+> *The filters and categorization features create an extensive possibility of ways to filter through all the  options available on the internet easily based on needs that users may have when working out. This will allow them to easily narrow down their choices from the thousands of options available to them on the internet. Some examples of those filters are: type of workout, level of intensity, lengths, equipment needed, etc.* 
 
 ![Mary's journey map](./mary_j.png)
 
 #### 3. Evalyn's Scenario - the filter function
+ 
+ > *The social feature of Fitness for All enable users to have an account on the site and interact with other  site members through chats and trusted reviews. The reviews will give some description of who the reviewer is in order to see what people with similar goals think about the particular workout. It creates a more social component that currently does not exist in fitness due to the social distancing.*
 
+ 
 ![Evalyn's journey map](./evalyn_j.png)
 
