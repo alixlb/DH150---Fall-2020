@@ -34,8 +34,7 @@ While all functions I plan to improve in my project can be used by each personal
 
 #### 1. June's Scenario - the quiz function
 
-#### The quiz feature
-> This detail quiz will help beginners or people with recent changes in their capabilities (injuries, pregnancies etc.) understand what are their needs and offer them initial options to see which they like and dislike based on workouts that are perfect for them. 
+> *This detail quiz feature will help beginners or people with recent changes in their capabilities (injuries, pregnancies etc.) understand what are their needs and offer them initial options to see which they like and dislike based on workouts that are perfect for them.*
 
 June is now actively looking to start working out. She has asked some friends about what they like to do and they have all told her different answers ranging from yoga to running to Zumba. While June has heard of these different types of workout before, she has no clue which one she would like and what benefits each have for her body.
 
