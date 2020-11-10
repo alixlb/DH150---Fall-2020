@@ -34,14 +34,14 @@ While all functions I plan to improve in my project can be used by each personal
 
 #### 1. June's Scenario - the quiz function
 
-[June's journey map](./june_j.png)
+![June's journey map](./june_j.png)
 
 #### 2. Mary's Scenario - the social aspect
 
 
-[Mary's journey map](./mary_j.png)
+![Mary's journey map](./mary_j.png)
 
 #### 3. Evalyn's Scenario - the filter function
 
-[Evalyn's journey map](./evalyn_j.png)
+![Evalyn's journey map](./evalyn_j.png)
 
