@@ -50,6 +50,14 @@ This was a blessing as June had no idea that pilates was what she liked the most
 
 > *The filters and categorization features create an extensive possibility of ways to filter through all the  options available on the internet easily based on needs that users may have when working out. This will allow them to easily narrow down their choices from the thousands of options available to them on the internet. Some examples of those filters are: type of workout, level of intensity, lengths, equipment needed, etc.* 
 
+Mary use to love going early in the morning to group fitness classes at her local gym. She had friends there and a sharp schedule that kept her motivated to workout. However with the stay at home order, her gym shut-down and she was unable to participate in those anymore. Alone at-home, she lack the motivation to workout every other day. Additionally, she didn’t know what type of exercises she like. She usually picked workout based on what her friends at the gym recommended as she loved the ambiance of working out with them and motivating one and other. 
+
+She recently decided she wanted to be her own motivator and workout again with online classes but failed without the support of others. She then realized she needed to find live virtual classes where there was other attendees that way she could feel more incline to join and feel like she is a part of the class. However, after going online and searching for those classes, she didn’t find anything that looked like what was at the gym. Most live classes were bootcamps made for young and very athletic people she thought and became discourage once again. 
+
+She then found Fitness for All and saw that they had live classes. Additionally all classes had reviews on them with information about the people behind the review (age, gender, level of intensity, preferred workouts, etc.) Through that she was able to find people that were similar than her and what classes they were taking. She joined a live class or two and was pleased to see that for those live classes there was a group chat features where participants can chat during the week and motivate one and other. 
+
+Mary felt happy to finally feel motivated to workout again through a social workout experience online. She felt amaze to workout with people around the country and to finally have a clear workout schedule. The social component of Fitness for All really helped her figure out what classes she may enjoy and find an online community to encourage her to workout again. 
+
 ![Mary's journey map](./mary_j.png)
 
 #### 3. Evalyn's Scenario - the filter function
