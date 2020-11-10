@@ -13,6 +13,13 @@ However, online exercises classes are often either tailored to young adults and 
 
 Through my UX design project, I hope to impact the lives of mid-age women (and potentially others) by offering an easy and seamless experience for people to find fitness programs/classes/exercises that fit into their schedule and help them stay in good health both physically and mentally. I also hope to incorporate a social aspect to this app to create a community around the topic of fitness habits. 
 
+### Design Features 
+
+Based on the research below, I decided to create 3 design features that I believe will help users feel incentive to workout and more confident in their choices of workout: 
+* **Filters:** create an extensive possibility of filter options and categorize them easily based on needs that users may have when working out. This will allow them to  easily narrow down their choices from the thousands of options available to them on the internet. Some examples of those filters are: type of workout, level of intensity, lengths, targeted area of the body, equipment needed, type of workout (images, videos, prerecorded, live, in person, virtual), price, etc.
+* **Social reviews:** the ability to have an account on the site and interact with other of the site members through chats and trusted reviews. Like the Sephora website, the reviews will give some description of who the reviewer is in order to see what people similar to you have said about the particular workout and help you see if it may fit your needs. It creates a more social component that currently cannot be recreated due to the social distancing. 
+* **Quiz function:** to help beginners or people with recent changes in their capabilities (injuries, pregnancies etc.) understand what are their needs and offer them initial options to see which they like and do not like. 
+
 ## Competitive Analysis & Heuristic Evaluation
 
 The first step of the project was to look at websites focused on the same subject as this project,fitness, and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. I also choose the app, [Yoga For Beginners](https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
@@ -62,3 +69,11 @@ I learn a lot of valuable information through this contextual inquiry. Here are 
 * **Too much information online/lack of filters makes the research frustrating at times.** 
 * **Price matters.** 
 * **Users look at pictures of the workout as a way to guage what the workout will be like.** 
+
+## UX Storytelling - User Personas & Scenarios
+
+UX Storytelling reminds the researchers and designers that the experience must be user-centered. By think no longer websites based on heuristic principles and user interviews as data points, UX storytelling allows researcher to reflect on the underlying feeling and desires that users may have when completing the task and assuring that those are being satisfied by the results of the project. By creating personas, I will be able to think as the target users more generally and understand better how the current system in place does not meet their goals.
+
+During my research, I created 3 personas: **June - the recent retiree  :family_woman_girl_boy:, Mary - the social butterfly  :butterfly: & Evalyn - the busy bee  :honeybee:.**
+I identified their needs, challenges and goals as well as created an empathy map to better understand how they felt during the process. 
+I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
