@@ -9,7 +9,7 @@ This quarter's goal is to create a UX project that promotes well-being for middl
 
 However, online exercises classes are often either tailored to young adults and very fit individuals or on the opposite end of the spectrum elderly people and middle-age women sometimes feel left out of the equation. They are far more active and dynamic than elderly people but can also feel intimidated by intensive HIIT training targeted at a younger audience. Hence, my project would focus on a user-centric platform for fitness and well-being targeted at middle-age women. This platform will be easy to use and allow users to find all the fitnesses courses out there and see which ones are the best for them depending on variables such as time committment, prices, in-person or vitual, at home equipement or gym equipement, level of intensity etc. It will also create a community for my audience around the topics of fitness and well-being
 
-## Community Contribution through this UX design
+### Community Contribution through this UX design
 
 Through my UX design project, I hope to impact the lives of mid-age women (and potentially others) by offering an easy and seamless experience for people to find fitness programs/classes/exercises that fit into their schedule and help them stay in good health both physically and mentally. I also hope to incorporate a social aspect to this app to create a community around the topic of fitness habits. 
 
@@ -74,7 +74,7 @@ I learn a lot of valuable information through this contextual inquiry. Here are 
 
 UX Storytelling reminds the researchers and designers that the experience must be user-centered. By think no longer websites based on heuristic principles and user interviews as data points, UX storytelling allows researcher to reflect on the underlying feeling and desires that users may have when completing the task and assuring that those are being satisfied by the results of the project. By creating personas, I will be able to think as the target users more generally and understand better how the current system in place does not meet their goals.
 
-During my research, I created 3 personas: **June - the recent retiree  :family_woman_girl_boy:, Mary - the social butterfly :butterfly:  & Evalyn - the busy bee  :honeybee:  .**
+During my research, I created 3 personas: **June - the recent retiree  :family_woman_girl_boy:   , Mary - the social butterfly :butterfly:   & Evalyn - the busy bee  :honeybee:  .**
 
 I identified their needs, challenges and goals as well as created an empathy map to better understand how they felt during the process. 
 I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
