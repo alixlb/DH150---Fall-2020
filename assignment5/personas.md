@@ -30,3 +30,18 @@ Based on my previous research, I plan to implement 3 design features that I beli
 
 ### Scenarios & Journey Map
 
+While all functions I plan to improve in my project can be used by each personal to reach their goals, I have prefered to create a scenario for each function that highighted how it could help one of the persona at least achieve her goals and meet her needs. 
+
+#### 1. June's Scenario - the quiz function
+
+[June's journey map](./june_j.png)
+
+#### 2. Mary's Scenario - the social aspect
+
+
+[Mary's journey map](./mary_j.png)
+
+#### 3. Evalyn's Scenario - the filter function
+
+[Evalyn's journey map](./evalyn_j.png)
+
