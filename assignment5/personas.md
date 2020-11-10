@@ -67,3 +67,11 @@ Evalyn feels relieved and excited to be able to workout again as it was somethin
 ![Evalyn's journey map](./evalyn_j.png)
 
 ### Reflection
+
+* I truly enjoyed creating personas, especially the empathy maps as it helped me better understand why the users would use the features I am planning to create and the positive impact it will have on their fitness journey.
+
+* My only limitation was that I felt I did not have enough demographic information about each as well as their abilities to truly research online. Next time, I would like to go more in-depth about that. 
+
+* From this research, I was able to understand how my product should focus on resolving any frustration in the fitness process my user had (user-centric approach).
+
+* Additionally, it reaffirms the validity of the needs for more filters, a quiz and a social component to fitness apps which is the key features of my project. 
