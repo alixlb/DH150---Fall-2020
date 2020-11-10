@@ -34,6 +34,17 @@ While all functions I plan to improve in my project can be used by each personal
 
 #### 1. June's Scenario - the quiz function
 
+#### The quiz feature
+> This detail quiz will help beginners or people with recent changes in their capabilities (injuries, pregnancies etc.) understand what are their needs and offer them initial options to see which they like and dislike based on workouts that are perfect for them. 
+
+June is now actively looking to start working out. She has asked some friends about what they like to do and they have all told her different answers ranging from yoga to running to Zumba. While June has heard of these different types of workout before, she has no clue which one she would like and what benefits each have for her body.
+
+ Because of COVID-19, going to her local gyms and seeing what they offered was not a possibility so she turned to the internet and planned to workout from the comfort of her own home. However, she had no clue what to research and didn’t know what equipment she needed or how long she should clearly workout for. She was completely lost and felt like she didn’t know how to start. 
+
+She then found Fitness for All and clicked on their quiz. Within the next 10 minutes, she was able to understand and put into words what she wanted, what she thinks she likes and dislikes as well as how equipped she is. She then created a profile that offered her various types of workouts that matched her criteria and allowed her to try it workout and create a feedback loop once complete. The more she tried out workouts given to her by the quiz, the more she knew what was working for her, and the more the website would give her accurate results for her. 
+
+This was a blessing as June had no idea that pilates was what she liked the most and was able to develop a really joy in doing it daily and staying in shape. Feeling satisfied of working out and how easy if finally became, she was able to stay in shape and go enjoy quality time with her grand children. 
+
 ![June's journey map](./june_j.png)
 
 #### 2. Mary's Scenario - the social aspect
