@@ -13,17 +13,17 @@ Based on my previous research, I plan to implement 3 design features that I beli
 
 ### Persona & Empathy Map
 
-#### June - the recent retiree
+#### :family_woman_girl_boy: June - the recent retiree
 ![June's persona profile](./june_p.png)
 
 ![June's empathy map](./june_em.png)
 
-#### Mary - the social butterfly
+#### :butterfly: Mary - the social butterfly
 ![Mary's persona profile](./mary_p.png)
 
 ![Mary's empathy map](./mary_em.png)
 
-#### Evalyn - the busy bee
+#### :honeybee: Evalyn - the busy bee
 ![Evalyn's persona profile](./evalyn_p.png)
 
 ![Evalyn's empathy map](./evalyn_em.png)
