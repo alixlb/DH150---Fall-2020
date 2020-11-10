@@ -56,6 +56,14 @@ This was a blessing as June had no idea that pilates was what she liked the most
  
  > *The social feature of Fitness for All enable users to have an account on the site and interact with other  site members through chats and trusted reviews. The reviews will give some description of who the reviewer is in order to see what people with similar goals think about the particular workout. It creates a more social component that currently does not exist in fitness due to the social distancing.*
 
- 
+ Evalyn is currently balancing her new at-home work schedule and having two teenagers at-home taking classes online. After sitting all day long, she wants to workout but feels like she never has the time. On top of that she injured her knee recently and cannot do her typical workouts. Even before covid, she use to workout at home cuz she did not like her local gym and didn’t want to waste time commuting to another gym. She likes switching up her at home routines and need various lengths of workout to squeeze into her face-pace life. 
+
+Because of her always busy home and her knee injury, she has been less able to workout but is now looking to take more time for herself. However, she is faced with so many options on the internet and is still unsure about what she can and cannot do with her knee. Her doctor told her that she could workout again but take things easy. So she goes on Google and tries to find the perfect workouts to match all her criteria. She gets overwhelmed by the amount of search results and now how to slowly go through all of them which she does not have time to do. Hence, she feels stuck and unable to workout as she lacks the time do research. 
+
+One day, her friends mention to her Fit for All and its extensive list of classes that are categorize methodically to make it easy for her to understand everything she needs to know about a workout within seconds. She heads to the website and filters out exactly based on her specific needs (at-home, prerecorded, with equipment, short length, advance level, with a knee injury). She then only gets the relevant workouts and within minutes she is able to understand what each of these results involve and can save them for future workouts. 
+
+Evalyn feels relieved and excited to be able to workout again as it was something that she cherished in the past. She can now take the little amount of free time she has in her day to workout. By working out and having an easy way to find new fitness programs, she is able to destress and feel happier. 
+
 ![Evalyn's journey map](./evalyn_j.png)
 
+### Reflection
