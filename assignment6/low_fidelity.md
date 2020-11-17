@@ -28,12 +28,22 @@ The prototype: all the wireframes were handdrawn and then photographed and throu
 To download the prototype [click here](https://drive.google.com/file/d/1fqu4Xn2RN80RqU_Ewk6_iYyBqSRSe4dG/view?usp=sharing)
 
 ### Testing
-After crafting the wireframe and performing a wirefont, I now had to see if it made sense to my target audience. I asked a person to test how they viewed the flow and what might be confusing about it.
+After crafting the wireframe and performing a wirefont, I now had to see if it made sense to my target audience. I asked a person to test how they viewed the flow and what might be confusing about it. 
 
-Video: 
+Because I had 9 wireframe in total, I decide to show only some accross each task to my users as seeing so much as once on paper might be overwelming and is to actually how they would see things on the website. I included all passage ways one could use to get the task done even if you did not need all frames to do so. 
 
-Prototype: 
+All the lines and rounds are made by the participants. I then went in and added all the written notes to highlight where there was confusion. 
 
+Video: Watch the video of the prototype [here](https://drive.google.com/file/d/1wAAqIMiQHWlZvw0iKLqugJiDd7kpjlr-/view?usp=sharing)
+
+#### Task 1:
+![task 1](./wireframe.png)
+
+#### Task 2:
+![task 2](./wireframe.png)
+
+#### Task 3 & 4: 
+![task 3 & 4](./wireframe.png)
 
 
 ### Reflection
