@@ -37,14 +37,14 @@ All the lines and rounds are made by the participants. I then went in and added 
 Video: Watch the video of the prototype [here](https://drive.google.com/file/d/1wAAqIMiQHWlZvw0iKLqugJiDd7kpjlr-/view?usp=sharing)
 
 #### Task 1:
-![task 1](./wireframe.png)
+![task 1](./task1.JPG)
 
 **Areas of confusion**:
 * On the frame of the quiz, she was unsure if it was a multiple choice answer or single choice and failed to see that the search icon in the text box meant she could write in her answers. She did see and understand the progression bar however.
 * On the same frame, she struggle with understanding if by answering it would go directly to the next page or if she had to click on the arrow in the bottom. 
 
 #### Task 2:
-![task 2](./wireframe.png)
+![task 2](./task2.JPG)
 
 **Areas of confusion**:
 * This was the most confusing task to complete which proves that my filters are not efficent enought and need to be worked on further.
@@ -54,7 +54,7 @@ Video: Watch the video of the prototype [here](https://drive.google.com/file/d/1
 * She  finally was confused about how to go and exit the "more filter" page and accress the videofrom there. 
 
 #### Task 3 & 4: 
-![task 3 & 4](./wireframe.png)
+![task 3 & 4](./task3_4.JPG)
 
 **Areas of confusion**:
 * On task 3, she failled to see she had some insight on what others had though of the review through the gradinbg and the star. 
