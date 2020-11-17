@@ -79,5 +79,7 @@ From this research, I have found multiple areas of confusion for the customer in
   * Solution: I can make it more usual with starts that are colored in for the grade and then writing (# of reviews) next to it to showcase what people have thought of the workout.
 * What I had planed as a profile page, she saw as a page solely for classes one was registered for. 
   * Solution: Through her confusion, I was reminded of the recall vs recognition heuristic principle and realize it might be more useful to keep this link to a profile page as simply that but add a icon (probably of a heart) on the naviagtion bar where people could easily access their favorite classes and see their registered classes and chat from there. I would also add a button to favor classes on the website. 
-  
+
+***Here is the revise version of the wireframe & wireflow after testing it on target audience:***
+![Revised version of wireframe & wireflow](/Wireframe-revised.png)
   
