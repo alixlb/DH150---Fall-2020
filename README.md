@@ -96,6 +96,7 @@ In this wireframe, I tested out 4 tasks:
 3. ***Use reviews to get better understanding of the workout:*** The goal is to test the social reviews feature of my project. In User Testing, I found out that a lot of my target audience rely on their friends opinions to find new workouts. In part, they use their friend opinion because its someone that is similar in age, gender and lifestyle as them . In this task, I ask the user to go find the reviews for a workout they are interested in to see if where I plan to put them is the right place for people to find. 
 4. ***Chat with people in your workout class:*** The goal is to test out the other part of the social component of my project. In my research, I found that people liked connect with others during workouts which is now limited due to covid. So I plan to create a social chat for people registered in a class together in order for them to talk and get to know each  
 
-![wireframe prototype](./wireframe.png)
+After testing the wireframes & wireflow on a participant, I revised my wireframe and ended up with this low-fidelity prototype:
+![revised wireframe prototype](./wireframe_revised.png)
 
 ### Find the full Low-Fidelity Prototype and testing [here](assignment6/low_fidelity.md)
