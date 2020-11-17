@@ -10,7 +10,7 @@ Over the course of the user-research done in the last 5 weeks, I have been able 
 ### Wireframe & Wireflow
 
 The prototype:
-![wireframe prototype](./wireframe.jpg)
+![wireframe prototype](./wireframe.png)
 
 ### Testing
 After crafting the wireframe and performing a wirefont, I now had to see if it made sense to my target audience. I asked a person to test how they viewed the flow and what might be confusing about it.
