@@ -17,12 +17,12 @@
 For this wireframe, I will be testing out 4 tasks:
 1. ***Take a quiz to find the right workout:*** The goal is to test out the flow of the quiz feature to make sure it makes sense. I did not include all the questions as that would be too many wire frames but I created at least one to ensure that the progression made sense. 
 2. ***Use filters to find the workout you want:***. The goal is to test out the filter feature and to assure that is eleviating the stress of searching for a workout and making it quicker to narrow down the choices. I have only shown some of the criterias as it is only made to test functionality. 
-3. ***Use reviews to get better understanding of the workout:***
-4. ***Chat with people in your workout class:***
+3. ***Use reviews to get better understanding of the workout:*** The goal is to test the social reviews feature of my project. In User Testing, I found out that a lot of my target audience rely on their friends opinions to find new workouts. In part, they use their friend opinion because its someone that is similar in age, gender and lifestyle as them . In this task, I ask the user to go find the reviews for a workout they are interested in to see if where I plan to put them is the right place for people to find. 
+4. ***Chat with people in your workout class:*** The goal is to test out the other part of the social component of my project. In my research, I found that people liked connect with others during workouts which is now limited due to covid. So I plan to create a social chat for people registered in a class together in order for them to talk and get to know each  
 
 ### Wireframe & Wireflow
 
-The prototype: all the wireframes were handdrawn and then photographed and through Whimsical, I created the wireflow. 
+The prototype: all the wireframes were hand-drawn and then photographed and through Whimsical, I created the wireflow. 
 ![wireframe prototype](./wireframe.png)
 
 To download the prototype [click here](https://drive.google.com/file/d/1fqu4Xn2RN80RqU_Ewk6_iYyBqSRSe4dG/view?usp=sharing)
@@ -62,4 +62,9 @@ Video: Watch the video of the prototype [here](https://drive.google.com/file/d/1
 
 ### Reflection
 
+#### The process
+This week's assignment was a bit harder for me logistically than other weeks as I initially drew each frame on a piece of paper and then realized they were too close to one another and had to cut them and put them on several pieces of paper for each tasks and had to photocopy those that I needed on multiple tasks. On top of that, when I then photographed my entire wireframe & wireflow, the quality of the image made it so that what was in each frame was blurry. I then had to go back and take pictures of each frame separately and then paste them all into Whimsical to draw the flow. 
 
+As for the testing part, I also struggled because I failed to explain well enough how to write on the wireframes I had given my participant. She therefore struggled to understand how navigate the frames and kept asking if she was doing it right as if there was a single right answer. However, her confusion also lead to discrovering some areas of improvement especially on how to get from one page to another on my website which is not currently very clear. I think, in the future, I would not draw my frames as it was then hard to export to my computer in a legible way. Additonally, maybe I would create a task 0 are frames for it that has nothing to do with my project in order to show her how she can write all over the wireframe to make the exercise more clear to my participants. 
+
+#### Insights
