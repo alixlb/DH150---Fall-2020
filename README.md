@@ -84,3 +84,18 @@ I then used this new found understanding of my audience to create scenarios abou
 ### Reflection
 
 I truly enjoyed creating personas, especially the empathy maps as it helped me better understand why the users would use the features I am planning to create and the positive impact it will have on their fitness journey. From this research, I was able to understand how my project should focus on **resolving any frustration in the fitness process my user had (user-centric approach).** Additionally, it reaffirms the validity of the needs for more **filters, a quiz and a social component in fitness apps which is the key features of my project.**
+
+
+## Low-Fidelity Prototype
+
+The purpose of this low-fidelity prototype is start planing the flow of my website as well as how each frame would look like in order to assure functionality for the users. My goal is to keep in mind my user-centric research and apply it to this low-fidelity prototype to ensure that it actually solved the user problem. I am then particularly excited to have a target audience member go through the wireframe and point out any areas that might be confusing.
+
+In this wireframe, I tested out 4 tasks:
+1. ***Take a quiz to find the right workout:*** The goal is to test out the flow of the quiz feature to make sure it makes sense. I did not include all the questions as that would be too many wire frames but I created at least one to ensure that the progression made sense. 
+2. ***Use filters to find the workout you want:***. The goal is to test out the filter feature and to assure that is eleviating the stress of searching for a workout and making it quicker to narrow down the choices. I have only shown some of the criterias as it is only made to test functionality. 
+3. ***Use reviews to get better understanding of the workout:*** The goal is to test the social reviews feature of my project. In User Testing, I found out that a lot of my target audience rely on their friends opinions to find new workouts. In part, they use their friend opinion because its someone that is similar in age, gender and lifestyle as them . In this task, I ask the user to go find the reviews for a workout they are interested in to see if where I plan to put them is the right place for people to find. 
+4. ***Chat with people in your workout class:*** The goal is to test out the other part of the social component of my project. In my research, I found that people liked connect with others during workouts which is now limited due to covid. So I plan to create a social chat for people registered in a class together in order for them to talk and get to know each  
+
+![wireframe prototype](./wireframe.png)
+
+### Find the full Low-Fidelity Prototype and testing [here](assignment6/low_fidelity.md)
