@@ -51,13 +51,13 @@ Video: Watch the video of the prototype [here](https://drive.google.com/file/d/1
 * On the home page, she used the quick buttons under the search bar and did not even think about typing up her search query. 
 * On the search page, she was unsure which criterias she could push and how many she could choose. 
 * She then got distracted by the additional home screen frame that had the naviagation pull out which was simply another way to access the search pahge.
-* She  finally was confused about how to go and exit the "more filter" page and accress the videofrom there. 
+* She  finally was confused about how to go and exit the "more filter" page and accress the video from there. 
 
 #### Task 3 & 4: 
 ![task 3 & 4](./task3_4.JPG)
 
 **Areas of confusion**:
-* On task 3, she failled to see she had some insight on what others had though of the review through the gradinbg and the star. 
+* On task 3, she failed to see she had some insight on what others had thought of the workout through the grading and the star. 
 * On task 4, she did not view the secondary page as a profile page but more as a page simply with "her" workout classes. 
 
 ### Reflection
@@ -69,3 +69,15 @@ As for the testing part, I also struggled because I failed to explain well enoug
 
 #### Insights
 From this research, I have found multiple areas of confusion for the customer in my wireframe. 
+* The most confusion came from the interaction sequence. "After I click here, which page would it take me to next", "how is this page lin to the other ones?" - This is part was due to the amount of wireframes I have and how there was multiple ways to end up in the same place and it wasn't clear. 
+  * Solution: I will first take out the navigation bar that can be open from the side on the home page as it is not needed with the search bar and the quick option buttons below the search bar. I will also add an arrow to show that the "more filter option" is link to the search page by being a drop down menu on it. This arrow will point down when the more filter tab is closed and up when it is open to symbolize the options in place.
+* Another confusion was understanding when you could only click on one button (like in the home page with the quick search terms) or select multiple (search page filters and on the quiz that had multiple choices). 
+  * Solution: For the search page filters, I plan add a button search on that bar of criterias to symbolize that you have time to select as many as you want before it refreshes the searches. For the quiz, I will put a sub-title under questions saying "feel free to select multiple options" to make sure people know which questions are multiple choice or now.
+* The search bar on both the home page and the quiz page also seemed confusing to the participant even with the search glass symbol. 
+  * Solution: I can add within this text field words in grey to symbolize that its a place to write what you want. For instance in the search page I could write "what workout are you looking for today?"
+* There was confusion over the fact the star next to a grade out of 5 was an insight on what others had thought of the workout.
+  * Solution: I can make it more usual with starts that are colored in for the grade and then writing (# of reviews) next to it to showcase what people have thought of the workout.
+* What I had planed as a profile page, she saw as a page solely for classes one was registered for. 
+  * Solution: Through her confusion, I was reminded of the recall vs recognition heuristic principle and realize it might be more useful to keep this link to a profile page as simply that but add a icon (probably of a heart) on the naviagtion bar where people could easily access their favorite classes and see their registered classes and chat from there. I would also add a button to favor classes on the website. 
+  
+  
