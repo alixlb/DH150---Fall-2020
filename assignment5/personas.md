@@ -1,4 +1,4 @@
-## Personas and Scenarios
+# Personas and Scenarios
 
 ### The Purpose of Storytelling
 
