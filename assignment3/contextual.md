@@ -1,4 +1,4 @@
-## Contextual Inquiry
+# Contextual Inquiry
 
 ### Step 1 - Specify the main design challenge 
 
