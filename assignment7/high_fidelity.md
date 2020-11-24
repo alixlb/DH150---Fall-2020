@@ -1,7 +1,10 @@
 # High Fidelity Prototype
 ## Purpose of high-fidelity prototype
+Many people have had a hard time transitioning from their gym classes to having to workout online at-home. This project sets out to create an website that facilitates working out and adapting your workout to our current way of life. 
+This high-fidelity prototype is a great way to incorportate all the research I have done over the last 6 weeks into one final mockup. By building this prototype, I aim to get design a website and see what are the usability aspects (color contrast, heuristic principles,etc) that need to be improve. I also am trying to guage what is the most intuitive flow possible for my target audience.
+While at first hesitating between Figma and Adobe XD, I ultimately decided to use Figma to create this prototype with the help of some plugins. 
 
-### Tasks
+### Tasks possible through this high-fidelity prototype
 * filter options to find workout more easily
 * view other people's reviews of the workout
 * be able to chat with people in the classes you are registered for
