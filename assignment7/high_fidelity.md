@@ -2,13 +2,15 @@
 ### Purpose of high-fidelity prototype
 
 ### Graphical Design Interface - Decision making 
-![impression test](./zoom_0.mp4)
+
 
 #### 3 prototypes
 
+|[prototype #1](./pro_1.png)|[prototype #2](./pro_2.png)|[prototype #1](./pro_3.png)|
+|--------------|----------|---------------|
+|[color contrast 1](./card_1.png)|[color contrast 2](./card_2.png)|[color contrast 1](./card_3.png)|
 
-https://www.figma.com/file/G14jgEbNAFXMyDvPlYi0Sb/prototypes-impression-test?node-id=0%3A1
-
+**To view the prototypes on figma click [here](https://www.figma.com/file/G14jgEbNAFXMyDvPlYi0Sb/prototypes-impression-test?node-id=0%3A1)**
 
 #### Accessebilty check 
 Stark was the most interesting as it helped me see how people that were colorblind view my website. 
