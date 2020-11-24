@@ -6,9 +6,9 @@
 
 #### 3 prototypes
 
-|[prototype #1](./pro_1.png)|[prototype #2](./pro_2.png)|[prototype #1](./pro_3.png)|
+|![prototype #1](./pro_1.png)|![prototype #2](./pro_2.png)|![prototype #1](./pro_3.png)|
 |--------------|----------|---------------|
-|[color contrast 1](./card_1.png)|[color contrast 2](./card_2.png)|[color contrast 1](./card_3.png)|
+|![color contrast 1](./card_1.png)|![color contrast 2](./card_2.png)|![color contrast 1](./card_3.png)|
 
 **To view the prototypes on figma click [here](https://www.figma.com/file/G14jgEbNAFXMyDvPlYi0Sb/prototypes-impression-test?node-id=0%3A1)**
 
