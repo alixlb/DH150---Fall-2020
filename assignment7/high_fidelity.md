@@ -5,12 +5,20 @@
 ![impression test](./zoom_0.mp4)
 
 #### 3 prototypes
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FG14jgEbNAFXMyDvPlYi0Sb%2Fprototypes-impression-test%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+
+https://www.figma.com/file/G14jgEbNAFXMyDvPlYi0Sb/prototypes-impression-test?node-id=0%3A1
+
 
 #### Accessebilty check 
 Stark was the most interesting as it helped me see how people that were colorblind view my website. 
 
 #### Impression Test
+After checking color contrast on all of them, I asked a person in my target demographic to look over all 3 prototype for 20 seconds each while saying out loud what they like and  dislike about each. I then asked them their favorite and any other feed back they may have. 
+
+**To view the impression test click [here](https://drive.google.com/file/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/view?usp=sharing)**
+
+Overall, the participant liked prototype 2 the best and prototype 3 the least. She didn't like the monogram look and feel of the prototype 3 nore its more funky font. She also noted that the buttons were way to small for her or anyone her age and that it might be best to enlarge them. Overall protype 2 was the winner even thought she also did like the font and image on protype 1. 
 
 #### Final Decision about Design 
 
