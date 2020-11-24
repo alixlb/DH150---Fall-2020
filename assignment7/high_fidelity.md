@@ -41,14 +41,16 @@ After checking color contrast on all of them, I asked a person in my target demo
 Overall, the participant liked prototype 2 the best and prototype 3 the least. She didn't like the monochromatic look and feel of the prototype 3 nore its more funky font. She also noted that the buttons were way to small for her or anyone her age and that it might be best to enlarge them. Overall protype 2 was the winner even thought she also did like the font and image on protype 1. 
 
 ### Final Decision about Design 
+After having the impression test, I decided to go with the color scheme and image of the prototype 2, as it is the one the participant prefered the most (and mine too in the end!). However, I prefered the typography of prototype 1 and because the participant also was indifferent between the typography of prototype 1 & 2, I decided to make a decision. I also took into account the fact she like the illustration of the prototype 1 and decided to keep it and add it somewhere in the website with a change of colors of course. Finally, she complained about the buttons being too small and I did follow her recommendation and increased the size of the buttons on my final version which is below. 
 
-## High Fidelity Prototype
+## High-Fidelity Prototype 
 
 **To view the full high-fidelity prototype on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=0%3A1)**
 
 (https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
 
 ### Screen Designs
+Here are some of the most important screens of my website. They all have the same look and feel and are related by a lof of different passways. 
 
 |![home page](./home.png)|![search page](./search.png)|![workout](./workout.png)|
 |--------------|----------|---------------|
@@ -64,15 +66,18 @@ Overall, the participant liked prototype 2 the best and prototype 3 the least. S
 ## Reflection
 
 After having to unfortunately shift from AdobeXD to Figma, the rest of the assignment felt pretty fun. I enjoyed first coming up with color schemes and typography and then started building my frames based on my drawings. It took a while to understand certain features such as how to use overlays. I also added some great plug-ins to help me such as star maker, stories from freepik, phosphor ican and stark. 
+The overall process went well but it did take a lot of time and therefor, I did not have time to finish all the parts of the prototype (which was to be expected). I created most of the main pathways and screens and all that is now left for next week is small add ons such as the filters drop down, the quiz function, and creating fake interactions especially in input fields. 
 
 ### How to improve for next week
+Most of the work went on without a problem this week, however, there are two main issues I'd like to improve on for next week:
+1. At first, I did not take the time to properly name each frame, group, image, icon and text and by the end, I was very lost in some of the screens and couldn't find the item I was looking for. I had to then go back and take time to understand how to group everything in an organized was which took me even longer. So next tweek, I want to improve by taking the time from the start to properly name every item and organize them effeciently.
+2. I feel that my biggest limitation was how to create smooth transitions and add fake interactions in input field which is a skill I definelty want to work on throughout the week so it can be better on next week's assignment. 
 
 ### What needs to be worked on 
 * **Logo:** The logo does not truly reflect the website look and feel. While this current placeholder is necessary as it allows people to click back and go back to the home screen, it is not the best and I would like to change it for next week. 
 * **Animations:** A lot of the more realistic part of the wireflow need to be added in to be a high-fidelity prototype. For example, currently on the home page, when you click on the search bar it brings you to the search page for "yoga" without anything being typed. In the final version, I'd like the keyword yoga to appear in the search bar before it leads you to the search page. However, due to the lack of time, and me focusing more on the look and feel as well as the essential framed being finished, this feature will have to wait till next week.
-* **Instructor page:** 
-* **Quiz Function:** 
-* **Make filters interactive:**
-* **Favorite vs Registered:**
+* **Instructor page:** I haven't had the time to build this page out but it will look very similar to the workout page with reviews as well as a list of the classes they teach. 
+* **Quiz Function:** I hope to create a fully form questionaire to showcase the quiz function. I did not make it this week as I really wanted to focus on getting all the main frames well done and connected before working on the auxiliary such as this. 
+* **Make filters interactive:** Next week, i want to make the filters on the search page interactive. My goal, for example, is to have length have a sliding bar so people can choose the time they want. 
 
 
