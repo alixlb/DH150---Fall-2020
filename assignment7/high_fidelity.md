@@ -28,6 +28,10 @@ Here are the 3 prototypes. I was a big fan of using some kind of blue or blue/gr
 To do my accessibility check, I used two different way to test out the color contrast. I first used https://contrast-ratio.com/ on all my prototypes to ensure that the color contrast ratios adhere to the WCAG2.0 AA level standard of accessibility. I then used a plug-in on Figma called Start which helped me see how people that were colorblind viewed the website. Overall, everything looked good on my final choice with Stark as the colors were very different even for people who were color blind. 
 
 Here are the results of the first test on all my prototypes
+|![Color Contrast Ratio #1](./ratio_1.png)|![Color Contrast Ratio #2](./ratio_2.png)|![Color Contrast Ratio #3](./ratio_3.png)|
+|--------------|----------|---------------|
+
+As you can see, all 3 of my prototypes color pass the color contrast test. 
 
 ### Impression Test
 After checking color contrast on all of them, I asked a person in my target demographic to look over all 3 prototype for 20 seconds each while saying out loud what they like and  dislike about each. I then asked them their favorite and any other feed back they may have. 
