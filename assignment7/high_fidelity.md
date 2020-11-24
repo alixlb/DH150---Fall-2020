@@ -34,9 +34,18 @@ Overall, the participant liked prototype 2 the best and prototype 3 the least. S
 
 ## High Fidelity Prototype
 
+**To view the full high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
+
 ### Screen Designs
 
+|![home page](./home.png)|![search page](./search.png)|![workout](./workout.png)|
+|--------------|----------|---------------|
+|**Home Page**|**Search Page**|**Workout Page**|
+|![log in page](./login.png)|![profile page](./profile.png)|![Favorite Page](./favorite.png)|
+|**Login Page**|**Profile Page**|**Registered Classes Page**|
+
 ### Wireframe
+![wireflow](./wireflow.png)
 
 ## Reflection
 
