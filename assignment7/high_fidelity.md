@@ -107,7 +107,7 @@ In this task, the user will be June, a persona that chat with pals in the workou
 
 ### Task 4 - Quiz
 In this task, the user will be June, a persona that is starting to workout and takes a quiz to get workouts that are right for her. 
-* See Video of walkthrough
+* See [video of walkthrough](https://drive.google.com/file/d/1gV6boAQ_60jtHYWhfJrNKaPjoHwPDiLO/view?usp=sharing)
 * Click here to find [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing)
 
 ## New version after reflection 
