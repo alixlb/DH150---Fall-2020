@@ -92,14 +92,14 @@ After last week's impression test and the group cognitive workflow done in class
 
 ### Task 1 - Filters 
 In this task, the user will be Evalyn, a persona that wants to use the filters to find the workout she is looking for more easily. 
-* See Video of walkthrough
+* See [video of walkthrough](https://drive.google.com/file/d/17BimIqeHTOu0yMdfrw9eXBtr2Jv4KXku/view?usp=sharing)
 * Click here to find [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing)
 
  Key takeways/Things to improve on:
 
 ### Task 2 - Reviews
 In this task, the user will be Mary, a persona who wants to see other people’s review of the class before joining . 
-* See Video of walkthrough
+* See [video of walkthrough](https://drive.google.com/file/d/1hJBQK4Y2kSr7yeT3PsaiW-zsuMIrmHrI/view?usp=sharing)
 * Click here to find [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing)
 
  Key takeways/Things to improve on:
