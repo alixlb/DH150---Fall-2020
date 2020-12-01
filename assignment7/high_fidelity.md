@@ -95,19 +95,29 @@ In this task, the user will be Evalyn, a persona that wants to use the filters t
 * See Video of walkthrough
 * Click here to find [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing)
 
+ Key takeways/Things to improve on:
+
 ### Task 2 - Reviews
 In this task, the user will be Mary, a persona who wants to see other people’s review of the class before joining . 
 * See Video of walkthrough
 * Click here to find [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing)
+
+ Key takeways/Things to improve on:
 
 ### Task 3 - Chat
 In this task, the user will be June, a persona that chat with pals in the workout classes she is registered for. 
 * See Video of walkthrough
 * Click here to find [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing)
 
+ Key takeways/Things to improve on:
+
 ### Task 4 - Quiz
 In this task, the user will be June, a persona that is starting to workout and takes a quiz to get workouts that are right for her. 
 * See [video of walkthrough](https://drive.google.com/file/d/1gV6boAQ_60jtHYWhfJrNKaPjoHwPDiLO/view?usp=sharing)
 * Click here to find [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing)
+
+ Key takeways/Things to improve on:
+ * forgot to put an email field push button on the last step of the quiz.
+ * one of the text on most of the quiz frame seem to have a interaction that does nothing when it is suppose to have none.
 
 ## New version after reflection 
