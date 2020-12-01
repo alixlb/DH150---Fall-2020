@@ -90,15 +90,19 @@ After last week's impression test and the group cognitive workflow done in class
 
 **To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
 
+### Cognitive Walk-through 
+Cognitive walk-throught questions examiners about the overall look of the project as well asks them to complete a set of task and question how  easy or not it was to complete. I did one for everyone of my tasks and recorded a screenshot of the userflow. 
+
+
 ### Task 1 - Filters 
-In this task, the user will be Evalyn, a persona that wants to use the filters to find the workout she is looking for more easily. 
+In this task, the user will be Evalyn, a persona that wants to use the filters to find the workout she is looking for more easily.
 *See [video of walkthrough](https://drive.google.com/file/d/17BimIqeHTOu0yMdfrw9eXBtr2Jv4KXku/view?usp=sharing)
 Click here to find [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing)*
 
  Key takeways/Things to improve on:
  * Add an input field interaction to the home page search button. 
  * Fix the scrolling for the category filter and instructor filter in the more filter options. 
-
+ 
 ### Task 2 - Reviews
 In this task, the user will be Mary, a persona who wants to see other people’s review of the class before joining . 
 *See [video of walkthrough](https://drive.google.com/file/d/1hJBQK4Y2kSr7yeT3PsaiW-zsuMIrmHrI/view?usp=sharing)
@@ -126,3 +130,6 @@ Click here to find [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDX
  * one of the text on most of the quiz frame seem to have a interaction that does nothing when it is suppose to have none.
 
 ## New version after reflection 
+This week's tasks were a little more tedious than last week as a lot of it was thinking about how to make transitions between frames as smooth and effective as possible. For instance, it is hard to have a button hover and also swap and some functionalities do not work hand in hand plus you need to continuously add the same frames that look a like with one small tweak to make the integration seemless. I want to improve on my skills of creating smart animations and interactions as I feel like some of mine were a bit abrupt. 
+
+A part from that, this week assignment went quite well and I was able to incorporate all the demands set by my user research and implement all of the changes recommended through the impression test and cognitive walk-throughs. 
