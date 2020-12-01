@@ -83,27 +83,31 @@ After last week's impression test and the group cognitive workflow done in class
 
 ###  Interactive High-Fidelity Prototype 
 
-**To view the full interactive high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=5%3A2989&viewport=157%2C258%2C0.06684868782758713&scaling=contain)**
+**To view the full interactive high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=5%3A2989&viewport=157%2C258%2C0.06684868782758713&scaling=contain)
 
 #### Wireframe
 ![wireflow](./wireflow_final.png)
 
-**To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)**
+**To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
 
 ### Task 1 - Filters 
-Video of walkthrough
-Click here to find [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing)**
+In this task, the user will be Evalyn, a persona that wants to use the filters to find the workout she is looking for more easily. 
+* See Video of walkthrough
+* Click here to find [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing)
 
 ### Task 2 - Reviews
-Video of walkthrough
-Click here to find [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing)**
+In this task, the user will be Mary, a persona who wants to see other people’s review of the class before joining . 
+* See Video of walkthrough
+* Click here to find [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing)
 
 ### Task 3 - Chat
-Video of walkthrough
-Click here to find [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing)**
+In this task, the user will be June, a persona that chat with pals in the workout classes she is registered for. 
+* See Video of walkthrough
+* Click here to find [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing)
 
 ### Task 4 - Quiz
-Video of walkthrough
-Click here to find [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing)**
+In this task, the user will be June, a persona that is starting to workout and takes a quiz to get workouts that are right for her. 
+* See Video of walkthrough
+* Click here to find [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing)
 
 ## New version after reflection 
