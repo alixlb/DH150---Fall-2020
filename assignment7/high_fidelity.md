@@ -86,7 +86,7 @@ After last week's impression test and the group cognitive workflow done in class
 **To view the full interactive high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=5%3A2989&viewport=157%2C258%2C0.06684868782758713&scaling=contain)**
 
 #### Wireframe
-![wireflow](./wireflow.png)
+![wireflow](./wireflow_final.png)
 
 **To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)**
 
