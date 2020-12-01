@@ -45,10 +45,6 @@ After having the impression test, I decided to go with the color scheme and imag
 
 ## High-Fidelity Prototype 
 
-**To view the full high-fidelity prototype on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=0%3A1)**
-
-(https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
-
 ### Screen Designs
 Here are some of the most important screens of my website. They all have the same look and feel and are related by a lof of different passways. 
 
@@ -58,10 +54,12 @@ Here are some of the most important screens of my website. They all have the sam
 |![log in page](./login.png)|![profile page](./profile.png)|![Favorite Page](./favorites.png)|
 |**Login Page**|**Profile Page**|**Registered Classes Page**|
 
+**To view the full high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
+
 ### Wireframe
 ![wireflow](./wireflow.png)
 
-**To view the full high-fidelity prototype wireflow on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
+**To view the full high-fidelity prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=0%3A1)**
 
 ## Reflection at the end of the first week 
 
@@ -81,14 +79,33 @@ Most of the work went on without a problem this week, however, there are two mai
 * **Make filters interactive:** Next week, i want to make the filters on the search page interactive. My goal, for example, is to have length have a sliding bar so people can choose the time they want. 
 
 ## New version after reflection 
+After last week's impression test and the group cognitive workflow done in class, I decided to work on what I had said during my reflection and then also include some changes based on the comments of my peers. One for instance was the fact that there was no way back to the home page on the log in frame. I realized that by taking the logo out of some of the frames, users didn't know how to go back to the home screen as they got use to the logo being associated with the home screen. So I added the logo on every screen just to make sure an exit option was clear and available at all times to users. 
 
 ###  Interactive High-Fidelity Prototype 
 
-**To view the full high-fidelity prototype on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=0%3A1)**
-
-(https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
+**To view the full interactive high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=5%3A2989&viewport=157%2C258%2C0.06684868782758713&scaling=contain)**
 
 #### Wireframe
 ![wireflow](./wireflow.png)
 
-**To view the full high-fidelity prototype wireflow on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
+**To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)**
+
+## Cognitive Walkthrough 
+
+### Task 1 - 
+Video of walkthrough
+Comments 
+
+### Task 2 - 
+Video of walkthrough
+Comments 
+
+### Task 3 - 
+Video of walkthrough
+Comments 
+
+### Task 4 - 
+Video of walkthrough
+Comments 
+
+## New version after reflection 
