@@ -106,10 +106,12 @@ In this task, the user will be Mary, a persona who wants to see other people’s
 
 ### Task 3 - Chat
 In this task, the user will be June, a persona that chat with pals in the workout classes she is registered for. 
-* See Video of walkthrough
+* See [video of walkthrough](https://drive.google.com/file/d/1YEcNA0M69gDZXaZX22_DwoHmauextmMR/view?usp=sharing)
 * Click here to find [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing)
 
  Key takeways/Things to improve on:
+ * Create a hover over the side buttons. 
+ * Change the color of the register button to dark blue to match the other register buttons onsite and differenciate from the registered's chat buttons. 
 
 ### Task 4 - Quiz
 In this task, the user will be June, a persona that is starting to workout and takes a quiz to get workouts that are right for her. 
