@@ -63,7 +63,7 @@ Here are some of the most important screens of my website. They all have the sam
 
 **To view the full high-fidelity prototype wireflow on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
 
-## Reflection
+## Reflection at the end of the first week 
 
 After having to unfortunately shift from AdobeXD to Figma, the rest of the assignment felt pretty fun. I enjoyed first coming up with color schemes and typography and then started building my frames based on my drawings. It took a while to understand certain features such as how to use overlays. I also added some great plug-ins to help me such as star maker, stories from freepik, phosphor ican and stark. 
 The overall process went well but it did take a lot of time and therefor, I did not have time to finish all the parts of the prototype (which was to be expected). I created most of the main pathways and screens and all that is now left for next week is small add ons such as the filters drop down, the quiz function, and creating fake interactions especially in input fields. 
@@ -80,4 +80,15 @@ Most of the work went on without a problem this week, however, there are two mai
 * **Quiz Function:** I hope to create a fully form questionaire to showcase the quiz function. I did not make it this week as I really wanted to focus on getting all the main frames well done and connected before working on the auxiliary such as this. 
 * **Make filters interactive:** Next week, i want to make the filters on the search page interactive. My goal, for example, is to have length have a sliding bar so people can choose the time they want. 
 
+## New version after reflection 
 
+###  Interactive High-Fidelity Prototype 
+
+**To view the full high-fidelity prototype on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=0%3A1)**
+
+(https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
+
+#### Wireframe
+![wireflow](./wireflow.png)
+
+**To view the full high-fidelity prototype wireflow on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project?node-id=5%3A2989&viewport=138%2C470%2C0.08284279704093933&scaling=scale-down)**
