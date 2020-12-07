@@ -27,12 +27,10 @@ The first step of the project was to look at websites focused on the same subjec
 
 ### Find the full evaluation [here](assignment1/heuristicevaluation.md)
 
-### Overall Findings
-
-Overall, both the YMCA 360 and Yoga for Beginners are well design with a minimalistic theme and are easy and intuitive to navigate through, making users instantly feel in control. However, both still have some serious heuristic violations that make part of the user experience confusing and uncomfortable. As the goal of my project is to promote healthy fitness habits from middle-age women by making it easy and enticing to them, I have marked a couple point that truly stood out during this evaluation:
+Both the YMCA 360 and Yoga for Beginners are easy and intuitive to navigate through, making users instantly feel in control. However, both have some serious heuristic violations that make part of the user experience confusing and uncomfortable. As the goal of my project is to promote healthy fitness habits from middle-age women by making it easy and enticing to them, I have marked a couple point that truly stood out during this evaluation:
 * It is important not to use fitness jargon. Instead, to meet the criteria of heuristic principle 2, ***Match between system and real world***, titles and descriptions of workouts should focus more on the benefits they bring and how they may fulfill the needs the user may feel they have when it comes to working out (legs strengthen, destress, cardio, arm workout etc)
 * Secondly the user needs to be in control, heuristic principle 3, ***User Control and freedom***. Especially during the workout, the user must be able to pause, play, rewind, slow down the video all while being able to leave easily. This will allow the user to not feel pressure to get the movement right on the spot or to not take any breaks. It is important that everyone be able to go at their own rhythm so they can have fun.
-* Finally, it is crucial to have proper documentation and , heuristic principle 10 - ***Help and documentation***, contact forms to get feedback. Especially with first time or less tech-savvy users, it is crucial to have a clear help guide accessible from all pages to help them truly understand how the platform works and how to achieve their goals. 
+* Finally, it is crucial to have proper documentation (FAQ) and, heuristic principle 10 - ***Help and documentation***, contact forms to get feedback. Especially with first time or less tech-savvy users, it is crucial to have a clear help guide accessible from all pages to help them truly understand how the platform works and how to achieve their goals. 
 
 ### Usability Testing
 
@@ -41,12 +39,9 @@ After conducting a heuristic evaluation on it, I realized multiple principles 
 ![competitor used for pilot usability testing](./y360logo.jpg)
 ### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
-### Overall Findings
-
 This pilot usability testing aided me to fully understand the point of view of my target audience as well as validate some of my previous assumptions I made after the heuristic evaluation.
 *  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
 * The participant did find the website overall ***easy to use and doesn’t require technical support*** to make it work but ***can be better integrated.***
-
 
 From this competitor analysis, I realized the importance of creating not only an efficient user experience to access the workout videos but also a great experience for other important functions of the website such as finding the FAQ, login in, favoring a video etc.
 
@@ -56,18 +51,12 @@ After conducting UT, I decide to expand pass competitors website and see how use
 
 ### Find the full contextual inquiry [here](assignment3/contextual.md)
 
-### Overall Findings 
-
-Overall the interview went well. The user did feel very frustrated when doing the tasks and left dissatified. In a way that proves the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for the use.
-Because of the nature of our conversation, some of the questions felt redudant to ask almost. I would say that next time, I would  need to be a bit more prepared as a moderator to adapt and not just stick to the script to avoid redudancies and create a sort of dialogue with the participant. 
-
-#### Important things to note
-I learn a lot of valuable information through this contextual inquiry. Here are some of the major insights gathered from the data:
-* **Experience is overwhelming and takes too long** 
-* **Friends opinion & social aspect of working out matter a lot.** 
-* **Too much information online/lack of filters makes the research frustrating at times.** 
+During the interview, the user did feel very frustrated when doing the tasks and left dissatified. Her responces proved the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for the use. Here are the key insights gathered from this contextual inquiry:
+* Experience is **overwhelming and takes too long**
+* Friends opinion & **social aspect of working out** matter a lot.
+* **Too much information online/lack of filters** makes the research frustrating at times.
 * **Price matters.** 
-* **Users look at pictures of the workout as a way to guage what the workout will be like.** 
+* Users look at **pictures of the workout** as a way to guage what the workout will be like. 
 
 ## UX Storytelling - User Personas & Scenarios
 
@@ -75,15 +64,11 @@ UX Storytelling reminds the researchers and designers that the experience must b
 
 During my research, I created 3 personas: **June - the recent retiree  :family_woman_girl_boy:   , Mary - the social butterfly :butterfly:         & Evalyn - the busy bee  :honeybee:  .**
 
-I identified their needs, challenges and goals as well as created an empathy map to better understand how they felt during the process. 
-I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
+I identified their needs, challenges and goals as well as created an empathy map to better understand how they felt during the process. I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
 
 ### Find the full personas and scenarios [here](assignment5/personas.md)
 
-### Reflection
-
-I truly enjoyed creating personas, especially the empathy maps as it helped me better understand why the users would use the features I am planning to create and the positive impact it will have on their fitness journey. From this research, I was able to understand how my project should focus on **resolving any frustration in the fitness process my user had (user-centric approach).** Additionally, it reaffirms the validity of the needs for more **filters, a quiz and a social component in fitness apps which is the key features of my project.**
-
+ From this research, I was able to understand how my project should focus on **resolving any frustration in the fitness process my user had (user-centric approach).** Additionally, it reaffirms the validity of the needs for more **filters, a quiz and a social component in fitness apps which is the key features of my project.**
 
 ## Low-Fidelity Prototype
 
