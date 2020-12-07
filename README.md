@@ -75,12 +75,82 @@ I identified their needs, challenges and goals as well as created an empathy map
 The purpose of this low-fidelity prototype is start planing the flow of my website as well as how each frame would look like in order to assure functionality for the users. My goal is to keep in mind my user-centric research and apply it to this low-fidelity prototype to ensure that it actually solved the user problem. I am then particularly excited to have a target audience member go through the wireframe and point out any areas that might be confusing.
 
 In this wireframe, I tested out 4 tasks:
-1. ***Take a quiz to find the right workout:*** The goal is to test out the flow of the quiz feature to make sure it makes sense. I did not include all the questions as that would be too many wire frames but I created at least one to ensure that the progression made sense. 
-2. ***Use filters to find the workout you want:***. The goal is to test out the filter feature and to assure that is eleviating the stress of searching for a workout and making it quicker to narrow down the choices. I have only shown some of the criterias as it is only made to test functionality. 
-3. ***Use reviews to get better understanding of the workout:*** The goal is to test the social reviews feature of my project. In User Testing, I found out that a lot of my target audience rely on their friends opinions to find new workouts. In part, they use their friend opinion because its someone that is similar in age, gender and lifestyle as them . In this task, I ask the user to go find the reviews for a workout they are interested in to see if where I plan to put them is the right place for people to find. 
-4. ***Chat with people in your workout class:*** The goal is to test out the other part of the social component of my project. In my research, I found that people liked connect with others during workouts which is now limited due to covid. So I plan to create a social chat for people registered in a class together in order for them to talk and get to know each  
+1. Take a quiz to find the right workout.
+2. Use filters to find the workout you want faster. 
+3. View reviews to get better understanding of the workout. 
+4. Chat with people in your workout class.
+### Find the full Low-Fidelity Prototype and testing [here](assignment6/low_fidelity.md)
 
 After testing the wireframes & wireflow on a participant, I revised my wireframe and ended up with this low-fidelity prototype:
 ![revised wireframe prototype](./wireframe_revised.png)
 
-### Find the full Low-Fidelity Prototype and testing [here](assignment6/low_fidelity.md)
+After testing the wirefram  I have found multiple areas of confusion for the customer:
+* **The interaction sequence** was unclear and lacked arrows or more obvious pathways.
+  * Solution: I will first take out the navigation bar on the home page and add an arrow to symbolize that the "more filter option" is a dropdown menu on the search page.
+* **Search bar** on the quiz seemed confusing to the user. 
+  * Solution: Replace the search bar with multiple choice questions. 
+* There was confusion over the fact the **star next to a grade out of five** was an insight on what others had thought of the workout.
+  * Solution: Change it to a 5 star system and write (# of reviews) next to it to showcase what people have thought of the workout.
+* What I had planed as a profile page, she saw as a page solely for **classes one was registered for.**
+  * Solution: Through her confusion, I was reminded of the recall vs recognition heuristic principle and realize it might be more useful to keep this link to a profile page as simply that but add a icon (probably of a heart) on the naviagtion bar where people could easily access their favorite classes. 
+
+## High-Fidelity Prototype
+
+## Evaluation and Revision
+
+During the High-Fidelity Prototype, I had the chance to get feedback from feedback from my target user through an impression test to decide what design scheme to pick as well as feedback from my peers during a cognitive walkthrough later on. These tests allowed me to pinpoint weaknesses in my design and rectify them. 
+
+### Impression test
+I asked a person in my target demographic to look over all 3 prototype for 20 seconds each while saying out loud what they like and dislike about each. I then asked them their favorite and any other feed back they may have.
+
+
+To view the impression test click [here](https://drive.google.com/file/u/1/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/view?usp=sharing)
+
+Overall, the participant liked prototype 2 the best and prototype 3 the least. She didn't like the monochromatic look and feel of the prototype 3 nore its more funky font. She also noted that the buttons were way to small for her or anyone her age and that it might be best to enlarge them. Overall protype 2 was the winner even thought she also did like the font and image on protype 1.
+
+### Cognitive Walk-Through
+
+Cognitive walk-throught questions examiners about the overall look of the project as well asks them to complete a set of task and question how easy or not it was to complete. I did one for everyone of my tasks and recorded a screenshot of the userflow.
+
+#### Task 1 - Filters 
+> In this task, the user will be Evalyn, a persona that wants to use the filters to find the workout she is looking for more easily.
+
+*See [video of walkthrough](https://drive.google.com/file/d/17BimIqeHTOu0yMdfrw9eXBtr2Jv4KXku/view?usp=sharing)*
+*Click here to find [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing)*
+
+ Key takeways/Things to improve on:
+ * Add an input field interaction to the home page search button. 
+ * Fix the scrolling for the category filter and instructor filter in the more filter options. 
+ 
+#### Task 2 - Reviews
+> In this task, the user will be Mary, a persona who wants to see other people’s review of the class before joining . 
+
+*See [video of walkthrough](https://drive.google.com/file/d/1hJBQK4Y2kSr7yeT3PsaiW-zsuMIrmHrI/view?usp=sharing)*
+*Click here to find [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing)*
+
+ Key takeways/Things to improve on:
+ * Change the wording on the registered class page to match what it below it. 
+
+#### Task 3 - Chat
+> In this task, the user will be June, a persona that chat with pals in the workout classes she is registered for.
+
+*See [video of walkthrough](https://drive.google.com/file/d/1YEcNA0M69gDZXaZX22_DwoHmauextmMR/view?usp=sharing)*
+*Click here to find [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing)*
+
+ Key takeways/Things to improve on:
+ * Create a hover over the side buttons. 
+ * Change the color of the register button to dark blue to match the other register buttons onsite and differenciate from the registered's chat buttons. 
+
+###* Task 4 - Quiz
+> In this task, the user will be June, a persona that is starting to workout and takes a quiz to get workouts that are right for her. 
+
+*See [video of walkthrough](https://drive.google.com/file/d/1gV6boAQ_60jtHYWhfJrNKaPjoHwPDiLO/view?usp=sharing)*
+*Click here to find [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing)*
+
+ Key takeways/Things to improve on:
+ * forgot to put an email field push button on the last step of the quiz.
+ * one of the text on most of the quiz frame seem to have a interaction that does nothing when it is suppose to have none.
+
+## Pitch Video
+
+## Conclusion of the project
