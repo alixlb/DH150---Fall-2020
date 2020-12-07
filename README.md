@@ -96,6 +96,31 @@ After testing the wirefram  I have found multiple areas of confusion for the cus
 
 ## High-Fidelity Prototype
 
+This high-fidelity prototype is a great way to incorportate all the research I have done over the last 6 weeks into one final mockup. By building this prototype, I aim to get design a website and see what are the usability aspects (color contrast, heuristic principles,etc) that need to be improve. I also am trying to guage what is the most intuitive flow possible for my target audience.
+
+#### Graphical Design Interface - Decision making 
+
+My decision making process too place in multiple steps. I first decided to create 3 prototypes. Each had similar structural organization based on the low-fidelity model I create last week but varied in color scheme, typography and images. For the color scheme, I looked at some accessibilty color palettes that normally would have a large enough color contrast ratio that I later rested (see **accessibility section** below). I then played around with multiple typographies before landing on 3 different 2-3 font combo. Once I had created the prototypes, I checked accessibility and then did an impression test to see what my target audience thought of my prototypes. From there, I choose my final Graphical Design protoype
+
+
+
+###  Interactive High-Fidelity Prototype 
+
+#### Screen Designs
+Here are some of the most important screens of my website. They all have the same look and feel and are related by a lof of different passways. 
+
+|![home page](./assignment7/home.png)|![search page](./assignment7/search.png)|![workout](./assignment7/workout.png)|
+|--------------|----------|---------------|
+|**Home Page**|**Search Page**|**Workout Page**|
+|![log in page](./assignment7/login.png)|![profile page](./assignment7/profile.png)|![Favorite Page](./assignment7/favorites.png)|
+|**Login Page**|**Profile Page**|**Registered Classes Page**|
+
+#### Wireframe
+![wireflow](./assignment7/wireflow_final.png)
+**To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
+
+**To view the full interactive high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=5%3A2989&viewport=157%2C258%2C0.06684868782758713&scaling=contain)
+
 ## Evaluation and Revision
 
 During the High-Fidelity Prototype, I had the chance to get feedback from feedback from my target user through an impression test to decide what design scheme to pick as well as feedback from my peers during a cognitive walkthrough later on. These tests allowed me to pinpoint weaknesses in my design and rectify them. 
@@ -115,8 +140,7 @@ Cognitive walk-throught questions examiners about the overall look of the projec
 #### Task 1 - Filters 
 > In this task, the user will be Evalyn, a persona that wants to use the filters to find the workout she is looking for more easily.
 
-*See [video of walkthrough](https://drive.google.com/file/d/17BimIqeHTOu0yMdfrw9eXBtr2Jv4KXku/view?usp=sharing)*
-*Click here to find [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing)*
+*See [video of walkthrough](https://drive.google.com/file/d/17BimIqeHTOu0yMdfrw9eXBtr2Jv4KXku/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing) for this task.*
 
  Key takeways/Things to improve on:
  * Add an input field interaction to the home page search button. 
@@ -125,8 +149,7 @@ Cognitive walk-throught questions examiners about the overall look of the projec
 #### Task 2 - Reviews
 > In this task, the user will be Mary, a persona who wants to see other people’s review of the class before joining . 
 
-*See [video of walkthrough](https://drive.google.com/file/d/1hJBQK4Y2kSr7yeT3PsaiW-zsuMIrmHrI/view?usp=sharing)*
-*Click here to find [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing)*
+*See [video of walkthrough](https://drive.google.com/file/d/1hJBQK4Y2kSr7yeT3PsaiW-zsuMIrmHrI/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing) for this task.* 
 
  Key takeways/Things to improve on:
  * Change the wording on the registered class page to match what it below it. 
@@ -134,22 +157,22 @@ Cognitive walk-throught questions examiners about the overall look of the projec
 #### Task 3 - Chat
 > In this task, the user will be June, a persona that chat with pals in the workout classes she is registered for.
 
-*See [video of walkthrough](https://drive.google.com/file/d/1YEcNA0M69gDZXaZX22_DwoHmauextmMR/view?usp=sharing)*
-*Click here to find [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing)*
+*See [video of walkthrough](https://drive.google.com/file/d/1YEcNA0M69gDZXaZX22_DwoHmauextmMR/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing) for this task.* 
 
  Key takeways/Things to improve on:
  * Create a hover over the side buttons. 
  * Change the color of the register button to dark blue to match the other register buttons onsite and differenciate from the registered's chat buttons. 
 
-###* Task 4 - Quiz
+#### Task 4 - Quiz
 > In this task, the user will be June, a persona that is starting to workout and takes a quiz to get workouts that are right for her. 
 
-*See [video of walkthrough](https://drive.google.com/file/d/1gV6boAQ_60jtHYWhfJrNKaPjoHwPDiLO/view?usp=sharing)*
-*Click here to find [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing)*
+*See [video of walkthrough](https://drive.google.com/file/d/1gV6boAQ_60jtHYWhfJrNKaPjoHwPDiLO/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing) for this task.* 
 
  Key takeways/Things to improve on:
  * forgot to put an email field push button on the last step of the quiz.
  * one of the text on most of the quiz frame seem to have a interaction that does nothing when it is suppose to have none.
+ 
+All these evaluations allowed me to modify and perfect my prototype to the version you see above. 
 
 ## Pitch Video
 
