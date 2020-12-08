@@ -72,7 +72,7 @@ From this contextual inquiry, I was able to better view how my target audience t
 
 UX storytelling reminds the researchers and designers that the experience must be user-centered. By no longer thinking of websites through on heuristic principles and competitors analysis, UX storytelling allows researcher to reflect on the underlying feelings and desires that users may have when completing tasks and ensuring that those are being satisfied by the project. By creating personas, I will be able to think as the target users more generally and understand better how the current system in place does not meet their goals.
 
-During my research, I created 3 personas: **June - the recent retiree  :family_woman_girl_boy:   , Mary - the social butterfly :butterfly:         & Evalyn - the busy bee  :honeybee:  .**
+During my research, I created 3 personas: **June - the recent retiree, Mary - the social butterfly & Evalyn - the busy bee.**
 
 I identified their needs, challenges and goals as well as created an empathy map to better understand how they felt during the process. I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
 
