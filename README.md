@@ -73,6 +73,7 @@ I identified their needs, challenges and goals as well as created an empathy map
 Here is the example of June's persona and empathy map:
 |![june's persona](./assignment5/june_p.png)|![june's empathy map](./assignment5/june_em.png)|
 |--------------|----------|
+
 ### Find the full personas and scenarios [here](assignment5/personas.md)
 
 ***From UX storytelling, I was able to understand how my project should focus on resolving any frustration in the fitness process my user had (user-centric approach). Additionally, it reaffirms the needs for more filters, a quiz and a social component in fitness apps which are the key features of my project. I now wanted to put all this information to use and start prototyping the basic functions of my website.***
