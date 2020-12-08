@@ -26,7 +26,7 @@ The first step of the project was to look at websites focused on the same subjec
 
 ![competitors used for heuristic evaluation](./competitors.png)
 
-### Find the full evaluation [here](assignment1/heuristicevaluation.md)
+#### Find the full evaluation [here](assignment1/heuristicevaluation.md)
 
 Both the YMCA 360 and Yoga for Beginners are easy and intuitive to navigate, making users feel instantly in control. However, they also have some serious heuristic violations making part of the user experience confusing and uncomfortable. As the goal of my project is to promote healthy fitness habits from middle-age women by making it easy and enticing to them, I have marked a couple point that truly stood out during this evaluation:
 * It is important not to use fitness jargon. Instead, to meet the heuristic principle #2, ***Match between system and real world***, titles and descriptions of workouts should focus more on the benefits they bring and how they may fulfill the user's needs (e.g. legs strengthen, destress, cardio, arm workout etc)
@@ -39,7 +39,7 @@ After conducting a heuristic evaluation on my potential competitors, I realize
 
 [![YMCA usability test pilot video](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)
 
-### Find the full usability testing [here](assignment2/usabilitytesting.md)
+#### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
 This pilot usability testing aided me to better understand the point of view of my target audience as well as validate some of my previous assumptions I had made.
 *  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
@@ -51,7 +51,7 @@ This pilot usability testing aided me to better understand the point of view of 
 
 After conducting UT, I decide to expand past my competitors websites and see how users look for fitness classes through the internet in general. I wanted to know how they started their research, what keywords they used and and what ultimately made them decided to go for a certain workout type/class. To do so, I set up a **participatory observation** where I asked the participant questions about how they looked for workout classes online, and then watch them choose a class through online research and perform said workout. At the end, I asked them whether or not they were satisfied with the workout and the process in general. I told them not to go for website they usually go for straight away (as they have them saved) but start fresh looking on the internet. 
 
-### Find the full contextual inquiry [here](assignment3/contextual.md)
+#### Find the full contextual inquiry [here](assignment3/contextual.md)
 
 During the interview, the user did feel very frustrated when doing the tasks and left dissatified. Her responces proved the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for them to use. Here are the key insights gathered from this contextual inquiry:
 * Experience is **overwhelming and takes too long**
@@ -74,7 +74,7 @@ Here is the example of June's persona and empathy map:
 |![june's persona](./assignment5/june_p.png)|![june's empathy map](./assignment5/june_em.png)|
 |-----------------------|-----------------------|
 
-### Find the full personas and scenarios [here](assignment5/personas.md)
+#### Find the full personas and scenarios [here](assignment5/personas.md)
 
 ***From UX storytelling, I was able to understand how my project should focus on resolving any frustration in the fitness process my user had (user-centric approach). Additionally, it reaffirms the needs for more filters, a quiz and a social component in fitness apps which are the key features of my project. I now wanted to put all this information to use and start prototyping the basic functions of my website.***
 
@@ -87,7 +87,8 @@ In this wireframe, I tested out 4 tasks:
 2. Use filters to find the workout you want faster. 
 3. View reviews to get better understanding of the workout. 
 4. Chat with people in your workout class.
-### Find the full Low-Fidelity Prototype and testing [here](assignment6/low_fidelity.md)
+
+#### Find the full Low-Fidelity Prototype and testing [here](assignment6/low_fidelity.md)
 
 After testing the wireframes & wireflow on a participant, I revised my wireframe and ended up with this low-fidelity prototype:
 ![revised wireframe prototype](./wireframe_revised.png)
@@ -126,7 +127,7 @@ Here are some of the most main frames of my website. They all have the same look
 **Full interactive high-fidelity prototype**
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FO7fSlTmmPFmKkmCB7OhPwB%2F150-Final-Project-week-8%3Fnode-id%3D5%253A2989%26scaling%3Dcontain" allowfullscreen></iframe>
 
-### Find the full High-Fidelity Prototype[here](assignment6/high_fidelity.md)
+#### Find the full High-Fidelity Prototype[here](assignment6/high_fidelity.md)
 
 ***This final high-fidelity prototype would not have been possible with out the weeks of user research I did as well as a evaluation and revision process on the design. This project in its entirety has taught me the importance of extensive UX research and effective planning out and testing of the design. *** 
 
@@ -156,7 +157,7 @@ Cognitive walk-throught questions examiners about the overall look of the projec
  * Change the color of the register button to dark blue to match the other register buttons onsite and differenciate from the registered's chat buttons. 
  * forgot to put an email field push button on the last step of the quiz.
 
-### Find the full evaluation and revision process [here](assignment6/high_fidelity.md)
+#### Find the full evaluation and revision process [here](assignment6/high_fidelity.md)
 
 ***All these evaluations allowed me to modify and perfect my prototype to the version you see above.*** 
 
