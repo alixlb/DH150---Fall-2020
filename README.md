@@ -123,7 +123,8 @@ Here are some of the most main frames of my website. They all have the same look
 ![wireflow](./assignment7/wireflow_final.png)
 **To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
 
-**To view the full interactive high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=5%3A2989&viewport=157%2C258%2C0.06684868782758713&scaling=contain)
+**Full interactive high-fidelity prototype**
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FO7fSlTmmPFmKkmCB7OhPwB%2F150-Final-Project-week-8%3Fnode-id%3D5%253A2989%26scaling%3Dcontain" allowfullscreen></iframe>
 
 ### Find the full High-Fidelity Prototype[here](assignment6/high_fidelity.md)
 
