@@ -183,6 +183,10 @@ Cognitive walk-throught questions examiners about the overall look of the projec
 
 All these evaluations allowed me to **modify and perfect my prototype** to the version you see above. 
 
+## Pitch Video 
+
+<iframe src="https://drive.google.com/file/d/17bJTGIZ9sqvKK7RzSHcg58Sh3sKVUrco/preview" width="640" height="480"></iframe>
+
 ## Conclusion of the project
 
 This project was my first attempt at conducting user research and design. From the start, the importance of user-centric approach was incredibly clear. Thinking of the users does not only happen in the final stages. It starts by being cognizant of how a survey made and conducted and then continues on through understanding their needs, challenges and goals during the UX storytelling step and stay throughout the design process by thinking of the size of buttons and the interactions between frames. I started out thinking that the project was going to focus really on creating a website that had a lot of filters but then through the user research process, I also realized the importance to my users of having a social element to their workout routines as well as how lost they felt in their needs that they needed someone to express it to them through a sort of quiz. 
