@@ -164,6 +164,6 @@ This project was my first attempt at conducting user research and design. From t
 
 If I had to do it again or had more time, I would have love to do more contextual inquiries as well as have users test my website, to get feedback on more users opinion on my project. By getting a broader group of participants point of view, I may have found more nuanced feedback as well as more niche needs some users may have. Additionally, I wished I had more time to update my high-fidelity prototype and add more features such as more filter options and more details on my quiz. However, I believe that time constrains and revisions is what UX/UI is all about; it is a continous loop of revision and redesign. 
 
-IMAGE
+![UX Design Process](./ux-process.png)
 
 I truly enjoyed and learned a lot from this "UX/UI Design" course. I had quite a bit of experience with competitor analysis and UX storytelling from previous experience and loved learning about how to conduct user research surveys, interviews and inquiries as well as how to use prototyping tools such as Figma and AdobeXD. Overall, I feel that my project has met its goal: Fitness for all provides an easy and seamless experience when trying to find workout options online!
