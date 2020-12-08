@@ -159,3 +159,11 @@ Cognitive walk-throught questions examiners about the overall look of the projec
 ## Pitch Video
 
 ## Conclusion of the project
+
+This project was my first attempt at conducting user research and design. From the start, the importance of user-centric approach was incredibly clear. Thinking of the users does not only happen in the final stages. It starts by being cognizant of how a survey made and conducted and then continues on through understanding their needs, challenges and goals during the UX storytelling step and stay throughout the design process by thinking of the size of buttons and the interactions between frames. I started out thinking that the project was going to focus really on creating a website that had a lot of filters but then through the user research process, I also realized the importance to my users of having a social element to their workout routines as well as how lost they felt in their needs that they needed someone to express it to them through a sort of quiz. 
+
+If I had to do it again or had more time, I would have love to do more contextual inquiries as well as have users test my website, to get feedback on more users opinion on my project. By getting a broader group of participants point of view, I may have found more nuanced feedback as well as more niche needs some users may have. Additionally, I wished I had more time to update my high-fidelity prototype and add more features such as more filter options and more details on my quiz. However, I believe that time constrains and revisions is what UX/UI is all about; it is a continous loop of revision and redesign. 
+
+IMAGE
+
+I truly enjoyed and learned a lot from this "UX/UI Design" course. I had quite a bit of experience with competitor analysis and UX storytelling from previous experience and loved learning about how to conduct user research surveys, interviews and inquiries as well as how to use prototyping tools such as Figma and AdobeXD. Overall, I feel that my project has met its goal: Fitness for all provides an easy and seamless experience when trying to find workout options online!
