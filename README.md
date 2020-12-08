@@ -25,7 +25,7 @@ Based on the research below, I decided to create 3 design features that will hel
 The first step of the project was to look at websites focused on the same subject as this projec and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups as well as the app, [Yoga For Beginners](https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
 
 <p align="center">
-<img src="https://alixlb.github.io/DH150--Fitness-for-All/competitors.png" height="200px">
+<img src="https://alixlb.github.io/DH150--Fitness-for-All/competitors.png" height="250px">
 </p>
 
 #### Find the full evaluation [here](assignment1/heuristicevaluation.md)
@@ -99,7 +99,10 @@ In this wireframe, I tested out 4 tasks:
 #### Find the full Low-Fidelity Prototype and testing [here](assignment6/low_fidelity.md)
 
 After testing the wireframes & wireflow on a participant, I revised my wireframe and ended up with this low-fidelity prototype:
-![revised wireframe prototype](./wireframe_revised.png)
+
+<p align="center">
+<img src="https://alixlb.github.io/DH150--Fitness-for-All/wireframe_revised.png" height="300px">
+</p>
 
 After testing the wireframe, I found multiple areas of confusion for the customer:
 * **The interaction sequence** was unclear and lacked arrows or more obvious pathways.
@@ -129,7 +132,11 @@ Here are some of the most main frames of my website. They all have the same look
 |**Login Page**|**Profile Page**|**Registered Classes Page**|
 
 #### Wireframe
-![wireflow](./assignment7/wireflow_final.png)
+
+<p align="center">
+<img src="https://alixlb.github.io/DH150--Fitness-for-All//assignment7/wireflow_final.png" height="400px">
+</p>
+
 **To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
 
 **Full interactive high-fidelity prototype**
