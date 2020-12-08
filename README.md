@@ -51,7 +51,7 @@ This pilot usability testing aided me to better understand the point of view of 
 *  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
 * The participant did find the website overall ***easy to use and didn’t require technical support*** to make it work but thought it ***could be better integrated.***
 
-***From this competitor analysis, I realized the importance of creating not only an efficient user experience to access the workout videos but also a great experience for other important functions of the website such as finding the FAQ, login in, favoring a video etc. However, I was left wondering how my users would interact with the product during a typical workout.***
+From this competitor analysis, I realized **the importance of creating not only an efficient user experience to access the workout videos but also a great experience for other important functions of the website** such as finding the FAQ, login in, favoring a video etc. However, I was left wondering how my users would interact with the product during a typical workout.
 
 ## User Research - Contextual Inquiry
 
@@ -66,7 +66,7 @@ During the interview, the user did feel very frustrated when doing the tasks and
 * **Price matters.** 
 * Users look at **pictures of the workout** as a way to gauge what the workout will be like. 
 
-***From this contextual inquiry, I was able to better view how my target audience tried to search for a workout and performed one and mark their pain points along the way. I realized that the whole experience can be quite frustrating and that having a trusted site with filters would allow to streamline the process efficently. After doing so much research on competitors website, I felt that it was time to take in all the insights I gathered and created personas of users that would use my website.***
+From this contextual inquiry, I was able to better view how my target audience tried to search for a workout and performed one and mark their pain points along the way. I realized that **the whole experience can be quite frustrating and that having a trusted site with filters would allow to streamline the process efficently**. After doing so much research on competitors website, I felt that it was time to take in all the insights I gathered and created personas of users that would use my website.
 
 ## UX Storytelling - User Personas & Scenarios
 
@@ -84,7 +84,7 @@ Here is the example of June's persona and empathy map:
 
 #### Find the full personas and scenarios [here](assignment5/personas.md)
 
-***From UX storytelling, I was able to understand how my project should focus on resolving any frustration in the fitness process my user had (user-centric approach). Additionally, it reaffirms the needs for more filters, a quiz and a social component in fitness apps which are the key features of my project. I now wanted to put all this information to use and start prototyping the basic functions of my website.***
+From UX storytelling, I was able to understand how **my project should focus on resolving any frustration in the fitness process my user had (user-centric approach).** Additionally, it reaffirms the needs for more filters, a quiz and a social component in fitness apps which are the key features of my project. I now wanted to put all this information to use and start prototyping the basic functions of my website.
 
 ## Low-Fidelity Prototype
 
@@ -114,7 +114,7 @@ After testing the wireframe, I found multiple areas of confusion for the custome
 * What I had planned as a profile page, she saw as a page solely for **classes one was registered for.**
   * Solution: Through her confusion, I was reminded of the recall vs recognition heuristic principle and realize it might be more useful to keep this link to a profile page as simply that but add a icon (probably of a heart) on the naviagtion bar where people could easily access their favorite classes. 
 
-***From low-fidelity prototype, I was able to see if my website flow and functionalities will work as intended. I was then able to get feedback from user of how easy was the website main frames easy to navigate through. The user did find some pain points which was I was then able to rectify to create a seamless user expeirence. I know need to add the design and interactions by creating a high-fidelity prototype.***
+From low-fidelity prototype, I was able to see if my website flow and functionalities will work as intended. I was then able to get feedback from user of how easy was the website main frames easy to navigate through. **The user did find some pain points which was I was then able to rectify to create a seamless user expeirence.** I know need to add the design and interactions by creating a high-fidelity prototype.
 
 ## High-Fidelity Prototype
 
@@ -145,7 +145,7 @@ Here are some of the most main frames of my website. They all have the same look
 
 #### Find the full High-Fidelity Prototype[here](assignment6/high_fidelity.md)
 
-***This final high-fidelity prototype would not have been possible with out the weeks of user research I did as well as a evaluation and revision process on the design. This project in its entirety has taught me the importance of extensive UX research and effective planning out and testing of the design. *** 
+This final high-fidelity prototype would not have been possible with out the weeks of user research I did as well as a evaluation and revision process on the design. This project in its entirety has **taught me the importance of extensive UX research and effective planning out and testing of the design.**
 
 ## Evaluation and Revision
 
@@ -181,7 +181,7 @@ Cognitive walk-throught questions examiners about the overall look of the projec
 
 #### Find the full evaluation and revision process [here](assignment6/high_fidelity.md)
 
-***All these evaluations allowed me to modify and perfect my prototype to the version you see above.*** 
+All these evaluations allowed me to **modify and perfect my prototype** to the version you see above. 
 
 ## Pitch Video
 
