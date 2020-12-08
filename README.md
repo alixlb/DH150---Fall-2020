@@ -25,7 +25,7 @@ Based on the research below, I decided to create 3 design features that will hel
 The first step of the project was to look at websites focused on the same subject as this projec and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups as well as the app, [Yoga For Beginners](https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
 
 <p align="center">
-<img src="https://alixlb.github.io/DH150--Fitness-for-All/competitors.png" height="300px">
+<img src="https://alixlb.github.io/DH150--Fitness-for-All/competitors.png" height="200px">
 </p>
 
 #### Find the full evaluation [here](assignment1/heuristicevaluation.md)
@@ -182,6 +182,8 @@ This project was my first attempt at conducting user research and design. From t
 
 If I had to do it again or had more time, I would have love to do more contextual inquiries as well as have users test my website, to get feedback on more users opinion on my project. By getting a broader group of participants point of view, I may have found more nuanced feedback as well as more niche needs some users may have. Additionally, I wished I had more time to update my high-fidelity prototype and add more features such as more filter options and more details on my quiz. However, I believe that time constrains and revisions is what UX/UI is all about; it is a continous loop of revision and redesign. 
 
-![UX Design Process](./ux-process.png)
+<p align="center">
+<img src="https://alixlb.github.io/DH150--Fitness-for-All/ux-process.png" height="200px">
+</p>
 
 I truly enjoyed and learned a lot from this "UX/UI Design" course. I had quite a bit of experience with competitor analysis and UX storytelling from previous experience and loved learning about how to conduct user research surveys, interviews and inquiries as well as how to use prototyping tools such as Figma and AdobeXD. Overall, I feel that my project has met its goal: Fitness for all provides an easy and seamless experience when trying to find workout options online!
