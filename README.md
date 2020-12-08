@@ -186,7 +186,7 @@ All these evaluations allowed me to **modify and perfect my prototype** to the v
 ## Pitch Video 
 
 <p align="center">
-<iframe src="https://drive.google.com/file/d/17bJTGIZ9sqvKK7RzSHcg58Sh3sKVUrco/preview" width="720" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/17bJTGIZ9sqvKK7RzSHcg58Sh3sKVUrco/preview" width="800" height="480"></iframe>
 </p>
 
 ## Conclusion of the project
