@@ -24,7 +24,7 @@ Based on the research below, I decided to create 3 design features that will hel
 ### Heuristic evaluation
 The first step of the project was to look at websites focused on the same subject as this projec and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups as well as the app, [Yoga For Beginners](https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
 
-<img src=”competitors.png” height=”300px”> 
+<img src=”https://alixlb.github.io/DH150--Fitness-for-All/assignment1/competitors.png” height=”300px”> 
 
 
 ![competitors used for heuristic evaluation](./competitors.png)
