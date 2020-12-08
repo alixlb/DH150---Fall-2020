@@ -77,10 +77,10 @@ Here is the example of June's persona and empathy map:
 
 ## Low-Fidelity Prototype
 
-The purpose of this low-fidelity prototype is start planing the flow of my website as well as how each frame would look like in order to assure functionality for the users. My goal is to keep in mind my user-centric research and apply it to this low-fidelity prototype to ensure that it actually solved the user problem. I am then particularly excited to have a target audience member go through the wireframe and point out any areas that might be confusing.
+The purpose of this low-fidelity prototype is to start planning the flow of the website as well as how each frame would look like in order to ensure efficent and easy functionality. My goal is to keep in mind my user-centric research and apply it to this low-fidelity prototype to actually solved the users' pain points. I was particularly excited to have a target audience member go through the wireframe and point out any areas that might be confusing.
 
 In this wireframe, I tested out 4 tasks:
-1. Take a quiz to find the right workout.
+1. Take a quiz to find the right workout for you.
 2. Use filters to find the workout you want faster. 
 3. View reviews to get better understanding of the workout. 
 4. Chat with people in your workout class.
@@ -89,30 +89,26 @@ In this wireframe, I tested out 4 tasks:
 After testing the wireframes & wireflow on a participant, I revised my wireframe and ended up with this low-fidelity prototype:
 ![revised wireframe prototype](./wireframe_revised.png)
 
-After testing the wirefram  I have found multiple areas of confusion for the customer:
+After testing the wireframe, I found multiple areas of confusion for the customer:
 * **The interaction sequence** was unclear and lacked arrows or more obvious pathways.
   * Solution: I will first take out the navigation bar on the home page and add an arrow to symbolize that the "more filter option" is a dropdown menu on the search page.
 * **Search bar** on the quiz seemed confusing to the user. 
   * Solution: Replace the search bar with multiple choice questions. 
 * There was confusion over the fact the **star next to a grade out of five** was an insight on what others had thought of the workout.
   * Solution: Change it to a 5 star system and write (# of reviews) next to it to showcase what people have thought of the workout.
-* What I had planed as a profile page, she saw as a page solely for **classes one was registered for.**
+* What I had planned as a profile page, she saw as a page solely for **classes one was registered for.**
   * Solution: Through her confusion, I was reminded of the recall vs recognition heuristic principle and realize it might be more useful to keep this link to a profile page as simply that but add a icon (probably of a heart) on the naviagtion bar where people could easily access their favorite classes. 
+
+***From low-fidelity prototype, I was able to see if my website flow and functionalities will work as intended. I was then able to get feedback from user of how easy was the website main frames easy to navigate through. The user did find some pain points which was I was then able to rectify to create a seamless user expeirence. I know need to add the design and interactions by creating a high-fidelity prototype. ***
 
 ## High-Fidelity Prototype
 
-This high-fidelity prototype is a great way to incorportate all the research I have done over the last 6 weeks into one final mockup. By building this prototype, I aim to get design a website and see what are the usability aspects (color contrast, heuristic principles,etc) that need to be improve. I also am trying to guage what is the most intuitive flow possible for my target audience.
-
-#### Graphical Design Interface - Decision making 
-
-My decision making process too place in multiple steps. I first decided to create 3 prototypes. Each had similar structural organization based on the low-fidelity model I create last week but varied in color scheme, typography and images. For the color scheme, I looked at some accessibilty color palettes that normally would have a large enough color contrast ratio that I later rested (see **accessibility section** below). I then played around with multiple typographies before landing on 3 different 2-3 font combo. Once I had created the prototypes, I checked accessibility and then did an impression test to see what my target audience thought of my prototypes. From there, I choose my final Graphical Design protoype
-
-
+This high-fidelity prototype is a great way to incorportate all the research I have done over the last 6 weeks into one final mockup. By building this prototype, I aim to createa website focusing on usability and user-centered design. I also am trying to gauge what is the most intuitive flow possible for my target audience and hope through evaluation and revision and will achieve it. 
 
 ###  Interactive High-Fidelity Prototype 
 
 #### Screen Designs
-Here are some of the most important screens of my website. They all have the same look and feel and are related by a lof of different passways. 
+Here are some of the most main frames of my website. They all have the same look and feel and are related by a lof of different passways. 
 
 |![home page](./assignment7/home.png)|![search page](./assignment7/search.png)|![workout](./assignment7/workout.png)|
 |--------------|----------|---------------|
@@ -126,13 +122,20 @@ Here are some of the most important screens of my website. They all have the sam
 
 **To view the full interactive high-fidelity prototype on figma click [here](https://www.figma.com/proto/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=5%3A2989&viewport=157%2C258%2C0.06684868782758713&scaling=contain)
 
+### Find the full High-Fidelity Prototype[here](assignment6/high_fidelity.md)
+
+***This final high-fidelity prototype would not have been possible with out the weeks of user research I did as well as a evaluation and revision process on the design. This project in its entirety has taught me the importance of extensive UX research and effective planning out and testing of the design. *** 
+
 ## Evaluation and Revision
 
 During the High-Fidelity Prototype, I had the chance to get feedback from feedback from my target user through an impression test to decide what design scheme to pick as well as feedback from my peers during a cognitive walkthrough later on. These tests allowed me to pinpoint weaknesses in my design and rectify them. 
 
+#### Graphical Design Interface - Decision making 
+
+My decision making process took place in multiple steps. I first decided to create 3 prototypes. Each had similar structural organization based on the low-fidelity model I created but varied in color scheme, typography and images. For the color scheme, I ensure I had a large enough color contrast ratio to be accesible to all. I then played around with multiple typographies before landing on 3 different 2-3 fonts combo. Once I had created the prototypes, I did an impression test to see what my target audience thought of my prototypes. From there, I choose my final graphical design protoype.
+
 ### Impression test
 I asked a person in my target demographic to look over all 3 prototype for 20 seconds each while saying out loud what they like and dislike about each. I then asked them their favorite and any other feed back they may have.
-
 
 To view the impression test click [here](https://drive.google.com/file/u/1/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/view?usp=sharing)
 
@@ -142,42 +145,16 @@ Overall, the participant liked prototype 2 the best and prototype 3 the least. S
 
 Cognitive walk-throught questions examiners about the overall look of the project as well asks them to complete a set of task and question how easy or not it was to complete. I did one for everyone of my tasks and recorded a screenshot of the userflow.
 
-#### Task 1 - Filters 
-> In this task, the user will be Evalyn, a persona that wants to use the filters to find the workout she is looking for more easily.
-
-*See [video of walkthrough](https://drive.google.com/file/d/17BimIqeHTOu0yMdfrw9eXBtr2Jv4KXku/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1W5ElvFpQNlcbxCVg8f6cE9sfT5EHaioIs9VUQIuPaAk/edit?usp=sharing) for this task.*
-
  Key takeways/Things to improve on:
  * Add an input field interaction to the home page search button. 
  * Fix the scrolling for the category filter and instructor filter in the more filter options. 
- 
-#### Task 2 - Reviews
-> In this task, the user will be Mary, a persona who wants to see other people’s review of the class before joining . 
-
-*See [video of walkthrough](https://drive.google.com/file/d/1hJBQK4Y2kSr7yeT3PsaiW-zsuMIrmHrI/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1wz4o1-zOp3biWcmOOsmriijSefu9R2TCff5QE_Jn1kk/edit?usp=sharing) for this task.* 
-
- Key takeways/Things to improve on:
- * Change the wording on the registered class page to match what it below it. 
-
-#### Task 3 - Chat
-> In this task, the user will be June, a persona that chat with pals in the workout classes she is registered for.
-
-*See [video of walkthrough](https://drive.google.com/file/d/1YEcNA0M69gDZXaZX22_DwoHmauextmMR/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1Q6pV6OsrCXwJkiJBS1TBd5Qo1B6gzKrW-JYKaLCHx2g/edit?usp=sharing) for this task.* 
-
- Key takeways/Things to improve on:
  * Create a hover over the side buttons. 
  * Change the color of the register button to dark blue to match the other register buttons onsite and differenciate from the registered's chat buttons. 
-
-#### Task 4 - Quiz
-> In this task, the user will be June, a persona that is starting to workout and takes a quiz to get workouts that are right for her. 
-
-*See [video of walkthrough](https://drive.google.com/file/d/1gV6boAQ_60jtHYWhfJrNKaPjoHwPDiLO/view?usp=sharing) and read the [Comments](https://docs.google.com/document/d/1hnmmZqxYJOUKDXGOdrcz_oYNcGmHNsQTQkL4TyboKqA/edit?usp=sharing) for this task.* 
-
- Key takeways/Things to improve on:
  * forgot to put an email field push button on the last step of the quiz.
- * one of the text on most of the quiz frame seem to have a interaction that does nothing when it is suppose to have none.
- 
-All these evaluations allowed me to modify and perfect my prototype to the version you see above. 
+
+### Find the full evaluation and revision process [here](assignment6/high_fidelity.md)
+
+***All these evaluations allowed me to modify and perfect my prototype to the version you see above.*** 
 
 ## Pitch Video
 
