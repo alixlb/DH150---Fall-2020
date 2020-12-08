@@ -1,6 +1,10 @@
 # Fitness for All: Making Fitness Fun and Accessible at All Times 
 ### *Alix Le Boterff, Digital Humanities 150: UX/UI Design, Fall 2020*
 
+
+<img src="https://alixlb.github.io/DH150--Fitness-for-All/running.jpg" height="400px">
+
+
 ![people running](./running.jpg)
 
 ###### *Credits: RUN 4 FFWPU on Pexels*
