@@ -1,7 +1,8 @@
 # Fitness for All: Making Fitness Fun and Accessible at All Times 
 ### *Alix Le Boterff, Digital Humanities 150: UX/UI Design, Fall 2020*
 
-<img src="running" height="300px">
+![people running](./running.jpg)
+
 ###### *Credits: RUN 4 FFWPU on Pexels*
 
 ## About this Project
@@ -36,7 +37,8 @@ Both the YMCA 360 and Yoga for Beginners are easy and intuitive to navigate, mak
 
 After conducting a heuristic evaluation on my potential competitors, I realized multiple principles were being violated and I decided to look further into the YMCA 360 website and see how my target audience reacts when using it to perform simple tasks. I started by a pilot Usability Test and focused on 3 main tasks: playing a workout video, finding the FAQ, and using the favoring video function. My goal with this experiment was to see if my usability test material was effective and in term, better understand the usability experience of target users and their pain points.
 
-View the YMCA usability test pilot video [here](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)
+[![YMCA usability test pilot video](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)
+
 ### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
 This pilot usability testing aided me to better understand the point of view of my target audience as well as validate some of my previous assumptions I had made.
