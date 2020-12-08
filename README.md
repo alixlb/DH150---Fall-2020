@@ -72,7 +72,7 @@ I identified their needs, challenges and goals as well as created an empathy map
 
 Here is the example of June's persona and empathy map:
 |![june's persona](./assignment5/june_p.png)|![june's empathy map](./assignment5/june_em.png)|
-|--------------|----------|
+|-----------------------|-----------------------|
 
 ### Find the full personas and scenarios [here](assignment5/personas.md)
 
