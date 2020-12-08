@@ -77,7 +77,7 @@ I identified their needs, challenges and goals as well as created an empathy map
 Here is the example of June's persona and empathy map:
 
 |![june's persona](./assignment5/june_p.png)|![june's empathy map](./assignment5/june_em.png)|
-|-----------------------|-----------------------|
+|------------------|------------------|
 |**June's Persona**|**June's Empathy**|
 
 #### Find the full personas and scenarios [here](assignment5/personas.md)
@@ -131,6 +131,7 @@ Here are some of the most main frames of my website. They all have the same look
 **To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
 
 **Full interactive high-fidelity prototype**
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FO7fSlTmmPFmKkmCB7OhPwB%2F150-Final-Project-week-8%3Fnode-id%3D5%253A2989%26scaling%3Dcontain" allowfullscreen></iframe>
 
 #### Find the full High-Fidelity Prototype[here](assignment6/high_fidelity.md)
