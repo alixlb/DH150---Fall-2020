@@ -160,9 +160,11 @@ I asked a person in my target demographic to look over all 3 prototype for 20 se
 
 Here is the impression test:
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/preview" width="640" height="480"></iframe>
-</figure>
+<p align="center">
+  <figure class="video_container">
+    <iframe src="https://drive.google.com/file/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/preview" width="560" height="420"> </iframe>
+  </figure>
+</p>
 
 Overall, the participant liked prototype 2 the best and prototype 3 the least. She didn't like the monochromatic look and feel of the prototype 3 nore its more funky font. She also noted that the buttons were way to small for her or anyone her age and that it might be best to enlarge them. Overall protype 2 was the winner even thought she also did like the font and image on protype 1.
 
