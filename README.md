@@ -162,7 +162,7 @@ Here is the impression test:
 
 <p align="center">
   <figure class="video_container">
-    <iframe src="https://drive.google.com/file/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/preview" width="560" height="420"> </iframe>
+    <iframe src="https://drive.google.com/file/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/preview" width="560" height="420"></iframe>
   </figure>
 </p>
 
