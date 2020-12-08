@@ -101,7 +101,7 @@ In this wireframe, I tested out 4 tasks:
 After testing the wireframes & wireflow on a participant, I revised my wireframe and ended up with this low-fidelity prototype:
 
 <p align="center">
-<img src="https://alixlb.github.io/DH150--Fitness-for-All/wireframe_revised.png" height="300px">
+<img src="https://alixlb.github.io/DH150--Fitness-for-All/wireframe_revised.png" height="400px">
 </p>
 
 After testing the wireframe, I found multiple areas of confusion for the customer:
@@ -134,7 +134,7 @@ Here are some of the most main frames of my website. They all have the same look
 #### Wireframe
 
 <p align="center">
-<img src="https://alixlb.github.io/DH150--Fitness-for-All//assignment7/wireflow_final.png" height="400px">
+<img src="https://alixlb.github.io/DH150--Fitness-for-All//assignment7/wireflow_final.png" height="500px">
 </p>
 
 **To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
