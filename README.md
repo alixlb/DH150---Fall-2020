@@ -114,7 +114,7 @@ After testing the wireframe, I found multiple areas of confusion for the custome
 * What I had planned as a profile page, she saw as a page solely for **classes one was registered for.**
   * Solution: Through her confusion, I was reminded of the recall vs recognition heuristic principle and realize it might be more useful to keep this link to a profile page as simply that but add a icon (probably of a heart) on the naviagtion bar where people could easily access their favorite classes. 
 
-***From low-fidelity prototype, I was able to see if my website flow and functionalities will work as intended. I was then able to get feedback from user of how easy was the website main frames easy to navigate through. The user did find some pain points which was I was then able to rectify to create a seamless user expeirence. I know need to add the design and interactions by creating a high-fidelity prototype. ***
+***From low-fidelity prototype, I was able to see if my website flow and functionalities will work as intended. I was then able to get feedback from user of how easy was the website main frames easy to navigate through. The user did find some pain points which was I was then able to rectify to create a seamless user expeirence. I know need to add the design and interactions by creating a high-fidelity prototype.***
 
 ## High-Fidelity Prototype
 
