@@ -43,32 +43,37 @@ This pilot usability testing aided me to better understand the point of view of 
 *  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
 * The participant did find the website overall ***easy to use and didn’t require technical support*** to make it work but thought it ***could be better integrated.***
 
-From this competitor analysis, I realized the importance of creating not only an efficient user experience to access the workout videos but also a great experience for other important functions of the website such as finding the FAQ, login in, favoring a video etc.
+***From this competitor analysis, I realized the importance of creating not only an efficient user experience to access the workout videos but also a great experience for other important functions of the website such as finding the FAQ, login in, favoring a video etc. However, I was left wondering how my users would interact with the product during a typical workout.***
 
 ## User Research - Contextual Inquiry
 
-After conducting UT, I decide to expand pass competitors website and see how users look for fitness classes through the internet in general. I wanted to know how they started their research, what keywords they used and and what ultimately made them decided to go for a certain workout type/class. To do, so I set up a **participatory observation** where I asked the users questions about how they looked for workout classes online, and then watch then choose a class through online research and perform said workout. At the end, I asked them whether or not they were satisfied with the workout and the process in general. I told them not to go for website they usually go for straight away (as they have them saved) but start fresh looking on the internet. 
+After conducting UT, I decide to expand past my competitors websites and see how users look for fitness classes through the internet in general. I wanted to know how they started their research, what keywords they used and and what ultimately made them decided to go for a certain workout type/class. To do so, I set up a **participatory observation** where I asked the participant questions about how they looked for workout classes online, and then watch them choose a class through online research and perform said workout. At the end, I asked them whether or not they were satisfied with the workout and the process in general. I told them not to go for website they usually go for straight away (as they have them saved) but start fresh looking on the internet. 
 
 ### Find the full contextual inquiry [here](assignment3/contextual.md)
 
-During the interview, the user did feel very frustrated when doing the tasks and left dissatified. Her responces proved the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for the use. Here are the key insights gathered from this contextual inquiry:
+During the interview, the user did feel very frustrated when doing the tasks and left dissatified. Her responces proved the need for a project like mine that allows to streamline the search process and make the experience efficent and stress-free for them to use. Here are the key insights gathered from this contextual inquiry:
 * Experience is **overwhelming and takes too long**
 * Friends opinion & **social aspect of working out** matter a lot.
-* **Too much information online/lack of filters** makes the research frustrating at times.
+* **Too much information online/lack of filters** maked the research frustrating.
 * **Price matters.** 
-* Users look at **pictures of the workout** as a way to guage what the workout will be like. 
+* Users look at **pictures of the workout** as a way to gauge what the workout will be like. 
+
+***From this contextual inquiry, I was able to better view how my target audience tried to search for a workout and performed one and mark their pain points along the way. I realized that the whole experience can be quite frustrating and that having a trusted site with filters would allow to streamline the process efficently. After doing so much research on competitors website, I felt that it was time to take in all the insights I gathered and created personas of users that would use my website.***
 
 ## UX Storytelling - User Personas & Scenarios
 
-UX Storytelling reminds the researchers and designers that the experience must be user-centered. By think no longer websites based on heuristic principles and user interviews as data points, UX storytelling allows researcher to reflect on the underlying feeling and desires that users may have when completing the task and assuring that those are being satisfied by the results of the project. By creating personas, I will be able to think as the target users more generally and understand better how the current system in place does not meet their goals.
+UX storytelling reminds the researchers and designers that the experience must be user-centered. By no longer thinking of websites through on heuristic principles and competitors analysis, UX storytelling allows researcher to reflect on the underlying feelings and desires that users may have when completing tasks and ensuring that those are being satisfied by the project. By creating personas, I will be able to think as the target users more generally and understand better how the current system in place does not meet their goals.
 
 During my research, I created 3 personas: **June - the recent retiree  :family_woman_girl_boy:   , Mary - the social butterfly :butterfly:         & Evalyn - the busy bee  :honeybee:  .**
 
 I identified their needs, challenges and goals as well as created an empathy map to better understand how they felt during the process. I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
 
+Here is the example of June's persona and empathy map:
+|![june's persona](./assignment5/june_p.png)|![june's empathy map](./assignment5/june_em.png)|
+|--------------|----------|
 ### Find the full personas and scenarios [here](assignment5/personas.md)
 
- From this research, I was able to understand how my project should focus on **resolving any frustration in the fitness process my user had (user-centric approach).** Additionally, it reaffirms the validity of the needs for more **filters, a quiz and a social component in fitness apps which is the key features of my project.**
+***From UX storytelling, I was able to understand how my project should focus on resolving any frustration in the fitness process my user had (user-centric approach). Additionally, it reaffirms the needs for more filters, a quiz and a social component in fitness apps which are the key features of my project. I now wanted to put all this information to use and start prototyping the basic functions of my website.***
 
 ## Low-Fidelity Prototype
 
