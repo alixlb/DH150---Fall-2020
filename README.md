@@ -37,7 +37,11 @@ Both the YMCA 360 and Yoga for Beginners are easy and intuitive to navigate, mak
 
 After conducting a heuristic evaluation on my potential competitors, I realized multiple principles were being violated and I decided to look further into the YMCA 360 website and see how my target audience reacts when using it to perform simple tasks. I started by a pilot Usability Test and focused on 3 main tasks: playing a workout video, finding the FAQ, and using the favoring video function. My goal with this experiment was to see if my usability test material was effective and in term, better understand the usability experience of target users and their pain points.
 
-[![YMCA usability test pilot video](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)
+Here is the usability test:
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 #### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
@@ -71,8 +75,10 @@ During my research, I created 3 personas: **June - the recent retiree  :family_w
 I identified their needs, challenges and goals as well as created an empathy map to better understand how they felt during the process. I then used this new found understanding of my audience to create scenarios about how my key design features would help them solve any frustration they may have had during that process. 
 
 Here is the example of June's persona and empathy map:
+
 |![june's persona](./assignment5/june_p.png)|![june's empathy map](./assignment5/june_em.png)|
 |-----------------------|-----------------------|
+|**June's Persona**|**June's Empathy**|
 
 #### Find the full personas and scenarios [here](assignment5/personas.md)
 
@@ -142,7 +148,11 @@ My decision making process took place in multiple steps. I first decided to crea
 ### Impression test
 I asked a person in my target demographic to look over all 3 prototype for 20 seconds each while saying out loud what they like and dislike about each. I then asked them their favorite and any other feed back they may have.
 
-To view the impression test click [here](https://drive.google.com/file/u/1/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/view?usp=sharing)
+Here is the impression test:
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/u/1/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Overall, the participant liked prototype 2 the best and prototype 3 the least. She didn't like the monochromatic look and feel of the prototype 3 nore its more funky font. She also noted that the buttons were way to small for her or anyone her age and that it might be best to enlarge them. Overall protype 2 was the winner even thought she also did like the font and image on protype 1.
 
