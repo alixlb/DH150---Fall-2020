@@ -21,27 +21,27 @@ Based on the research below, I decided to create 3 design features that will hel
 ## Competitor Analysis
 
 ### Heuristic evaluation
-The first step of the project was to look at websites focused on the same subject as this project,fitness, and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups. I also choose the app, [Yoga For Beginners](https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
+The first step of the project was to look at websites focused on the same subject as this projec and see how they pass the Nielson's 10 Heuristic evaluation. Because of my topic and my audience, I choose to evaluate the website of the YMCA for online exercise classes, [YMCA 360](https://ymca360.org/on-demand), that sources videos from their gyms across the country and tries to meet the needs of all age groups as well as the app, [Yoga For Beginners](https://apps.apple.com/us/app/yoga-for-beginners-mind-body/id1382141225), that offers free yoga courses as well as detailed explanations of each pose. 
 
 ![competitors used for heuristic evaluation](./competitors.png)
 
 ### Find the full evaluation [here](assignment1/heuristicevaluation.md)
 
-Both the YMCA 360 and Yoga for Beginners are easy and intuitive to navigate through, making users instantly feel in control. However, both have some serious heuristic violations that make part of the user experience confusing and uncomfortable. As the goal of my project is to promote healthy fitness habits from middle-age women by making it easy and enticing to them, I have marked a couple point that truly stood out during this evaluation:
-* It is important not to use fitness jargon. Instead, to meet the criteria of heuristic principle 2, ***Match between system and real world***, titles and descriptions of workouts should focus more on the benefits they bring and how they may fulfill the needs the user may feel they have when it comes to working out (legs strengthen, destress, cardio, arm workout etc)
-* Secondly the user needs to be in control, heuristic principle 3, ***User Control and freedom***. Especially during the workout, the user must be able to pause, play, rewind, slow down the video all while being able to leave easily. This will allow the user to not feel pressure to get the movement right on the spot or to not take any breaks. It is important that everyone be able to go at their own rhythm so they can have fun.
-* Finally, it is crucial to have proper documentation (FAQ) and, heuristic principle 10 - ***Help and documentation***, contact forms to get feedback. Especially with first time or less tech-savvy users, it is crucial to have a clear help guide accessible from all pages to help them truly understand how the platform works and how to achieve their goals. 
+Both the YMCA 360 and Yoga for Beginners are easy and intuitive to navigate, making users feel instantly in control. However, they also have some serious heuristic violations making part of the user experience confusing and uncomfortable. As the goal of my project is to promote healthy fitness habits from middle-age women by making it easy and enticing to them, I have marked a couple point that truly stood out during this evaluation:
+* It is important not to use fitness jargon. Instead, to meet the heuristic principle #2, ***Match between system and real world***, titles and descriptions of workouts should focus more on the benefits they bring and how they may fulfill the user's needs (e.g. legs strengthen, destress, cardio, arm workout etc)
+* Secondly the user needs to be in control, heuristic principle #3 - ***User Control and freedom***. Especially during the workout, the user must be able to pause, play, rewind, slow down the video all while being able to leave easily. This will allow the user to not feel pressure to get the movement right on the spot or to not take any breaks. It is important that everyone be able to go at their own rhythm so they can have fun.
+* Finally, it is crucial to have proper documentation (FAQ) and as the heuristic principle #10 - ***Help and documentation*** says contact forms to get feedback. Especially with first time or less tech-savvy users, websites need a clear help guide accessible from all pages to help users truly understand how the platform works and how to achieve their goals. 
 
 ### Usability Testing
 
-After conducting a heuristic evaluation on it, I realized multiple principles were being violated and I decided to look further into this website and see how my target audience reacts when using it to perform simple tasks. I started by a pilot Usability Test and focused on 3 main tasks:playing a workout video,finding the FAQ, using the favoring video function.My goal with this experiment was to see if my Usability Test material was effective and in term better understand the usability experience of target users to then utilise those finding on my website.
+After conducting a heuristic evaluation on my potential competitors, I realized multiple principles were being violated and I decided to look further into the YMCA 360 website and see how my target audience reacts when using it to perform simple tasks. I started by a pilot Usability Test and focused on 3 main tasks: playing a workout video, finding the FAQ, and using the favoring video function. My goal with this experiment was to see if my usability test material was effective and in term, better understand the usability experience of target users and their pain points.
 
-![competitor used for pilot usability testing](./y360logo.jpg)
+View the YMCA usability test pilot video [here](https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/view?usp=sharing)
 ### Find the full usability testing [here](assignment2/usabilitytesting.md)
 
-This pilot usability testing aided me to fully understand the point of view of my target audience as well as validate some of my previous assumptions I made after the heuristic evaluation.
+This pilot usability testing aided me to better understand the point of view of my target audience as well as validate some of my previous assumptions I had made.
 *  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
-* The participant did find the website overall ***easy to use and doesn’t require technical support*** to make it work but ***can be better integrated.***
+* The participant did find the website overall ***easy to use and didn’t require technical support*** to make it work but thought it ***could be better integrated.***
 
 From this competitor analysis, I realized the importance of creating not only an efficient user experience to access the workout videos but also a great experience for other important functions of the website such as finding the FAQ, login in, favoring a video etc.
 
