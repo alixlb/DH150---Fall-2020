@@ -183,6 +183,7 @@ All these evaluations allowed me to **modify and perfect my prototype** to the v
 
 <iframe src="https://drive.google.com/file/d/17bJTGIZ9sqvKK7RzSHcg58Sh3sKVUrco/preview" width="640" height="480"></iframe>
 
+## Watch pitch video [here](https://drive.google.com/file/d/17bJTGIZ9sqvKK7RzSHcg58Sh3sKVUrco/view?usp=sharing)
 
 ## Conclusion of the project
 
