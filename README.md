@@ -100,9 +100,8 @@ In this wireframe, I tested out 4 tasks:
 
 After testing the wireframes & wireflow on a participant, I revised my wireframe and ended up with this low-fidelity prototype:
 
-<p align="center">
 <img src="https://alixlb.github.io/DH150--Fitness-for-All/wireframe_revised.png" height="400px">
-</p>
+
 
 After testing the wireframe, I found multiple areas of confusion for the customer:
 * **The interaction sequence** was unclear and lacked arrows or more obvious pathways.
@@ -133,9 +132,7 @@ Here are some of the most main frames of my website. They all have the same look
 
 #### Wireframe
 
-<p align="center">
 <img src="https://alixlb.github.io/DH150--Fitness-for-All//assignment7/wireflow_final.png" height="500px">
-</p>
 
 **To view the prototype wireflow on figma click [here](https://www.figma.com/file/O7fSlTmmPFmKkmCB7OhPwB/150-Final-Project-week-8?node-id=0%3A1)
 
@@ -160,11 +157,9 @@ I asked a person in my target demographic to look over all 3 prototype for 20 se
 
 Here is the impression test:
 
-<p align="center">
   <figure class="video_container">
     <iframe src="https://drive.google.com/file/d/1aNxks7jcqvUBDn16wcsvn9CurTiZAMTS/preview" width="560" height="420"></iframe>
   </figure>
-</p>
 
 Overall, the participant liked prototype 2 the best and prototype 3 the least. She didn't like the monochromatic look and feel of the prototype 3 nore its more funky font. She also noted that the buttons were way to small for her or anyone her age and that it might be best to enlarge them. Overall protype 2 was the winner even thought she also did like the font and image on protype 1.
 
@@ -185,9 +180,9 @@ All these evaluations allowed me to **modify and perfect my prototype** to the v
 
 ## Pitch Video 
 
-<p align="center">
+
 <iframe src="https://drive.google.com/file/d/17bJTGIZ9sqvKK7RzSHcg58Sh3sKVUrco/preview" width="640" height="480"></iframe>
-</p>
+
 
 ## Conclusion of the project
 
